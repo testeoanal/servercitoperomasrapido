@@ -3526,3 +3526,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [28Nov2024 01:51:32.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Nov2024 01:51:32.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Nov2024 01:54:07.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no entra nadie hijos de puta
+[28Nov2024 01:56:32.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 01:56:32.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 01:56:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[28Nov2024 02:01:32.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:01:32.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
