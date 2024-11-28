@@ -3536,3 +3536,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [28Nov2024 02:09:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] entonces pa quee piden que lo abra
 [28Nov2024 02:11:32.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Nov2024 02:11:32.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:16:32.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:16:32.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:21:32.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:21:32.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
