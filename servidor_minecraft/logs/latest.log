@@ -577,3 +577,10 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 03:53:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> la mesa basica y consegui un arma en un cofre en mineshaft
 [29Nov2024 03:53:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> god
 [29Nov2024 03:53:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [A Seedy Place]
+[29Nov2024 03:56:53.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Getting an Upgrade]
+[29Nov2024 03:57:53.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Hot Stuff]
+[29Nov2024 03:59:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> bye papus
+[29Nov2024 03:59:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> caho
+[29Nov2024 03:59:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> chao*
+[29Nov2024 03:59:57.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[29Nov2024 03:59:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
