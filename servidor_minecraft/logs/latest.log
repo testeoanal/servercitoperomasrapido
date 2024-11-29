@@ -551,3 +551,29 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 03:29:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> xdddd
 [29Nov2024 03:36:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Skeleton
 [29Nov2024 03:41:41.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Cover Me with Diamonds]
+[29Nov2024 03:45:10.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:57408] logged in with entity id 21848 at (-1.5, 69.0, -193.5)
+[29Nov2024 03:45:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[29Nov2024 03:45:10.982] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
+[29Nov2024 03:46:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> wenas
+[29Nov2024 03:46:14.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> oaaaaa
+[29Nov2024 03:46:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> como les ha ido el server?
+[29Nov2024 03:46:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> :potfriend:
+[29Nov2024 03:46:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> bien
+[29Nov2024 03:46:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> muy bien
+[29Nov2024 03:46:46.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21849, l='ServerLevel[world]', x=-2.30, y=64.00, z=-190.30] died, message: 'Unemployed was slain by Zombie'
+[29Nov2024 03:50:42.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Monster Hunter]
+[29Nov2024 03:51:33.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> consigan scrap
+[29Nov2024 03:51:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> cuanto?
+[29Nov2024 03:51:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> ya tienen?
+[29Nov2024 03:51:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> para las armas vdd?
+[29Nov2024 03:52:00.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> sí
+[29Nov2024 03:52:14.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> se consigue facil en las minas
+[29Nov2024 03:52:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeRido8> te da de dos en dos
+[29Nov2024 03:52:44.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> ya tienen mochilas
+[29Nov2024 03:52:46.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> ?
+[29Nov2024 03:52:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ya tengo scrap
+[29Nov2024 03:52:55.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeRido8 lost connection: Disconnected
+[29Nov2024 03:52:55.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 left the game
+[29Nov2024 03:53:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> la mesa basica y consegui un arma en un cofre en mineshaft
+[29Nov2024 03:53:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> god
+[29Nov2024 03:53:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [A Seedy Place]
