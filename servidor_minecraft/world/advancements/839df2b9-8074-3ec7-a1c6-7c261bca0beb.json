@@ -1087,5 +1087,17 @@
     },
     "done": true
   },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2024-11-29 04:34:16 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2024-11-29 04:34:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
