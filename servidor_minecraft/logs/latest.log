@@ -589,3 +589,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 04:09:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Isn't It Iron Pick]
 [29Nov2024 04:11:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Suit Up]
 [29Nov2024 04:11:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [False Water]
+[29Nov2024 04:23:12.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 drowned
