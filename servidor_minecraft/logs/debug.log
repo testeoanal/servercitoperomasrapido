@@ -4291,3 +4291,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 03:59:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
 [29Nov2024 04:03:57.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Nov2024 04:03:57.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 04:07:37.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21877, l='ServerLevel[world]', x=-51.34, y=68.00, z=-181.50] died, message: 'Unemployed was slain by Zombie'
+[29Nov2024 04:08:57.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 04:08:57.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 04:09:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Acquire Hardware]
+[29Nov2024 04:09:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Isn't It Iron Pick]
+[29Nov2024 04:11:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Suit Up]
+[29Nov2024 04:11:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [False Water]
+[29Nov2024 04:13:57.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 04:13:57.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
