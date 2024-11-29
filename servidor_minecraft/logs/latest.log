@@ -499,3 +499,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 22:41:13.804] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [29Nov2024 22:41:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
 [29Nov2024 22:47:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pene
+[29Nov2024 22:51:04.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:52842] logged in with entity id 194 at (4.699999988079071, 67.0, -232.6159098079834)
+[29Nov2024 22:51:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[29Nov2024 22:51:05.068] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
+[29Nov2024 22:54:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Not Today, Thank You]
+[29Nov2024 22:55:43.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 was blown up by Creeper
