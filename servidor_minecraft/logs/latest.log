@@ -6,3 +6,9 @@
 [30Nov2024 02:01:34.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131, l='ServerLevel[world]', x=10.56, y=61.94, z=-161.30] died, message: 'Unemployed was slain by Zombie'
 [30Nov2024 02:01:36.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/130, l='ServerLevel[world]', x=6.30, y=60.00, z=-159.70] died, message: 'Unemployed was slain by Zombie'
 [30Nov2024 02:13:11.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> pene
+[30Nov2024 02:43:35.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 was slain by Zombie
+[30Nov2024 02:43:56.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: super03 lost connection: Timed out
+[30Nov2024 02:43:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 left the game
+[30Nov2024 02:44:16.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:53996] logged in with entity id 34267 at (4.5, 67.0, -232.5)
+[30Nov2024 02:44:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[30Nov2024 02:44:16.105] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
