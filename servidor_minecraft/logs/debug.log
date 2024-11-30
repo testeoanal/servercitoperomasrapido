@@ -4112,3 +4112,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [29Nov2024 23:56:13.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Nov2024 00:00:42.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: incremento_ lost connection: Timed out
 [30Nov2024 00:00:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: incremento_ left the game
+[30Nov2024 00:01:13.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:01:13.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:06:13.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:06:13.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:07:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Diamonds!]
