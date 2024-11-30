@@ -2,3 +2,6 @@
 [30Nov2024 00:00:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: incremento_ left the game
 [30Nov2024 00:07:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Diamonds!]
 [30Nov2024 00:42:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Full Moon in a Pocket]
+[30Nov2024 02:01:33.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/956, l='ServerLevel[world]', x=6.30, y=60.00, z=-158.30] died, message: 'Unemployed was slain by Zombie'
+[30Nov2024 02:01:34.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131, l='ServerLevel[world]', x=10.56, y=61.94, z=-161.30] died, message: 'Unemployed was slain by Zombie'
+[30Nov2024 02:01:36.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/130, l='ServerLevel[world]', x=6.30, y=60.00, z=-159.70] died, message: 'Unemployed was slain by Zombie'
