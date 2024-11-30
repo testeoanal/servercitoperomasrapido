@@ -23,3 +23,20 @@
 [30Nov2024 03:32:25.256] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
 [30Nov2024 03:33:01.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Timed out
 [30Nov2024 03:33:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[30Nov2024 03:33:25.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:63321] logged in with entity id 40608 at (9.5, 95.0, -1.5)
+[30Nov2024 03:33:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[30Nov2024 03:33:25.801] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[30Nov2024 03:34:01.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Timed out
+[30Nov2024 03:34:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[30Nov2024 03:34:28.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:63348] logged in with entity id 40825 at (9.5, 95.0, -1.5)
+[30Nov2024 03:34:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[30Nov2024 03:34:28.798] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[30Nov2024 03:35:04.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Timed out
+[30Nov2024 03:35:04.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[30Nov2024 03:35:18.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:63359] logged in with entity id 41007 at (9.5, 95.0, -1.5)
+[30Nov2024 03:35:18.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[30Nov2024 03:35:18.999] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[30Nov2024 03:35:32.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [super03: Teleported zelev555 to super03]
+[30Nov2024 03:36:59.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Disconnected
+[30Nov2024 03:36:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[30Nov2024 03:36:59.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 was slain by super03
