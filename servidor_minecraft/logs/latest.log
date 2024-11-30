@@ -40,3 +40,13 @@
 [30Nov2024 03:36:59.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Disconnected
 [30Nov2024 03:36:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
 [30Nov2024 03:36:59.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 was slain by super03
+[30Nov2024 04:01:07.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev05[/100.66.243.92:63615] logged in with entity id 44164 at (9.5, 90.0, -7.5)
+[30Nov2024 04:01:07.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 joined the game
+[30Nov2024 04:01:07.107] [Server thread/INFO] [Jade/]: Syncing config to zelev05 (d537682e-40d3-36bf-88bb-68a1f57a3f71)
+[30Nov2024 04:01:36.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev05 lost connection: Timed out
+[30Nov2024 04:01:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 left the game
+[30Nov2024 04:02:30.310] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64925115[id=<null>,name=zelev05,properties={},legacy=false] (/100.66.243.92:63622) lost connection: Disconnected
+[30Nov2024 04:02:39.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev05[/100.66.243.92:63624] logged in with entity id 44439 at (9.5, 90.0, -7.5)
+[30Nov2024 04:02:39.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 joined the game
+[30Nov2024 04:02:39.452] [Server thread/INFO] [Jade/]: Syncing config to zelev05 (d537682e-40d3-36bf-88bb-68a1f57a3f71)
+[30Nov2024 04:03:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [super03: Teleported super03 to zelev05]
