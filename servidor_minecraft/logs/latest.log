@@ -50,3 +50,20 @@
 [30Nov2024 04:02:39.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 joined the game
 [30Nov2024 04:02:39.452] [Server thread/INFO] [Jade/]: Syncing config to zelev05 (d537682e-40d3-36bf-88bb-68a1f57a3f71)
 [30Nov2024 04:03:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [super03: Teleported super03 to zelev05]
+[30Nov2024 04:05:03.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev05 was kicked for floating too long!
+[30Nov2024 04:05:04.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev05 lost connection: Flying is not enabled on this server
+[30Nov2024 04:05:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 left the game
+[30Nov2024 04:07:20.157] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76a37620[id=<null>,name=zelev05,properties={},legacy=false] (/100.66.243.92:63646) lost connection: Disconnected
+[30Nov2024 04:08:02.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev05[/100.66.243.92:63648] logged in with entity id 45398 at (20.00928383778641, 79.9140114523433, -24.145726703447114)
+[30Nov2024 04:08:02.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 joined the game
+[30Nov2024 04:08:02.243] [Server thread/INFO] [Jade/]: Syncing config to zelev05 (d537682e-40d3-36bf-88bb-68a1f57a3f71)
+[30Nov2024 04:10:20.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev05 was kicked for floating too long!
+[30Nov2024 04:10:20.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev05 lost connection: Flying is not enabled on this server
+[30Nov2024 04:10:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 left the game
+[30Nov2024 04:10:51.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev05[/100.66.243.92:63664] logged in with entity id 46058 at (15.559832225892144, 70.76636799395752, -27.700684310688956)
+[30Nov2024 04:10:51.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 joined the game
+[30Nov2024 04:10:51.661] [Server thread/INFO] [Jade/]: Syncing config to zelev05 (d537682e-40d3-36bf-88bb-68a1f57a3f71)
+[30Nov2024 04:12:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 was blown up by Creeper
+[30Nov2024 04:13:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev05 was killed
+[30Nov2024 04:13:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [super03: Killed zelev05]
+[30Nov2024 04:13:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [super03: Teleported zelev05 to super03]
