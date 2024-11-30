@@ -4128,3 +4128,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Nov2024 00:31:13.815] [Server thread/DEBUG] [mixin/]: Mixing entities.MerchantOfferAccessor from repurposed_structures-common.mixins.json into net.minecraft.world.item.trading.MerchantOffer
 [30Nov2024 00:31:13.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Nov2024 00:31:13.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:36:13.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:36:13.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:41:13.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:41:13.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
