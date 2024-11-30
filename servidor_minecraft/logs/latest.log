@@ -18,3 +18,8 @@
 [30Nov2024 03:13:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> por fin
 [30Nov2024 03:14:21.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Disconnected
 [30Nov2024 03:14:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[30Nov2024 03:32:25.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:63295] logged in with entity id 40376 at (9.5, 95.0, -1.5)
+[30Nov2024 03:32:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[30Nov2024 03:32:25.256] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[30Nov2024 03:33:01.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Timed out
+[30Nov2024 03:33:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
