@@ -4117,3 +4117,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Nov2024 00:06:13.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Nov2024 00:06:13.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Nov2024 00:07:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 has made the advancement [Diamonds!]
+[30Nov2024 00:11:13.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:11:13.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 00:16:13.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:16:13.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
