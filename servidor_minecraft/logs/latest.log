@@ -536,3 +536,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 01:55:49.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14432, l='ServerLevel[world]', x=189.50, y=71.00, z=389.50]
 [01Dec2024 01:56:26.159] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14687, l='ServerLevel[world]', x=204.50, y=77.00, z=402.50]
 [01Dec2024 01:58:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Mine? Mine? Mine?]
+[01Dec2024 02:06:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
+[01Dec2024 02:09:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:12:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 blew up
