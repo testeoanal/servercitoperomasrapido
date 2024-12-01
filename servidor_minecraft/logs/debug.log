@@ -4033,3 +4033,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 01:54:03.349] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(5) Nodes and 5(0) Rooms
 [01Dec2024 01:54:03.349] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [01Dec2024 01:54:03.349] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[01Dec2024 01:55:31.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:55:31.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 01:55:49.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14432, l='ServerLevel[world]', x=189.50, y=71.00, z=389.50]
+[01Dec2024 01:56:26.159] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14687, l='ServerLevel[world]', x=204.50, y=77.00, z=402.50]
+[01Dec2024 01:56:47.198] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=124, y=65, z=329}) doesn't have enough leaves around top most log
+[01Dec2024 01:56:48.270] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=124, y=64, z=329}) doesn't have enough leaves around top most log
+[01Dec2024 01:56:49.472] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=124, y=66, z=329}) doesn't have enough leaves around top most log
+[01Dec2024 01:58:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Mine? Mine? Mine?]
+[01Dec2024 02:00:31.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:00:31.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
