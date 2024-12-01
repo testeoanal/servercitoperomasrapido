@@ -4050,3 +4050,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 02:10:31.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 02:10:31.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 02:12:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 blew up
+[01Dec2024 02:15:06.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> cuidado con los aldeanos
+[01Dec2024 02:15:31.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:15:31.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 02:16:39.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[01Dec2024 02:16:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[01Dec2024 02:20:31.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:20:31.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 02:23:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Pillager
+[01Dec2024 02:24:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
