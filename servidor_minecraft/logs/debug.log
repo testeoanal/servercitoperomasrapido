@@ -4283,3 +4283,11 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 02:40:31.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 02:42:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
 [01Dec2024 02:42:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
+[01Dec2024 02:45:31.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:45:31.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 02:46:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vex
+[01Dec2024 02:47:13.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vex
+[01Dec2024 02:47:50.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeRido8 lost connection: Disconnected
+[01Dec2024 02:47:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 left the game
+[01Dec2024 02:50:31.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:50:31.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
