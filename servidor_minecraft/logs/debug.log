@@ -4059,3 +4059,17 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 02:20:31.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 02:23:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Pillager
 [01Dec2024 02:24:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:25:20.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vex
+[01Dec2024 02:25:27.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeRido8 moved too quickly! -0.29515494883932547,-1.107312420399019,10.158973589260327
+[01Dec2024 02:25:31.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:25:31.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 02:26:06.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:26:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:27:34.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Pillager
+[01Dec2024 02:28:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
+[01Dec2024 02:29:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Suit Up]
+[01Dec2024 02:30:31.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 02:30:31.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 02:31:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
+[01Dec2024 02:33:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:34:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 drowned
