@@ -3955,3 +3955,35 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 01:31:59.108] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4170, l='ServerLevel[world]', x=220.50, y=76.00, z=396.50]
 [01Dec2024 01:32:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Crocodile
 [01Dec2024 01:33:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> Xd
+[01Dec2024 01:35:24.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5800, l='ServerLevel[world]', x=188.50, y=74.00, z=385.50]
+[01Dec2024 01:35:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Voluntary Exile]
+[01Dec2024 01:35:31.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:35:31.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 01:36:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Pillager
+[01Dec2024 01:36:44.230] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (564 | 39 | -332).
+[01Dec2024 01:36:44.232] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Dec2024 01:36:44.235] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[01Dec2024 01:36:44.235] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Dec2024 01:36:44.235] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[01Dec2024 01:36:44.235] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Dec2024 01:36:44.236] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 6(0) Rooms
+[01Dec2024 01:36:44.236] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Dec2024 01:36:44.236] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 4(0) Rooms
+[01Dec2024 01:36:44.236] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Dec2024 01:36:44.236] [Worker-Main-16/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[01Dec2024 01:37:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Crocodile
+[01Dec2024 01:38:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Take Aim]
+[01Dec2024 01:38:20.708] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7599, l='ServerLevel[world]', x=188.50, y=71.00, z=389.50]
+[01Dec2024 01:38:26.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7620, l='ServerLevel[world]', x=181.50, y=70.00, z=401.50]
+[01Dec2024 01:38:49.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Ghoul
+[01Dec2024 01:38:52.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Chompy]
+[01Dec2024 01:38:59.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Crocodile
+[01Dec2024 01:40:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Stay dead]
+[01Dec2024 01:40:31.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 01:40:31.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 01:40:40.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8916, l='ServerLevel[world]', x=219.50, y=76.00, z=394.50]
+[01Dec2024 01:40:54.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8991, l='ServerLevel[world]', x=203.50, y=77.00, z=400.50]
+[01Dec2024 01:40:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was shot by Pillager
+[01Dec2024 01:40:55.157] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8996, l='ServerLevel[world]', x=181.50, y=70.00, z=403.50]
+[01Dec2024 01:43:00.109] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10003, l='ServerLevel[world]', x=162.50, y=74.00, z=392.50]
+[01Dec2024 01:44:40.330] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=138, y=77, z=314}) doesn't have enough leaves around top most log
