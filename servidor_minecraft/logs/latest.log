@@ -495,3 +495,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 01:20:43.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:50484] logged in with entity id 205 at (156.14228989932863, 64.0, 80.35170592449714)
 [01Dec2024 01:20:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [01Dec2024 01:20:43.663] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[01Dec2024 01:26:46.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MikeRido8[/100.75.100.47:55887] logged in with entity id 920 at (99.26993227129691, 71.0, -44.69764467010627)
+[01Dec2024 01:26:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 joined the game
+[01Dec2024 01:26:46.193] [Server thread/INFO] [Jade/]: Syncing config to MikeRido8 (23f4d424-798c-3fcd-9049-943799b605a7)
+[01Dec2024 01:27:08.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeRido8 moved too quickly! 4.480160151715282,-5.0,-7.514340958004439
+[01Dec2024 01:31:36.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3960, l='ServerLevel[world]', x=202.50, y=77.00, z=400.50]
+[01Dec2024 01:31:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [False Water]
+[01Dec2024 01:31:59.108] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4170, l='ServerLevel[world]', x=220.50, y=76.00, z=396.50]
+[01Dec2024 01:32:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Crocodile
+[01Dec2024 01:33:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> Xd
