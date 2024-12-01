@@ -2134,6 +2134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-01 03:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-01 02:53:37 +0000"
