@@ -554,3 +554,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 02:31:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
 [01Dec2024 02:33:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
 [01Dec2024 02:34:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 drowned
+[01Dec2024 02:35:31.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:50885] logged in with entity id 28419 at (155.58134514973892, 64.0, 83.05366315380653)
+[01Dec2024 02:35:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[01Dec2024 02:35:31.317] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[01Dec2024 02:36:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:37:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:37:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Ravager
+[01Dec2024 02:38:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 has made the advancement [Ol' Betsy]
+[01Dec2024 02:42:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator
+[01Dec2024 02:42:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeRido8 was slain by Vindicator

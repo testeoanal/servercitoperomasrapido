@@ -103,9 +103,11 @@
     "criteria": {
       "cooked_mutton": "2024-12-01 01:48:19 +0000",
       "cooked_beef": "2024-12-01 01:50:55 +0000",
+      "potato": "2024-12-01 02:40:29 +0000",
       "mutton": "2024-11-29 02:41:58 +0000",
       "bread": "2024-11-29 02:45:52 +0000",
-      "rotten_flesh": "2024-11-29 02:45:13 +0000"
+      "rotten_flesh": "2024-11-29 02:45:13 +0000",
+      "carrot": "2024-12-01 02:31:19 +0000"
     },
     "done": false
   },
@@ -573,9 +575,11 @@
       "minecraft:vindicator": "2024-12-01 02:02:17 +0000",
       "minecraft:spider": "2024-12-01 01:54:09 +0000",
       "minecraft:creeper": "2024-11-29 02:50:33 +0000",
+      "minecraft:evoker": "2024-12-01 02:38:45 +0000",
       "minecraft:witch": "2024-12-01 02:20:43 +0000",
       "minecraft:cave_spider": "2024-11-29 03:04:36 +0000",
-      "minecraft:zombie": "2024-11-29 02:49:36 +0000"
+      "minecraft:zombie": "2024-11-29 02:49:36 +0000",
+      "minecraft:zombie_villager": "2024-12-01 02:31:46 +0000"
     },
     "done": false
   },
@@ -1699,6 +1703,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-01 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-01 02:38:34 +0000"
     },
     "done": true
   },
