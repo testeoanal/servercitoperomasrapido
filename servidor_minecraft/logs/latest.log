@@ -573,3 +573,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [01Dec2024 03:08:49.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> que
 [01Dec2024 03:50:15.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
 [01Dec2024 03:50:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[01Dec2024 04:30:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 04:30:08.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 04:30:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 04:30:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 04:30:08.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 04:30:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Dec2024 04:30:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 04:30:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 04:30:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 04:30:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Dec2024 04:30:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 04:30:08.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 04:30:08.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Dec2024 04:30:08.477] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Dec2024 04:30:08.480] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
