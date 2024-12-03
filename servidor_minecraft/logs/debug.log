@@ -4046,3 +4046,11 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Dec2024 23:10:09.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 23:15:09.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 23:15:09.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:20:09.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:20:09.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:23:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> tetas
+[03Dec2024 23:23:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> teiticaas
+[03Dec2024 23:23:08.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> tetazas
+[03Dec2024 23:24:02.206] [Server thread/DEBUG] [mixin/]: Mixing entities.MerchantOfferAccessor from repurposed_structures-common.mixins.json into net.minecraft.world.item.trading.MerchantOffer
+[03Dec2024 23:25:09.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:25:09.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

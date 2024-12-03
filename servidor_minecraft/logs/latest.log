@@ -504,3 +504,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Dec2024 23:00:54.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:63889] logged in with entity id 269 at (67.8158568200741, 64.0, -89.45575807705104)
 [03Dec2024 23:00:54.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
 [03Dec2024 23:00:54.405] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
+[03Dec2024 23:23:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> tetas
+[03Dec2024 23:23:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> teiticaas
+[03Dec2024 23:23:08.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <super03> tetazas
