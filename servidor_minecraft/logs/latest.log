@@ -500,3 +500,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Dec2024 17:49:57.087] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
 [03Dec2024 17:50:01.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [03Dec2024 17:51:39.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=62, z=-91} BlockPos{x=38, y=60, z=-91}
+[03Dec2024 17:57:49.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: super03 moved too quickly! -3.1702180530696182,0.0,9.598972244737354
+[03Dec2024 17:59:57.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: super03 lost connection: Timed out
+[03Dec2024 17:59:57.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 left the game
+[03Dec2024 18:01:07.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:57703] logged in with entity id 2620 at (184.6907161741311, 66.0, 112.78206183256847)
+[03Dec2024 18:01:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[03Dec2024 18:01:07.678] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
