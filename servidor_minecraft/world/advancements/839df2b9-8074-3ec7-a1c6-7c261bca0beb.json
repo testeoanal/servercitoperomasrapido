@@ -1941,5 +1941,23 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2024-12-03 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2024-12-03 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2024-12-03 23:07:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
