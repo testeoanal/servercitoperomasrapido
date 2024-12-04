@@ -1,1 +1,12 @@
 [04Dec2024 00:01:00.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/304, l='ServerLevel[world]', x=-4.30, y=51.00, z=-231.30] died, message: 'Unemployed was slain by Zombie'
+[04Dec2024 00:21:16.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: super03 lost connection: Disconnected
+[04Dec2024 00:21:16.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 left the game
+[04Dec2024 00:21:17.054] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 00:26:18.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:64369] logged in with entity id 12784 at (-3.862565920190418, 64.5625, -192.0905845987455)
+[04Dec2024 00:26:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[04Dec2024 00:26:18.570] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
+[04Dec2024 00:26:48.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: super03 lost connection: Disconnected
+[04Dec2024 00:26:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 left the game
+[04Dec2024 00:29:21.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: super03[/100.69.11.49:64397] logged in with entity id 12965 at (-3.959069730908844, 64.5625, -192.0532711879032)
+[04Dec2024 00:29:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: super03 joined the game
+[04Dec2024 00:29:21.699] [Server thread/INFO] [Jade/]: Syncing config to super03 (839df2b9-8074-3ec7-a1c6-7c261bca0beb)
