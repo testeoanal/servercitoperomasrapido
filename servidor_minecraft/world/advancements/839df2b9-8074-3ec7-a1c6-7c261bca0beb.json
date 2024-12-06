@@ -1959,5 +1959,17 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 01:07:52 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 01:07:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
