@@ -500,3 +500,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Dec2024 02:11:33.597] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
 [07Dec2024 02:18:37.787] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1580, l='ServerLevel[world]', x=202.50, y=77.00, z=402.50]
 [07Dec2024 02:18:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Chompy]
+[07Dec2024 02:19:27.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Crocodile
+[07Dec2024 02:20:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Crocodile
+[07Dec2024 02:22:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Crocodile
+[07Dec2024 02:23:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Mine? Mine? Mine?]
+[07Dec2024 02:24:34.785] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4642, l='ServerLevel[world]', x=203.50, y=78.00, z=426.50]
+[07Dec2024 02:25:43.584] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5057, l='ServerLevel[world]', x=161.50, y=71.00, z=453.50]
+[07Dec2024 02:25:43.634] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5058, l='ServerLevel[world]', x=160.50, y=71.00, z=452.50]
+[07Dec2024 02:26:59.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5398, l='ServerLevel[world]', x=181.50, y=70.00, z=402.50]
+[07Dec2024 02:27:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Ol' Betsy]
+[07Dec2024 02:27:30.435] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5547, l='ServerLevel[world]', x=286.50, y=71.00, z=399.50]
