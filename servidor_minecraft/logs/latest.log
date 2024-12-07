@@ -518,3 +518,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Dec2024 03:48:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ella tiene una foto mia
 [07Dec2024 03:49:17.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y ya me la puedo imaginar
 [07Dec2024 03:49:34.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> lo que estará haciendo cuando está solita
+[07Dec2024 03:57:53.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[07Dec2024 03:57:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
