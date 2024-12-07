@@ -2842,6 +2842,12 @@
     },
     "done": true
   },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2024-12-07 03:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-07 02:36:15 +0000"
@@ -2959,6 +2965,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-07 02:36:15 +0000"
+    },
+    "done": true
+  },
+  "jeg:circuit_board": {
+    "criteria": {
+      "Item": "2024-12-07 03:36:50 +0000"
     },
     "done": true
   },
