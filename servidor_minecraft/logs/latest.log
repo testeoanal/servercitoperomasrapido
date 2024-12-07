@@ -510,3 +510,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Dec2024 02:26:59.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5398, l='ServerLevel[world]', x=181.50, y=70.00, z=402.50]
 [07Dec2024 02:27:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Ol' Betsy]
 [07Dec2024 02:27:30.435] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5547, l='ServerLevel[world]', x=286.50, y=71.00, z=399.50]
+[07Dec2024 02:53:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 has made the advancement [Tactical Fishing]
+[07Dec2024 02:56:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Bison
