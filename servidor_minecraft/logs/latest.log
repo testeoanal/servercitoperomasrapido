@@ -509,3 +509,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [14Dec2024 02:27:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was shot by Skeleton
 [14Dec2024 02:29:51.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
 [14Dec2024 02:29:51.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[14Dec2024 03:14:59.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:55713] logged in with entity id 5167 at (154.76249998807907, 62.0, 86.69999998807907)
+[14Dec2024 03:14:59.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[14Dec2024 03:14:59.798] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
