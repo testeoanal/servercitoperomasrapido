@@ -501,3 +501,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [14Dec2024 01:46:10.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
 [14Dec2024 01:46:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
 [14Dec2024 01:51:20.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pepepepeppeeepep
+[14Dec2024 02:01:22.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:54901] logged in with entity id 357 at (154.76249998807907, 62.0, 86.30000001192093)
+[14Dec2024 02:01:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[14Dec2024 02:01:22.261] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
