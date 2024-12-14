@@ -498,3 +498,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [14Dec2024 03:52:32.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [14Dec2024 03:52:32.651] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
 [14Dec2024 03:56:59.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/188, l='ServerLevel[world]', x=14.30, y=61.00, z=-161.11] died, message: 'Unemployed was slain by Zombie'
+[14Dec2024 04:11:04.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[14Dec2024 04:11:04.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
