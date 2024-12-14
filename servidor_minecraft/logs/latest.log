@@ -494,3 +494,10 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [14Dec2024 01:35:27.439] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5239 ms
 [14Dec2024 01:35:27.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.363s)! For help, type "help"
 [14Dec2024 01:35:27.497] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Dec2024 01:45:33.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Dec2024 01:45:33.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:54845] logged in with entity id 179 at (170.70493615158924, 62.9375, 67.94493661092882)
+[14Dec2024 01:45:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[14Dec2024 01:45:33.425] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[14Dec2024 01:46:10.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[14Dec2024 01:46:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[14Dec2024 01:51:20.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pepepepeppeeepep
