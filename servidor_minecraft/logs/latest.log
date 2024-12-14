@@ -506,3 +506,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [14Dec2024 02:01:22.261] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
 [14Dec2024 02:22:18.893] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [14Dec2024 02:24:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was shot by Skeleton
+[14Dec2024 02:27:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was shot by Skeleton
+[14Dec2024 02:29:51.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[14Dec2024 02:29:51.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
