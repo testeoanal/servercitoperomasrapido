@@ -2980,5 +2980,11 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2024-12-14 02:09:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
