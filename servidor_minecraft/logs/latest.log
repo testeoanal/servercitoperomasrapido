@@ -507,3 +507,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 22:28:49.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:50268] logged in with entity id 2123 at (80.10729649188241, -52.0, -85.09258174294325)
 [21Dec2024 22:28:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [21Dec2024 22:28:49.137] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[21Dec2024 22:30:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was shot by Mutant Skeleton
+[21Dec2024 22:32:19.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Timed out
+[21Dec2024 22:32:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[21Dec2024 22:32:34.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:51692] logged in with entity id 2930 at (153.6973990683416, 64.0, 85.24282283515916)
+[21Dec2024 22:32:34.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[21Dec2024 22:32:34.702] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[21Dec2024 22:37:22.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 moved too quickly! 8.70030089474254,-3.176759275064242,-3.9400702280268263
+[21Dec2024 22:37:35.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Timed out
+[21Dec2024 22:37:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
