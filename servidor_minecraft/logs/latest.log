@@ -521,3 +521,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 22:48:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [21Dec2024 22:48:44.047] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
 [21Dec2024 22:59:41.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 hit the ground too hard
+[21Dec2024 23:01:08.052] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6501, l='ServerLevel[world]', x=5.50, y=72.00, z=-263.50]
+[21Dec2024 23:04:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was slain by Cachalot Whale
+[21Dec2024 23:07:26.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
+[21Dec2024 23:08:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
+[21Dec2024 23:10:09.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
