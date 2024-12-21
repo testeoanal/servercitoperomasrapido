@@ -529,3 +529,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 23:11:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 discovered the floor was lava
 [21Dec2024 23:12:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
 [21Dec2024 23:22:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 tried to swim in lava
+[21Dec2024 23:44:32.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15063, l='ServerLevel[world]', x=3.50, y=72.00, z=-263.50]
