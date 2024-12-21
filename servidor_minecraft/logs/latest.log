@@ -520,3 +520,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 22:48:44.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:55931] logged in with entity id 3874 at (66.93999106524745, 64.1212968405392, -141.84885156301627)
 [21Dec2024 22:48:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [21Dec2024 22:48:44.047] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[21Dec2024 22:59:41.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 hit the ground too hard
