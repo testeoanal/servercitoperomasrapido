@@ -502,3 +502,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 22:15:53.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:64088] logged in with entity id 220 at (75.40911503270083, -54.0, -109.6069371772479)
 [21Dec2024 22:15:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [21Dec2024 22:15:53.761] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[21Dec2024 22:28:24.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Timed out
+[21Dec2024 22:28:24.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[21Dec2024 22:28:49.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:50268] logged in with entity id 2123 at (80.10729649188241, -52.0, -85.09258174294325)
+[21Dec2024 22:28:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[21Dec2024 22:28:49.137] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
