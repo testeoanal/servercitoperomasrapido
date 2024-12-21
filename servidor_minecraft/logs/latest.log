@@ -528,3 +528,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 23:10:09.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
 [21Dec2024 23:11:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 discovered the floor was lava
 [21Dec2024 23:12:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
+[21Dec2024 23:22:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 tried to swim in lava

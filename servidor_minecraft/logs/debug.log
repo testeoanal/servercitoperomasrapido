@@ -4809,3 +4809,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [21Dec2024 23:12:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 drowned
 [21Dec2024 23:15:56.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 23:15:56.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:20:56.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:20:56.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:22:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 tried to swim in lava
+[21Dec2024 23:25:56.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:25:56.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
