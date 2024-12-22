@@ -3101,6 +3101,12 @@
     },
     "done": true
   },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2024-12-22 01:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"

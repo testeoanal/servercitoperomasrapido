@@ -1,1 +1,5 @@
 [22Dec2024 00:04:36.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18515, l='ServerLevel[world]', x=3.50, y=72.00, z=-265.50]
+[22Dec2024 01:42:34.213] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[22Dec2024 01:50:48.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[22Dec2024 01:50:48.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[22Dec2024 01:51:15.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pene de toro
