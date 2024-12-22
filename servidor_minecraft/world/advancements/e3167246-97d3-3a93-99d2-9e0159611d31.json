@@ -2999,6 +2999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-22 01:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
@@ -3047,6 +3053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-22 01:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
@@ -3074,6 +3086,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2024-12-22 01:34:40 +0000"
     },
     "done": true
   },
