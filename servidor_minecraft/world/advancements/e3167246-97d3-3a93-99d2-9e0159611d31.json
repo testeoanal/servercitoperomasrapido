@@ -2993,15 +2993,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
+      "has_smelts_to_glass": "2024-12-21 23:20:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_gold_block": "2024-12-22 01:39:01 +0000"
+      "has_sand": "2024-12-21 23:20:11 +0000"
     },
     "done": true
   },
@@ -3011,51 +3011,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
-  "jeg:recycler": {
-    "criteria": {
-      "Item": "2024-12-22 01:24:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-22 01:32:51 +0000"
     },
     "done": true
   },
@@ -3089,33 +3047,9 @@
     },
     "done": true
   },
-  "jeg:custom_smg": {
-    "criteria": {
-      "Item": "2024-12-22 01:34:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-12-22 01:24:31 +0000"
-    },
-    "done": true
-  },
-  "jeg:waterpipe_shotgun": {
-    "criteria": {
-      "Item": "2024-12-22 01:41:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-21 23:20:11 +0000"
     },
     "done": true
   },
@@ -3128,6 +3062,60 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-21 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-22 00:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-22 01:24:31 +0000"
     },
     "done": true
   },
@@ -3173,21 +3161,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "jeg:recycler": {
     "criteria": {
-      "has_sand": "2024-12-21 23:20:11 +0000"
+      "Item": "2024-12-22 01:24:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_raw_iron_block": "2024-12-22 00:11:35 +0000"
+      "has_redstone_torch": "2024-12-22 01:32:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "jeg:custom_smg": {
     "criteria": {
-      "has_sandstone": "2024-12-21 23:20:15 +0000"
+      "Item": "2024-12-22 01:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-22 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2024-12-22 01:41:10 +0000"
     },
     "done": true
   },
