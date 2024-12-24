@@ -895,6 +895,7 @@
       "minecraft:cave_spider": "2024-11-29 03:30:57 +0000",
       "minecraft:enderman": "2024-11-29 03:00:54 +0000",
       "minecraft:zombie": "2024-11-29 02:33:12 +0000",
+      "minecraft:drowned": "2024-12-24 02:41:41 +0000",
       "minecraft:zombie_villager": "2024-12-06 01:21:46 +0000"
     },
     "done": false
@@ -3200,6 +3201,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-24 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-24 02:41:44 +0000"
     },
     "done": true
   },
