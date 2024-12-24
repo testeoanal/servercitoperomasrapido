@@ -499,3 +499,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [24Dec2024 01:35:24.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:60069] logged in with entity id 206 at (152.91913204305055, 64.0, 84.09271813975494)
 [24Dec2024 01:35:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [24Dec2024 01:35:24.347] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[24Dec2024 01:50:01.207] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3192, l='ServerLevel[world]', x=132.50, y=70.00, z=39.50]
+[24Dec2024 01:55:30.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4569, l='ServerLevel[world]', x=130.50, y=70.00, z=39.50]
+[24Dec2024 01:56:35.154] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4710, l='ServerLevel[world]', x=132.50, y=70.00, z=38.50]
