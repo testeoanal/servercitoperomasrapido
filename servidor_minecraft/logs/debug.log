@@ -4049,3 +4049,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [24Dec2024 01:52:39.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 01:55:30.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4569, l='ServerLevel[world]', x=130.50, y=70.00, z=39.50]
 [24Dec2024 01:56:35.154] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4710, l='ServerLevel[world]', x=132.50, y=70.00, z=38.50]
+[24Dec2024 01:57:39.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:57:39.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:00:11.355] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5103, l='ServerLevel[world]', x=131.50, y=70.00, z=38.50]
+[24Dec2024 02:00:40.004] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5161, l='ServerLevel[world]', x=135.50, y=72.00, z=45.50]
+[24Dec2024 02:01:50.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5363, l='ServerLevel[world]', x=138.50, y=74.00, z=27.50]
+[24Dec2024 02:02:39.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:02:39.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:03:04.504] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5555, l='ServerLevel[world]', x=134.50, y=72.00, z=45.50]
+[24Dec2024 02:04:57.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Timed out
+[24Dec2024 02:04:57.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
