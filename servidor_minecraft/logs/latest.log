@@ -634,3 +634,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 02:03:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toda qlera
 [02Jan2025 02:03:34.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no entiendo pq me da esta y no la que tengo puesta
 [02Jan2025 02:03:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[02Jan2025 02:04:11.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26597, l='ServerLevel[world]', x=110.50, y=73.00, z=-20.50]
+[02Jan2025 02:04:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> vienes a la cueva?
+[02Jan2025 02:04:51.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> no
+[02Jan2025 02:06:05.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[02Jan2025 02:06:05.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[02Jan2025 02:06:37.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
+[02Jan2025 02:07:39.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 was shot by Mutant Skeleton
+[02Jan2025 02:13:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 burned to death
+[02Jan2025 02:13:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
