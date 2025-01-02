@@ -1528,6 +1528,18 @@
     },
     "done": true
   },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-01-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-01-02 02:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-02 02:11:04 +0000"
