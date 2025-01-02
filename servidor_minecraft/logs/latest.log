@@ -648,3 +648,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 02:56:03.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37930, l='ServerLevel[world]', x=121.50, y=75.00, z=-22.50]
 [02Jan2025 02:59:17.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [02Jan2025 02:59:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[02Jan2025 03:14:21.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:61545] logged in with entity id 39159 at (73.16314468226611, 69.0, -174.61911457506338)
+[02Jan2025 03:14:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[02Jan2025 03:14:21.667] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
