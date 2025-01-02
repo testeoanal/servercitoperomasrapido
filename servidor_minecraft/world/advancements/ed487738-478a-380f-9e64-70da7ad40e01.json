@@ -2001,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-02 18:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 17:52:12 +0000"
@@ -2151,6 +2157,12 @@
     },
     "done": true
   },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2025-01-02 18:02:10 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-02 17:24:49 +0000"
@@ -2217,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-02 17:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2025-01-02 17:22:11 +0000"
@@ -2232,6 +2250,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-02 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-02 17:54:03 +0000"
     },
     "done": true
   },
@@ -2328,6 +2352,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2025-01-02 18:02:52 +0000"
     },
     "done": true
   },

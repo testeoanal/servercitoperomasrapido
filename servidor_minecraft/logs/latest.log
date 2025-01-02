@@ -524,3 +524,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 17:57:22.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 3931 block(s)]
 [02Jan2025 17:57:31.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/191, l='ServerLevel[world]', x=-417.34, y=72.00, z=1106.52] died, message: 'Unemployed suffocated in a wall'
 [02Jan2025 17:57:31.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/152, l='ServerLevel[world]', x=-417.91, y=72.00, z=1105.80] died, message: 'Unemployed suffocated in a wall'
+[02Jan2025 18:07:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
