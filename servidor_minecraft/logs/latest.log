@@ -515,3 +515,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 17:19:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
 [02Jan2025 17:19:12.094] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
 [02Jan2025 17:19:14.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[02Jan2025 17:32:59.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/197, l='ServerLevel[world]', x=-382.50, y=98.00, z=1107.30] died, message: 'Weaponsmith was slain by Zombie'
+[02Jan2025 17:33:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
