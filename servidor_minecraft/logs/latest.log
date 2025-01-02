@@ -523,3 +523,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 00:44:35.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Stone Age]
 [02Jan2025 00:45:28.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Getting an Upgrade]
 [02Jan2025 00:54:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 drowned
+[02Jan2025 01:06:56.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Best Friends Forever]
+[02Jan2025 01:11:23.826] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11478, l='ServerLevel[world]', x=110.50, y=73.00, z=-22.50]
+[02Jan2025 01:11:57.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11933, l='ServerLevel[world]', x=107.50, y=75.00, z=3.50]
