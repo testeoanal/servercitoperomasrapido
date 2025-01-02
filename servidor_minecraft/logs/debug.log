@@ -4103,3 +4103,29 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 18:24:43.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
 [02Jan2025 18:28:14.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 18:28:14.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:28:24.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:24.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=74, z=1117} BlockPos{x=-429, y=74, z=1118}
+[02Jan2025 18:28:39.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-431, y=70, z=1114} BlockPos{x=-430, y=71, z=1113}
+[02Jan2025 18:29:53.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-438, y=66, z=1115} BlockPos{x=-434, y=67, z=1117}
+[02Jan2025 18:29:59.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-425, y=72, z=1112} BlockPos{x=-425, y=73, z=1111}
+[02Jan2025 18:29:59.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-425, y=72, z=1112} BlockPos{x=-425, y=73, z=1111}
+[02Jan2025 18:30:00.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-424, y=72, z=1111} BlockPos{x=-424, y=72, z=1112}
+[02Jan2025 18:30:32.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-432, y=72, z=1123} BlockPos{x=-431, y=71, z=1123}
+[02Jan2025 18:30:32.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-432, y=72, z=1123} BlockPos{x=-431, y=71, z=1123}
+[02Jan2025 18:33:14.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:33:14.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:35:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[02Jan2025 18:36:29.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has completed the challenge [Winner takes all]
+[02Jan2025 18:38:14.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:38:14.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
