@@ -572,3 +572,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 01:24:43.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15058, l='ServerLevel[world]', x=121.50, y=75.00, z=-23.50]
 [02Jan2025 01:33:16.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
 [02Jan2025 01:33:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[02Jan2025 01:40:46.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:59633] logged in with entity id 18943 at (154.76249998807907, 62.0, 86.69999998807907)
+[02Jan2025 01:40:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[02Jan2025 01:40:46.944] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[02Jan2025 01:42:03.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19400, l='ServerLevel[world]', x=123.50, y=75.00, z=-24.50]
+[02Jan2025 01:42:15.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19445, l='ServerLevel[world]', x=112.50, y=76.00, z=-1.50]
+[02Jan2025 01:43:31.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19766, l='ServerLevel[world]', x=111.50, y=76.00, z=-1.50]
