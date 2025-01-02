@@ -568,3 +568,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 01:22:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> 433 73 128
 [02Jan2025 01:22:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta cerca de tu base
 [02Jan2025 01:23:05.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14366, l='ServerLevel[world]', x=98.50, y=75.00, z=-20.50]
+[02Jan2025 01:23:32.826] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14487, l='ServerLevel[world]', x=113.50, y=76.00, z=-3.50]
+[02Jan2025 01:24:43.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15058, l='ServerLevel[world]', x=121.50, y=75.00, z=-23.50]
+[02Jan2025 01:33:16.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[02Jan2025 01:33:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
