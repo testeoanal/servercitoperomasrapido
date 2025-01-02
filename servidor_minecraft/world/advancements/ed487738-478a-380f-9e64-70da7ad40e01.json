@@ -38,6 +38,7 @@
       "minecraft:snowy_plains": "2024-12-28 02:04:44 +0000",
       "minecraft:dripstone_caves": "2024-12-28 02:04:48 +0000",
       "minecraft:snowy_taiga": "2024-12-28 01:57:42 +0000",
+      "minecraft:cold_ocean": "2025-01-02 02:58:33 +0000",
       "minecraft:forest": "2024-12-28 01:51:08 +0000",
       "minecraft:frozen_ocean": "2024-12-28 01:56:17 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-28 01:56:30 +0000",
@@ -1618,6 +1619,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-01-02 02:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 02:36:03 +0000"
@@ -1633,6 +1640,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-02 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-01-02 02:57:43 +0000"
     },
     "done": true
   },

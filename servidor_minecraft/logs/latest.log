@@ -645,3 +645,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 02:13:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
 [02Jan2025 02:14:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
 [02Jan2025 02:24:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[02Jan2025 02:56:03.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37930, l='ServerLevel[world]', x=121.50, y=75.00, z=-22.50]
+[02Jan2025 02:59:17.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[02Jan2025 02:59:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
