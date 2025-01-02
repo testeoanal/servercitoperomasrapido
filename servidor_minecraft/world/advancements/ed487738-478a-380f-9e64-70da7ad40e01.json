@@ -856,6 +856,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-02 01:20:47 +0000",
       "cooked_beef": "2025-01-02 01:29:33 +0000",
+      "baked_potato": "2025-01-02 18:08:32 +0000",
       "rotten_flesh": "2025-01-02 00:41:23 +0000",
       "cooked_chicken": "2025-01-02 01:02:54 +0000"
     },
@@ -2049,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-02 18:11:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-01-02 17:52:12 +0000"
@@ -2172,6 +2179,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-01-02 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-02 18:13:06 +0000"
     },
     "done": true
   },
@@ -2334,6 +2347,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-02 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-02 18:11:17 +0000"
     },
     "done": true
   },
