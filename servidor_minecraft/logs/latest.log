@@ -610,3 +610,27 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 01:53:42.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:60741] logged in with entity id 23413 at (586.0064465609468, 139.0, -8.272548385819066)
 [02Jan2025 01:53:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
 [02Jan2025 01:53:42.818] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[02Jan2025 01:54:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tengo que ir a la cueva no tengo nada
+[02Jan2025 01:55:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> xD
+[02Jan2025 01:55:19.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported FrancoTapias_37 to viper076]
+[02Jan2025 01:55:38.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> tienes comandos?
+[02Jan2025 01:55:43.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si
+[02Jan2025 01:55:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> trampa pero me quita vida
+[02Jan2025 01:56:02.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ta guapo
+[02Jan2025 01:56:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no te vayas
+[02Jan2025 01:56:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ok
+[02Jan2025 01:56:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> reviveme
+[02Jan2025 01:56:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> matame
+[02Jan2025 01:56:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> grax
+[02Jan2025 01:59:38.153] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:38.155] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:38.155] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:38.158] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:38.219] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:38.219] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 01:59:39.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[02Jan2025 02:01:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[02Jan2025 02:03:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pinche skin
+[02Jan2025 02:03:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toda qlera
+[02Jan2025 02:03:34.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no entiendo pq me da esta y no la que tengo puesta
+[02Jan2025 02:03:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
