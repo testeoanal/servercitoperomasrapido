@@ -518,3 +518,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 17:32:59.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/197, l='ServerLevel[world]', x=-382.50, y=98.00, z=1107.30] died, message: 'Weaponsmith was slain by Zombie'
 [02Jan2025 17:33:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
 [02Jan2025 17:42:17.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208, l='ServerLevel[world]', x=-481.96, y=64.00, z=1107.30] died, message: 'Unemployed was slain by Zombie'
+[02Jan2025 17:52:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Acquire Hardware]
+[02Jan2025 17:54:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Suit Up]
+[02Jan2025 17:54:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Isn't It Iron Pick]
+[02Jan2025 17:57:22.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 3931 block(s)]
+[02Jan2025 17:57:31.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/191, l='ServerLevel[world]', x=-417.34, y=72.00, z=1106.52] died, message: 'Unemployed suffocated in a wall'
+[02Jan2025 17:57:31.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/152, l='ServerLevel[world]', x=-417.91, y=72.00, z=1105.80] died, message: 'Unemployed suffocated in a wall'
