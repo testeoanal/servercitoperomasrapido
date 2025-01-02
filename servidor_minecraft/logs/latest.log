@@ -526,3 +526,45 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 01:06:56.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Best Friends Forever]
 [02Jan2025 01:11:23.826] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11478, l='ServerLevel[world]', x=110.50, y=73.00, z=-22.50]
 [02Jan2025 01:11:57.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11933, l='ServerLevel[world]', x=107.50, y=75.00, z=3.50]
+[02Jan2025 01:13:13.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b89ce90[id=<null>,name=FrancoTapias_37,properties={},legacy=false] (/100.114.29.62:59459) lost connection: Disconnected
+[02Jan2025 01:13:50.883] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@186794f8[id=<null>,name=FrancoTapias_37,properties={},legacy=false] (/100.114.29.62:59471) lost connection: Disconnected
+[02Jan2025 01:13:57.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrancoTapias_37[/100.114.29.62:59475] logged in with entity id 12190 at (153.12631340859815, 64.0, 83.24173382943796)
+[02Jan2025 01:13:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
+[02Jan2025 01:13:57.520] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
+[02Jan2025 01:14:09.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ostias
+[02Jan2025 01:14:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola
+[02Jan2025 01:15:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
+[02Jan2025 01:15:15.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12430, l='ServerLevel[world]', x=109.50, y=73.00, z=-21.50]
+[02Jan2025 01:15:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> eres el chiss?
+[02Jan2025 01:15:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> si
+[02Jan2025 01:15:33.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toma
+[02Jan2025 01:15:45.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> lo consegui matando zombies
+[02Jan2025 01:15:51.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> tengo una de hierro
+[02Jan2025 01:15:59.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> vas a tener que modificar las teclas
+[02Jan2025 01:16:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> soy nuevo asi que es todo lo que tengo ye estoy buscando un lugar donde quedarme
+[02Jan2025 01:16:19.726] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12540, l='ServerLevel[world]', x=109.50, y=73.00, z=-22.50]
+[02Jan2025 01:16:23.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12553, l='ServerLevel[world]', x=116.50, y=73.00, z=-21.50]
+[02Jan2025 01:16:26.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12560, l='ServerLevel[world]', x=109.50, y=77.00, z=-3.50]
+[02Jan2025 01:16:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> daselo a un random si entra uno nuevo
+[02Jan2025 01:16:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya tengo yo
+[02Jan2025 01:16:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> pos puedes quedarte en este pueblo lo unico es que no mates los aldeanos y no rompas nada Xd
+[02Jan2025 01:17:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> claro
+[02Jan2025 01:17:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> la regla del antiguo server
+[02Jan2025 01:17:17.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> esperate y te doy unas cosas
+[02Jan2025 01:17:22.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> igual ire a buscar donde estar
+[02Jan2025 01:18:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> dejare mi caballo aqui volvere por el cuando encuentre donde vivir xd
+[02Jan2025 01:18:07.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ok
+[02Jan2025 01:18:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tengo recursos we
+[02Jan2025 01:18:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> estuve vagando por ahi
+[02Jan2025 01:18:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pero gracias
+[02Jan2025 01:18:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ok
+[02Jan2025 01:19:00.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> la madera tomalo
+[02Jan2025 01:19:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te va a servir mas
+[02Jan2025 01:20:54.246] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13471, l='ServerLevel[world]', x=111.50, y=76.00, z=-3.50]
+[02Jan2025 01:20:59.576] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13547, l='ServerLevel[world]', x=115.50, y=73.00, z=-20.50]
+[02Jan2025 01:21:01.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13582, l='ServerLevel[world]', x=100.50, y=75.00, z=-20.50]
+[02Jan2025 01:21:40.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hhay un lugar que peudes raidear ya que tienes mejor equipamiento
+[02Jan2025 01:21:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te paso las cord
+[02Jan2025 01:22:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> 433 73 128
+[02Jan2025 01:22:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta cerca de tu base
+[02Jan2025 01:23:05.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14366, l='ServerLevel[world]', x=98.50, y=75.00, z=-20.50]
