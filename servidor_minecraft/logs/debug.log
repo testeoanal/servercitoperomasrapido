@@ -4062,3 +4062,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 17:33:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
 [02Jan2025 17:33:14.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 17:33:14.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:38:14.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:38:14.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:39:54.689] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 17:39:54.690] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to md8791d2$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
+[02Jan2025 17:39:54.690] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to md8791d2$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
+[02Jan2025 17:39:54.715] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 17:39:54.718] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from netherexp-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 17:42:17.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208, l='ServerLevel[world]', x=-481.96, y=64.00, z=1107.30] died, message: 'Unemployed was slain by Zombie'
+[02Jan2025 17:43:14.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:43:14.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

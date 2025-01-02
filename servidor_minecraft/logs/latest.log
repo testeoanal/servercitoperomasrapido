@@ -517,3 +517,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 17:19:14.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
 [02Jan2025 17:32:59.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/197, l='ServerLevel[world]', x=-382.50, y=98.00, z=1107.30] died, message: 'Weaponsmith was slain by Zombie'
 [02Jan2025 17:33:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 1000]
+[02Jan2025 17:42:17.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208, l='ServerLevel[world]', x=-481.96, y=64.00, z=1107.30] died, message: 'Unemployed was slain by Zombie'
