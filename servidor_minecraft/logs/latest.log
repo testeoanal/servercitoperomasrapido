@@ -578,3 +578,35 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Jan2025 01:42:03.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19400, l='ServerLevel[world]', x=123.50, y=75.00, z=-24.50]
 [02Jan2025 01:42:15.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19445, l='ServerLevel[world]', x=112.50, y=76.00, z=-1.50]
 [02Jan2025 01:43:31.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19766, l='ServerLevel[world]', x=111.50, y=76.00, z=-1.50]
+[02Jan2025 01:47:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> viper puedes?
+[02Jan2025 01:47:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> SI
+[02Jan2025 01:47:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to FrancoTapias_37]
+[02Jan2025 01:47:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> no vengas
+[02Jan2025 01:47:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 was doomed to fall by Skeleton
+[02Jan2025 01:47:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[02Jan2025 01:47:36.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> Xd
+[02Jan2025 01:47:46.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no mire biene l mapa
+[02Jan2025 01:47:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pense que estabas en base xd
+[02Jan2025 01:48:25.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[02Jan2025 01:48:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[02Jan2025 01:48:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 was shot by Skeleton
+[02Jan2025 01:48:34.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:60424] logged in with entity id 21450 at (543.8208445656603, 68.0, 114.55297826501612)
+[02Jan2025 01:48:34.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[02Jan2025 01:48:34.962] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[02Jan2025 01:49:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to FrancoTapias_37]
+[02Jan2025 01:49:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> como le hacemos
+[02Jan2025 01:49:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ir sin venirse
+[02Jan2025 01:49:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[02Jan2025 01:50:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> corre
+[02Jan2025 01:50:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> antes de que vengan
+[02Jan2025 01:50:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> buena cueva para explorar
+[02Jan2025 01:50:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> rica cueva
+[02Jan2025 01:50:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pero terminare de hacer mi casa
+[02Jan2025 01:50:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si quieres puedes usar mi casa como base temporal esta cerfca
+[02Jan2025 01:51:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cuando vengas por aqui
+[02Jan2025 01:51:10.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> ok
+[02Jan2025 01:52:30.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[02Jan2025 01:52:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[02Jan2025 01:53:42.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:60741] logged in with entity id 23413 at (586.0064465609468, 139.0, -8.272548385819066)
+[02Jan2025 01:53:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[02Jan2025 01:53:42.818] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
