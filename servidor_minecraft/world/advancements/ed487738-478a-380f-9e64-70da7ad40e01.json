@@ -3104,6 +3104,12 @@
     },
     "done": true
   },
+  "jeg:stun_grenade": {
+    "criteria": {
+      "Item": "2025-01-03 04:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-03 03:54:53 +0000"
