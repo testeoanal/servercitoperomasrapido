@@ -516,3 +516,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 01:07:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] î
 [03Jan2025 01:08:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Stone Age]
 [03Jan2025 01:08:45.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Getting an Upgrade]
+[03Jan2025 01:15:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Monster Hunter]
+[03Jan2025 01:20:03.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:63474] logged in with entity id 3179 at (-487.4378509111469, 63.0, 1135.747072413902)
+[03Jan2025 01:20:03.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 01:20:03.664] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 01:20:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola paroputa
