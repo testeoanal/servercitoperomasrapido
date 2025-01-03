@@ -500,3 +500,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 02:27:01.072] [Server thread/INFO] [Jade/]: Syncing config to parotista (8a37fb91-238f-3e85-bddc-48f037dbc5b6)
 [03Jan2025 02:27:04.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
 [03Jan2025 02:30:42.255] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/898, l='ServerLevel[world]', x=-317.61, y=68.00, z=978.68]
+[03Jan2025 02:37:05.222] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/162, l='ServerLevel[world]', x=-534.50, y=66.92, z=1125.44] died, message: 'Butcher was slain by parotista'
+[03Jan2025 02:38:06.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53834] logged in with entity id 2295 at (-442.3400682551915, 65.0, 1111.092067381825)
+[03Jan2025 02:38:06.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 02:38:06.769] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 02:38:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> paroputa
+[03Jan2025 02:38:19.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> que
+[03Jan2025 02:38:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> estaba probando algo en mi mundo y cine chaval
+[03Jan2025 02:38:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cine
+[03Jan2025 02:38:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> exite godzilla
+[03Jan2025 02:38:40.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y puedes tenerlo de mascota o enemigo mortal
+[03Jan2025 02:38:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> joder
+[03Jan2025 02:38:55.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 02:38:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:45:35.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53861] logged in with entity id 3561 at (-442.3103842312448, 65.0, 1111.2993533597776)
+[03Jan2025 02:45:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 02:45:35.283] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 02:45:54.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 02:45:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
