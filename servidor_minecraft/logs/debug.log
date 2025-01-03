@@ -4884,3 +4884,29 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 04:06:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to parotista]
 [03Jan2025 04:06:51.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 04:06:51.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:08:17.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported parotista to viper076]
+[03Jan2025 04:08:25.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Full Moon in a Pocket]
+[03Jan2025 04:08:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> arriba tuyo tamb
+[03Jan2025 04:08:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [False Water]
+[03Jan2025 04:08:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pico
+[03Jan2025 04:09:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> grax
+[03Jan2025 04:09:56.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[03Jan2025 04:10:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> encontre cueva grande
+[03Jan2025 04:11:51.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:11:51.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:13:39.672] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[03Jan2025 04:13:39.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Stay dead]
+[03Jan2025 04:13:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> y eso
+[03Jan2025 04:14:11.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ostias
+[03Jan2025 04:15:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[03Jan2025 04:15:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> wtf
+[03Jan2025 04:15:49.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se duplico
+[03Jan2025 04:15:53.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> eso encontre
+[03Jan2025 04:15:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> god
+[03Jan2025 04:16:51.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 04:16:51.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 04:16:52.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> wtf
+[03Jan2025 04:16:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tremendo bug
+[03Jan2025 04:17:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> desaparecio mi rifle
+[03Jan2025 04:17:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toma
+[03Jan2025 04:17:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Stay dead]
