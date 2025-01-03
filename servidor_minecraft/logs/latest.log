@@ -624,3 +624,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 01:57:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
 [03Jan2025 01:58:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to viper076: 🤨
 [03Jan2025 01:59:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> borrando casas jose no te preocupes
+[03Jan2025 02:01:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> ya lo quemaron
+[03Jan2025 02:01:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> me prestas
+[03Jan2025 02:01:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> escopeta
+[03Jan2025 02:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> grax
+[03Jan2025 02:03:35.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 02:03:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:05:35.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53691] logged in with entity id 13194 at (-448.7861177474103, 63.9375, 1108.8953976086855)
+[03Jan2025 02:05:35.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 02:05:35.580] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 02:08:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[03Jan2025 02:08:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
