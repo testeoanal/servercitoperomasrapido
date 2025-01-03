@@ -1,18 +1,18 @@
-[03Jan2025 01:00:10.654] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[03Jan2025 01:00:10.658] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[03Jan2025 01:00:12.378] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Jan2025 01:00:12.476] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03Jan2025 01:00:12.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[03Jan2025 01:00:12.906] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Jan2025 01:00:12.911] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Jan2025 01:00:12.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Jan2025 01:00:13.170] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[03Jan2025 01:00:13.172] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[03Jan2025 01:00:15.966] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Jan2025 01:00:16.085] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[03Jan2025 01:00:16.142] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jan2025 01:00:16.301] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jan2025 01:00:16.348] [main/INFO] [Puzzles Lib/]: Loading 63 mods:
+[03Jan2025 02:25:49.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03Jan2025 02:25:49.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Jan2025 02:25:51.356] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Jan2025 02:25:51.423] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Jan2025 02:25:51.807] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[03Jan2025 02:25:51.808] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Jan2025 02:25:51.809] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Jan2025 02:25:51.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Jan2025 02:25:52.052] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Jan2025 02:25:52.054] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[03Jan2025 02:25:54.684] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Jan2025 02:25:54.848] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Jan2025 02:25:54.899] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 02:25:55.033] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 02:25:55.148] [main/INFO] [Puzzles Lib/]: Loading 63 mods:
 	- additionalstructures 4.2.2
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -76,15 +76,15 @@
 	- terrablender 3.0.1.7
 	- totw_additions 1.3.1
 	- unusualend 2.2.3
-[03Jan2025 01:00:16.357] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jan2025 01:00:18.852] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03Jan2025 01:00:27.667] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[03Jan2025 02:25:55.155] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Jan2025 02:25:57.713] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Jan2025 02:26:06.081] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[03Jan2025 01:00:28.395] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[03Jan2025 01:00:28.642] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[03Jan2025 01:00:28.663] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[03Jan2025 01:00:28.684] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@57ddd45b on thread Thread[#33,modloading-worker-0,5,main]
-[03Jan2025 01:00:28.685] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[03Jan2025 02:26:06.658] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[03Jan2025 02:26:07.006] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Jan2025 02:26:07.025] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Jan2025 02:26:07.047] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@57ddd45b on thread Thread[#33,modloading-worker-0,5,main]
+[03Jan2025 02:26:07.047] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -128,55 +128,54 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[03Jan2025 01:00:28.698] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[03Jan2025 01:00:28.815] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[03Jan2025 01:00:28.880] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[03Jan2025 01:00:29.227] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[03Jan2025 01:00:29.233] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[03Jan2025 01:00:29.962] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[03Jan2025 01:00:30.707] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Jan2025 01:00:30.831] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[03Jan2025 01:00:36.416] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[03Jan2025 01:00:36.429] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[03Jan2025 01:00:36.432] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[03Jan2025 01:00:36.433] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[03Jan2025 01:00:36.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[03Jan2025 01:00:36.717] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[03Jan2025 01:00:36.719] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[03Jan2025 01:00:36.735] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[03Jan2025 01:00:36.983] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[03Jan2025 01:00:37.016] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[03Jan2025 01:00:38.189] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[03Jan2025 01:00:38.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[03Jan2025 01:00:38.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[03Jan2025 01:00:38.823] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[03Jan2025 01:00:38.823] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[03Jan2025 01:00:38.823] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[03Jan2025 01:00:38.823] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
-[03Jan2025 01:00:38.838] [main/INFO] [journeymap/]: Initializing Packet Registries
-[03Jan2025 01:00:38.850] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[03Jan2025 01:00:38.934] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03Jan2025 01:00:38.934] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[03Jan2025 01:00:38.935] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03Jan2025 01:00:38.935] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03Jan2025 01:00:38.936] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03Jan2025 01:00:38.936] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03Jan2025 01:00:38.937] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03Jan2025 01:00:39.005] [modloading-worker-0/INFO] [com.choicetheorem.imst.imst/]: Got IMC []
-[03Jan2025 01:00:39.056] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 31 compatible attributes.
-[03Jan2025 01:00:39.065] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 31 values from config.
-[03Jan2025 01:00:39.098] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 31 entries.
-[03Jan2025 01:00:39.101] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 31 attributes.
-[03Jan2025 01:00:39.121] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[03Jan2025 01:00:39.127] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[03Jan2025 01:00:39.140] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[03Jan2025 01:00:39.148] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[03Jan2025 01:00:39.150] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[03Jan2025 01:00:39.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[03Jan2025 01:00:39.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Starting version check at http://changelogs.moddinglegacy.com/conjurer-illager.json
-[03Jan2025 01:00:39.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Found status: BETA Current: 1.1.6 Target: null
-[03Jan2025 01:00:39.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[03Jan2025 01:00:39.542] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[03Jan2025 02:26:07.066] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[03Jan2025 02:26:07.281] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[03Jan2025 02:26:07.293] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[03Jan2025 02:26:07.654] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[03Jan2025 02:26:07.655] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[03Jan2025 02:26:08.388] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[03Jan2025 02:26:09.193] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Jan2025 02:26:09.243] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[03Jan2025 02:26:14.313] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[03Jan2025 02:26:14.321] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[03Jan2025 02:26:14.323] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[03Jan2025 02:26:14.325] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[03Jan2025 02:26:14.462] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[03Jan2025 02:26:14.513] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[03Jan2025 02:26:14.515] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[03Jan2025 02:26:14.740] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[03Jan2025 02:26:14.740] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[03Jan2025 02:26:15.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[03Jan2025 02:26:15.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[03Jan2025 02:26:15.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[03Jan2025 02:26:15.544] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[03Jan2025 02:26:15.544] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[03Jan2025 02:26:15.545] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[03Jan2025 02:26:15.545] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[03Jan2025 02:26:15.552] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Jan2025 02:26:15.574] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[03Jan2025 02:26:15.610] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Jan2025 02:26:15.611] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Jan2025 02:26:15.611] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03Jan2025 02:26:15.611] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03Jan2025 02:26:15.611] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03Jan2025 02:26:15.611] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03Jan2025 02:26:15.612] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03Jan2025 02:26:15.675] [modloading-worker-0/INFO] [com.choicetheorem.imst.imst/]: Got IMC []
+[03Jan2025 02:26:15.710] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 31 compatible attributes.
+[03Jan2025 02:26:15.713] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 31 values from config.
+[03Jan2025 02:26:15.723] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 31 entries.
+[03Jan2025 02:26:15.724] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 31 attributes.
+[03Jan2025 02:26:15.766] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[03Jan2025 02:26:15.771] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03Jan2025 02:26:15.782] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03Jan2025 02:26:15.786] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03Jan2025 02:26:15.789] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[03Jan2025 02:26:15.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[03Jan2025 02:26:15.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Starting version check at http://changelogs.moddinglegacy.com/conjurer-illager.json
+[03Jan2025 02:26:16.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Found status: BETA Current: 1.1.6 Target: null
+[03Jan2025 02:26:16.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[03Jan2025 02:26:16.122] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -191,28 +190,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[03Jan2025 01:00:39.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[03Jan2025 01:00:39.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[03Jan2025 01:00:39.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[03Jan2025 01:00:39.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[03Jan2025 01:00:39.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[03Jan2025 01:00:39.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[03Jan2025 01:00:39.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jan2025 01:00:39.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[03Jan2025 01:00:39.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[03Jan2025 01:00:39.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[03Jan2025 01:00:39.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[03Jan2025 01:00:40.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.19
-[03Jan2025 01:00:40.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[03Jan2025 01:00:40.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[03Jan2025 01:00:40.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Jan2025 01:00:40.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[03Jan2025 01:00:40.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[03Jan2025 01:00:40.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[03Jan2025 01:00:40.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[03Jan2025 01:00:41.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[03Jan2025 01:00:41.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[03Jan2025 01:00:41.141] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[03Jan2025 02:26:16.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Jan2025 02:26:16.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[03Jan2025 02:26:16.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[03Jan2025 02:26:16.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[03Jan2025 02:26:16.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[03Jan2025 02:26:16.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[03Jan2025 02:26:16.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Jan2025 02:26:16.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[03Jan2025 02:26:16.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[03Jan2025 02:26:16.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[03Jan2025 02:26:16.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[03Jan2025 02:26:17.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.19
+[03Jan2025 02:26:17.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[03Jan2025 02:26:17.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[03Jan2025 02:26:17.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Jan2025 02:26:17.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[03Jan2025 02:26:17.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[03Jan2025 02:26:17.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[03Jan2025 02:26:17.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Jan2025 02:26:17.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[03Jan2025 02:26:17.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[03Jan2025 02:26:17.883] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -227,29 +226,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[03Jan2025 01:00:42.718] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Jan2025 01:00:45.490] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
-[03Jan2025 01:00:45.491] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
-[03Jan2025 01:00:46.317] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.322] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.328] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.342] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.344] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.349] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.350] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.350] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[03Jan2025 01:00:46.362] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[03Jan2025 01:00:48.566] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03Jan2025 01:00:48.636] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[03Jan2025 01:00:48.638] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[03Jan2025 01:00:48.716] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[03Jan2025 02:26:18.917] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Jan2025 02:26:21.536] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[03Jan2025 02:26:21.536] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servercitoperomasrapido/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[03Jan2025 02:26:22.755] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.763] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.767] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.782] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.785] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.790] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.791] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.791] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[03Jan2025 02:26:22.796] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[03Jan2025 02:26:24.878] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Jan2025 02:26:24.991] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Jan2025 02:26:24.992] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Jan2025 02:26:25.073] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[03Jan2025 01:00:48.936] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
-[03Jan2025 01:00:48.937] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[03Jan2025 02:26:25.124] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
+[03Jan2025 02:26:25.124] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[03Jan2025 01:00:50.002] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
+[03Jan2025 02:26:25.923] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -321,7 +320,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[03Jan2025 01:00:50.098] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[03Jan2025 02:26:26.074] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -373,7 +372,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[03Jan2025 01:00:50.225] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
+[03Jan2025 02:26:26.192] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -445,226 +444,59 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[03Jan2025 01:00:50.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Jan2025 01:00:50.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Jan2025 01:00:50.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Jan2025 01:00:50.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Jan2025 01:00:50.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
-[03Jan2025 01:00:50.792] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3463 advancements
-[03Jan2025 01:00:50.799] [main/INFO] [Dungeon Crawl/]: Loading data...
-[03Jan2025 01:00:51.180] [main/INFO] [Dungeon Crawl/]: Done.
-[03Jan2025 01:00:51.192] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[03Jan2025 01:00:51.192] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[03Jan2025 01:00:51.213] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[03Jan2025 01:00:51.219] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[03Jan2025 01:00:54.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03Jan2025 01:00:54.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Jan2025 01:00:54.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Jan2025 01:00:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jan2025 01:00:54.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Jan2025 01:00:54.280] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Jan2025 01:00:54.378] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Jan2025 01:00:54.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Jan2025 01:00:54.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Jan2025 01:00:54.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Jan2025 01:00:54.411] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[03Jan2025 01:00:54.412] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[03Jan2025 01:00:54.413] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[03Jan2025 01:00:54.415] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Jan2025 01:00:54.416] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Jan2025 01:00:54.417] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Jan2025 01:00:54.441] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[03Jan2025 01:00:54.442] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[03Jan2025 01:00:54.443] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[03Jan2025 01:00:54.755] [Server thread/INFO] [Framework/]: Loading server configs...
-[03Jan2025 01:00:55.290] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 01:00:55.578] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03Jan2025 01:00:55.580] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03Jan2025 01:00:55.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Jan2025 01:00:59.731] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 01:01:03.685] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 01:01:07.853] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 01:01:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jan2025 01:01:15.044] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.117] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.220] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.360] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.408] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.466] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.487] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:15.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:16.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:16.725] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 01:01:17.222] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[03Jan2025 01:01:17.722] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[03Jan2025 01:01:17.998] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8277 ms
-[03Jan2025 01:01:18.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.605s)! For help, type "help"
-[03Jan2025 01:01:18.318] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 01:01:18.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Jan2025 01:01:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pene
-[03Jan2025 01:01:33.471] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[03Jan2025 01:01:33.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parotista[/100.119.121.93:64312] logged in with entity id 153 at (-8.5, 94.0, 5.5)
-[03Jan2025 01:01:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista joined the game
-[03Jan2025 01:01:33.941] [Server thread/INFO] [Jade/]: Syncing config to parotista (8a37fb91-238f-3e85-bddc-48f037dbc5b6)
-[03Jan2025 01:02:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Alex's Mobs]
-[03Jan2025 01:04:32.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] putoautista
-[03Jan2025 01:07:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] î
-[03Jan2025 01:08:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Stone Age]
-[03Jan2025 01:08:45.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Getting an Upgrade]
-[03Jan2025 01:15:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Monster Hunter]
-[03Jan2025 01:20:03.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:63474] logged in with entity id 3179 at (-487.4378509111469, 63.0, 1135.747072413902)
-[03Jan2025 01:20:03.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 01:20:03.664] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 01:20:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola paroputa
-[03Jan2025 01:20:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
-[03Jan2025 01:20:52.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to parotista]
-[03Jan2025 01:21:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te quedas aqui o te llevo a base
-[03Jan2025 01:21:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> uhhh
-[03Jan2025 01:21:58.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es lo unico que tengo
-[03Jan2025 01:22:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> usalo en emergencias
-[03Jan2025 01:22:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> llevame a la base
-[03Jan2025 01:22:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Acquire Hardware]
-[03Jan2025 01:22:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> 8 balas y recarga de a 1
-[03Jan2025 01:22:23.947] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[03Jan2025 01:22:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> primero salgamos de aqui
-[03Jan2025 01:22:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tu sabes
-[03Jan2025 01:23:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> primero a dormir
-[03Jan2025 01:23:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Sweet Dreams]
-[03Jan2025 01:23:47.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
-[03Jan2025 01:23:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
-[03Jan2025 01:23:59.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:63521] logged in with entity id 4120 at (152.30000001192093, 64.0, 86.34431976263792)
-[03Jan2025 01:23:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 01:23:59.920] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 01:24:04.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/108, l='ServerLevel[world]', x=159.49, y=64.00, z=82.51] died, message: 'Butcher was slain by parotista'
-[03Jan2025 01:24:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no lo mates xd
-[03Jan2025 01:24:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> no viste nada
-[03Jan2025 01:24:28.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> usa caballo
-[03Jan2025 01:24:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> seguime
-[03Jan2025 01:24:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el de armadura
-[03Jan2025 01:24:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> los otros no son mios
-[03Jan2025 01:26:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es un poco largo
-[03Jan2025 01:26:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> como esta
-[03Jan2025 01:26:31.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
-[03Jan2025 01:26:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya te saco
-[03Jan2025 01:27:30.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported parotista to viper076]
-[03Jan2025 01:28:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira de casualidad encontramos otra aldea
-[03Jan2025 01:28:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> nos servira
-[03Jan2025 01:28:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> es de las abandonadas
-[03Jan2025 01:28:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> f
-[03Jan2025 01:28:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> desp la saqueamos
-[03Jan2025 01:29:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta infectada
-[03Jan2025 01:29:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cerca estam,os
-[03Jan2025 01:29:47.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> oso
-[03Jan2025 01:30:20.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pinga
-[03Jan2025 01:30:23.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
-[03Jan2025 01:30:24.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> comes
-[03Jan2025 01:30:31.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya estamos
-[03Jan2025 01:30:37.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta granja es natural god
-[03Jan2025 01:30:39.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[03Jan2025 01:30:39.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daysay say tu<--[HERE]
-[03Jan2025 01:31:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] wpwt
-[03Jan2025 01:31:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> se ahogo con la pinga
-[03Jan2025 01:32:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> veni
-[03Jan2025 01:32:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me ahogue mamandole la vagina a tu hermana
-[03Jan2025 01:32:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 🤫
-[03Jan2025 01:32:55.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> eso diria alguien que comio verga
-[03Jan2025 01:33:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesito sugerencias paroputa
-[03Jan2025 01:33:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y como sabes?🤨
-[03Jan2025 01:33:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> elimino las casas y aplanamos y hacemos casas para nosotros o que
-[03Jan2025 01:33:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mucha pinga jose
-[03Jan2025 01:35:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y s hacen una granja de creepers?
-[03Jan2025 01:35:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> dificil
-[03Jan2025 01:35:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para?
-[03Jan2025 01:36:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el mod de armas depende mucho de la polvora
-[03Jan2025 01:36:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el terreno es un desastre
-[03Jan2025 01:36:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y soy perfeccionista
-[03Jan2025 01:36:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> sin algo aplanado no hago nada
-[03Jan2025 01:36:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> si pasa
-[03Jan2025 01:36:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> vas a sacar todas las casas?
-[03Jan2025 01:37:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> seee
-[03Jan2025 01:37:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no iba a exclavizar pero si lo hare
-[03Jan2025 01:37:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y tu parotista
-[03Jan2025 01:37:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tienes equipamiento en los cofres
-[03Jan2025 01:37:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> sala a explorar si quieres
-[03Jan2025 01:38:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> ok
-[03Jan2025 01:38:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> gracias
-[03Jan2025 01:38:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Suit Up]
-[03Jan2025 01:38:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> trae chatarra
-[03Jan2025 01:38:22.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para armas
-[03Jan2025 01:38:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> tengo 33
-[03Jan2025 01:38:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> miraz
-[03Jan2025 01:38:48.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta es la primera mesa que hice
-[03Jan2025 01:39:11.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hace falta cobre y polvora
-[03Jan2025 01:39:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para valas
-[03Jan2025 01:39:17.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> balas*
-[03Jan2025 01:42:08.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> yo entro desp
-[03Jan2025 01:42:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> voy a almorzar
-[03Jan2025 01:42:19.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> digo cenar
-[03Jan2025 01:42:22.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y bañarme
-[03Jan2025 01:42:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> yo estoy comiendo
-[03Jan2025 01:42:31.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> provecho
-[03Jan2025 01:42:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toma
-[03Jan2025 01:42:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hice una escopeta con chatarra
-[03Jan2025 01:42:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tu tienes balasw
-[03Jan2025 01:43:07.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> god
-[03Jan2025 01:43:25.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
-[03Jan2025 01:43:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
-[03Jan2025 01:45:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Isn't It Iron Pick]
-[03Jan2025 01:54:34.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] semen de toro buen precio
-[03Jan2025 01:54:45.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> esto no es google jose
-[03Jan2025 01:55:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ay carbon 😧
-[03Jan2025 01:56:38.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53664] logged in with entity id 10958 at (-485.23550274440584, 63.5625, 1116.298948849875)
-[03Jan2025 01:56:38.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 01:56:38.676] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 01:57:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
-[03Jan2025 01:58:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to viper076: 🤨
-[03Jan2025 01:59:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> borrando casas jose no te preocupes
-[03Jan2025 02:01:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> ya lo quemaron
-[03Jan2025 02:01:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> me prestas
-[03Jan2025 02:01:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> escopeta
-[03Jan2025 02:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> grax
-[03Jan2025 02:03:35.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
-[03Jan2025 02:03:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
-[03Jan2025 02:05:35.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53691] logged in with entity id 13194 at (-448.7861177474103, 63.9375, 1108.8953976086855)
-[03Jan2025 02:05:35.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 02:05:35.580] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 02:08:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
-[03Jan2025 02:08:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
-[03Jan2025 02:13:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] c
-[03Jan2025 02:13:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no se ve nada
-[03Jan2025 02:13:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si o si hay que estar cerca para ver las entidades
-[03Jan2025 02:13:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> o jugadores
-[03Jan2025 02:13:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> jose
-[03Jan2025 02:13:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] qué?
-[03Jan2025 02:14:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que no se ven los jugadores o entidades a cierta distancia
-[03Jan2025 02:14:58.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ª
-[03Jan2025 02:15:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> necesito madera de maple
-[03Jan2025 02:15:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> toca explorar
-[03Jan2025 02:15:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no hagas casa todavia
-[03Jan2025 02:15:40.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> muy temprano
-[03Jan2025 02:15:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mejor guarda los materiales
-[03Jan2025 02:15:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> let me cook
-[03Jan2025 02:16:28.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
-[03Jan2025 02:16:28.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
-[03Jan2025 02:16:39.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] parotista te pasa lo mismo que a viper?
-[03Jan2025 02:17:16.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-516, y=67, z=1097} BlockPos{x=-515, y=66, z=1096}
-[03Jan2025 02:17:16.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=67, z=1097} BlockPos{x=-515, y=66, z=1096}
-[03Jan2025 02:18:36.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67f91e52[id=<null>,name=viper076,properties={},legacy=false] (/100.113.149.44:53735) lost connection: Disconnected
-[03Jan2025 02:18:40.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53739] logged in with entity id 15864 at (-469.4399628352134, 63.0, 1103.176598616881)
-[03Jan2025 02:18:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 02:18:40.839] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 02:20:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> recien leo
-[03Jan2025 02:20:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> si
-[03Jan2025 02:20:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si q
-[03Jan2025 02:20:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> que me pasa lo mismo w
-[03Jan2025 02:21:18.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
-[03Jan2025 02:21:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
-[03Jan2025 02:21:23.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53753] logged in with entity id 16387 at (-442.3400682551915, 65.0, 1111.092067381825)
-[03Jan2025 02:21:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
-[03Jan2025 02:21:23.760] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
-[03Jan2025 02:21:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se apagara y prendera de nuevo
+[03Jan2025 02:26:26.318] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Jan2025 02:26:26.318] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Jan2025 02:26:26.319] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Jan2025 02:26:26.319] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Jan2025 02:26:26.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
+[03Jan2025 02:26:26.692] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3463 advancements
+[03Jan2025 02:26:26.704] [main/INFO] [Dungeon Crawl/]: Loading data...
+[03Jan2025 02:26:27.128] [main/INFO] [Dungeon Crawl/]: Done.
+[03Jan2025 02:26:27.149] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[03Jan2025 02:26:27.149] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[03Jan2025 02:26:27.176] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Jan2025 02:26:27.185] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[03Jan2025 02:26:29.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Jan2025 02:26:29.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jan2025 02:26:29.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jan2025 02:26:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jan2025 02:26:29.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jan2025 02:26:30.009] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Jan2025 02:26:30.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Jan2025 02:26:30.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Jan2025 02:26:30.093] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Jan2025 02:26:30.094] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Jan2025 02:26:30.120] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[03Jan2025 02:26:30.121] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[03Jan2025 02:26:30.121] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Jan2025 02:26:30.123] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Jan2025 02:26:30.136] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[03Jan2025 02:26:30.397] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Jan2025 02:26:30.990] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Jan2025 02:26:30.991] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Jan2025 02:26:30.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jan2025 02:26:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jan2025 02:26:47.128] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.146] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.217] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.218] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 02:26:47.670] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[03Jan2025 02:26:48.170] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[03Jan2025 02:26:48.516] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7347 ms
+[03Jan2025 02:26:48.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.409s)! For help, type "help"
+[03Jan2025 02:26:48.723] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Jan2025 02:27:00.824] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Jan2025 02:27:00.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parotista[/100.119.121.93:64817] logged in with entity id 150 at (-534.3161193831471, 70.7531999805212, 1131.4663445659353)
+[03Jan2025 02:27:00.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista joined the game
+[03Jan2025 02:27:01.072] [Server thread/INFO] [Jade/]: Syncing config to parotista (8a37fb91-238f-3e85-bddc-48f037dbc5b6)
+[03Jan2025 02:27:04.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[03Jan2025 02:30:42.255] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/898, l='ServerLevel[world]', x=-317.61, y=68.00, z=978.68]
