@@ -2566,15 +2566,21 @@
     },
     "done": true
   },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2025-01-03 02:07:52 +0000"
+    },
+    "done": true
+  },
   "jeg:silencer": {
     "criteria": {
       "Item": "2025-01-03 02:08:44 +0000"
     },
     "done": true
   },
-  "jeg:infantry_rifle": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "Item": "2025-01-03 02:07:52 +0000"
+      "has_blue_orchid": "2025-01-03 02:19:33 +0000"
     },
     "done": true
   },

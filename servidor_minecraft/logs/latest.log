@@ -635,3 +635,36 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 02:05:35.580] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
 [03Jan2025 02:08:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
 [03Jan2025 02:08:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[03Jan2025 02:13:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] c
+[03Jan2025 02:13:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no se ve nada
+[03Jan2025 02:13:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si o si hay que estar cerca para ver las entidades
+[03Jan2025 02:13:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> o jugadores
+[03Jan2025 02:13:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> jose
+[03Jan2025 02:13:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] qué?
+[03Jan2025 02:14:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que no se ven los jugadores o entidades a cierta distancia
+[03Jan2025 02:14:58.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ª
+[03Jan2025 02:15:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> necesito madera de maple
+[03Jan2025 02:15:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> toca explorar
+[03Jan2025 02:15:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no hagas casa todavia
+[03Jan2025 02:15:40.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> muy temprano
+[03Jan2025 02:15:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mejor guarda los materiales
+[03Jan2025 02:15:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> let me cook
+[03Jan2025 02:16:28.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 02:16:28.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:16:39.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] parotista te pasa lo mismo que a viper?
+[03Jan2025 02:17:16.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-516, y=67, z=1097} BlockPos{x=-515, y=66, z=1096}
+[03Jan2025 02:17:16.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=67, z=1097} BlockPos{x=-515, y=66, z=1096}
+[03Jan2025 02:18:36.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67f91e52[id=<null>,name=viper076,properties={},legacy=false] (/100.113.149.44:53735) lost connection: Disconnected
+[03Jan2025 02:18:40.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53739] logged in with entity id 15864 at (-469.4399628352134, 63.0, 1103.176598616881)
+[03Jan2025 02:18:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 02:18:40.839] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 02:20:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> recien leo
+[03Jan2025 02:20:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> si
+[03Jan2025 02:20:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si q
+[03Jan2025 02:20:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> que me pasa lo mismo w
+[03Jan2025 02:21:18.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 02:21:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:21:23.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53753] logged in with entity id 16387 at (-442.3400682551915, 65.0, 1111.092067381825)
+[03Jan2025 02:21:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 02:21:23.760] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 02:21:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se apagara y prendera de nuevo
