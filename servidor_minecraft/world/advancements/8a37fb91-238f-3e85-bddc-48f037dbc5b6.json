@@ -774,6 +774,7 @@
       "minecraft:pillager": "2025-01-03 03:01:58 +0000",
       "minecraft:skeleton": "2025-01-03 03:16:15 +0000",
       "minecraft:spider": "2025-01-03 03:54:44 +0000",
+      "minecraft:creeper": "2025-01-03 04:17:41 +0000",
       "minecraft:enderman": "2025-01-03 03:22:12 +0000",
       "minecraft:zombie": "2025-01-03 01:15:52 +0000"
     },
@@ -1459,6 +1460,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 04:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 02:35:17 +0000"
@@ -1807,6 +1814,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-03 04:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-03 03:59:01 +0000"
@@ -1840,6 +1853,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-03 02:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 04:18:03 +0000"
     },
     "done": true
   },
@@ -1906,6 +1925,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-01-03 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-01-03 04:20:47 +0000"
     },
     "done": true
   },
@@ -1999,6 +2024,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-01-03 04:20:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-01-03 03:53:04 +0000"
@@ -2056,6 +2087,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-03 04:20:47 +0000"
     },
     "done": true
   },
@@ -2284,6 +2321,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 04:18:03 +0000"
     },
     "done": true
   },
