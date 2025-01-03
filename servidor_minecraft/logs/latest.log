@@ -519,3 +519,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 02:45:54.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [03Jan2025 02:45:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
 [03Jan2025 02:55:01.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/314, l='ServerLevel[world]', x=-431.30, y=75.00, z=1149.50] died, message: 'Farmer was slain by Zombie'
+[03Jan2025 03:02:13.333] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[03Jan2025 03:02:45.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:53920] logged in with entity id 6214 at (-467.46816952206905, 63.0, 1115.8723716007053)
+[03Jan2025 03:02:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 03:02:45.149] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 03:02:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> volvi
+[03Jan2025 03:03:10.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> hay un saqueador por ahi
+[03Jan2025 03:03:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> de esos con estandarte
+[03Jan2025 03:03:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tienes arma
+[03Jan2025 03:03:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> mate a su compañero
+[03Jan2025 03:03:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> pero no lo quiero matar a ese por el mal presagio
+[03Jan2025 03:03:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> voy a empezar a hacer una muralla
+[03Jan2025 03:05:20.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira discord
