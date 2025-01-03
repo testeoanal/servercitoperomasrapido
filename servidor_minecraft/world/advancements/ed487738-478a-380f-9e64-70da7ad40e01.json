@@ -2630,6 +2630,12 @@
     },
     "done": true
   },
+  "jeg:hollenfire_mk2": {
+    "criteria": {
+      "Item": "2025-01-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-03 04:19:46 +0000"
@@ -2870,6 +2876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-03 04:39:17 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-01-03 04:13:39 +0000"
@@ -3008,6 +3020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 04:41:47 +0000"
+    },
+    "done": true
+  },
   "jeg:holographic_sight": {
     "criteria": {
       "Item": "2025-01-03 04:12:13 +0000"
@@ -3047,6 +3065,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-03 03:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:41:47 +0000"
     },
     "done": true
   },
