@@ -4701,3 +4701,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 03:03:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> pero no lo quiero matar a ese por el mal presagio
 [03Jan2025 03:03:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> voy a empezar a hacer una muralla
 [03Jan2025 03:05:20.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira discord
+[03Jan2025 03:06:31.132] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jan2025 03:06:31.133] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to mdab17c9$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
+[03Jan2025 03:06:31.133] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to mdab17c9$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
+[03Jan2025 03:06:31.142] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jan2025 03:06:31.143] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from netherexp-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jan2025 03:06:51.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:06:51.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:07:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> empezare a hacer muralla aqui
+[03Jan2025 03:10:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 347 block(s)]
+[03Jan2025 03:11:51.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:11:51.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:13:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 390 block(s)]
+[03Jan2025 03:13:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> primero hare una muralla peruana
+[03Jan2025 03:13:38.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cuando tengamos buenos recursos la mejoramos
+[03Jan2025 03:13:41.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y expandimops
+[03Jan2025 03:14:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> lo normal
+[03Jan2025 03:15:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 872 block(s)]
+[03Jan2025 03:15:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hay q dormir
