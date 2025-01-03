@@ -4464,3 +4464,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 02:45:35.283] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
 [03Jan2025 02:45:54.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [03Jan2025 02:45:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:46:51.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:46:51.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:51:30.534] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-531, y=72, z=1140}) doesn't have enough leaves around top most log
+[03Jan2025 02:51:51.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:51:51.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:52:13.537] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-533, y=71, z=1132}) doesn't have enough leaves around top most log
+[03Jan2025 02:52:14.635] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-534, y=71, z=1132}) doesn't have enough leaves around top most log
+[03Jan2025 02:52:15.436] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-535, y=71, z=1132}) doesn't have enough leaves around top most log
+[03Jan2025 02:53:02.936] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-536, y=71, z=1134}) doesn't have enough leaves around top most log
+[03Jan2025 02:53:05.583] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-535, y=71, z=1133}) doesn't have enough leaves around top most log
+[03Jan2025 02:55:01.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/314, l='ServerLevel[world]', x=-431.30, y=75.00, z=1149.50] died, message: 'Farmer was slain by Zombie'

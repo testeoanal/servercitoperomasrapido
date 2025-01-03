@@ -518,3 +518,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 02:45:35.283] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
 [03Jan2025 02:45:54.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [03Jan2025 02:45:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 02:55:01.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/314, l='ServerLevel[world]', x=-431.30, y=75.00, z=1149.50] died, message: 'Farmer was slain by Zombie'
