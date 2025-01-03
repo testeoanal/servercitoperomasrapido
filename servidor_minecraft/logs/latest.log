@@ -521,3 +521,84 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Jan2025 01:20:03.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
 [03Jan2025 01:20:03.664] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
 [03Jan2025 01:20:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola paroputa
+[03Jan2025 01:20:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[03Jan2025 01:20:52.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to parotista]
+[03Jan2025 01:21:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te quedas aqui o te llevo a base
+[03Jan2025 01:21:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> uhhh
+[03Jan2025 01:21:58.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es lo unico que tengo
+[03Jan2025 01:22:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> usalo en emergencias
+[03Jan2025 01:22:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> llevame a la base
+[03Jan2025 01:22:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Acquire Hardware]
+[03Jan2025 01:22:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> 8 balas y recarga de a 1
+[03Jan2025 01:22:23.947] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[03Jan2025 01:22:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> primero salgamos de aqui
+[03Jan2025 01:22:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tu sabes
+[03Jan2025 01:23:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> primero a dormir
+[03Jan2025 01:23:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Sweet Dreams]
+[03Jan2025 01:23:47.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Jan2025 01:23:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Jan2025 01:23:59.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:63521] logged in with entity id 4120 at (152.30000001192093, 64.0, 86.34431976263792)
+[03Jan2025 01:23:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Jan2025 01:23:59.920] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Jan2025 01:24:04.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/108, l='ServerLevel[world]', x=159.49, y=64.00, z=82.51] died, message: 'Butcher was slain by parotista'
+[03Jan2025 01:24:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no lo mates xd
+[03Jan2025 01:24:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> no viste nada
+[03Jan2025 01:24:28.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> usa caballo
+[03Jan2025 01:24:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> seguime
+[03Jan2025 01:24:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el de armadura
+[03Jan2025 01:24:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> los otros no son mios
+[03Jan2025 01:26:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es un poco largo
+[03Jan2025 01:26:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> como esta
+[03Jan2025 01:26:31.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[03Jan2025 01:26:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya te saco
+[03Jan2025 01:27:30.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported parotista to viper076]
+[03Jan2025 01:28:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira de casualidad encontramos otra aldea
+[03Jan2025 01:28:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> nos servira
+[03Jan2025 01:28:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> es de las abandonadas
+[03Jan2025 01:28:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> f
+[03Jan2025 01:28:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> desp la saqueamos
+[03Jan2025 01:29:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta infectada
+[03Jan2025 01:29:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cerca estam,os
+[03Jan2025 01:29:47.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> oso
+[03Jan2025 01:30:20.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pinga
+[03Jan2025 01:30:23.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[03Jan2025 01:30:24.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> comes
+[03Jan2025 01:30:31.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya estamos
+[03Jan2025 01:30:37.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta granja es natural god
+[03Jan2025 01:30:39.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Jan2025 01:30:39.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daysay say tu<--[HERE]
+[03Jan2025 01:31:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] wpwt
+[03Jan2025 01:31:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> se ahogo con la pinga
+[03Jan2025 01:32:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> veni
+[03Jan2025 01:32:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me ahogue mamandole la vagina a tu hermana
+[03Jan2025 01:32:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 🤫
+[03Jan2025 01:32:55.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> eso diria alguien que comio verga
+[03Jan2025 01:33:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesito sugerencias paroputa
+[03Jan2025 01:33:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y como sabes?🤨
+[03Jan2025 01:33:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> elimino las casas y aplanamos y hacemos casas para nosotros o que
+[03Jan2025 01:33:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mucha pinga jose
+[03Jan2025 01:35:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y s hacen una granja de creepers?
+[03Jan2025 01:35:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> dificil
+[03Jan2025 01:35:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para?
+[03Jan2025 01:36:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el mod de armas depende mucho de la polvora
+[03Jan2025 01:36:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el terreno es un desastre
+[03Jan2025 01:36:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y soy perfeccionista
+[03Jan2025 01:36:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> sin algo aplanado no hago nada
+[03Jan2025 01:36:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> si pasa
+[03Jan2025 01:36:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> vas a sacar todas las casas?
+[03Jan2025 01:37:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> seee
+[03Jan2025 01:37:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no iba a exclavizar pero si lo hare
+[03Jan2025 01:37:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y tu parotista
+[03Jan2025 01:37:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tienes equipamiento en los cofres
+[03Jan2025 01:37:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> sala a explorar si quieres
+[03Jan2025 01:38:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> ok
+[03Jan2025 01:38:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> gracias
+[03Jan2025 01:38:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parotista has made the advancement [Suit Up]
+[03Jan2025 01:38:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> trae chatarra
+[03Jan2025 01:38:22.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para armas
+[03Jan2025 01:38:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parotista> tengo 33
+[03Jan2025 01:38:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> miraz
+[03Jan2025 01:38:48.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta es la primera mesa que hice
+[03Jan2025 01:39:11.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hace falta cobre y polvora
+[03Jan2025 01:39:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para valas
+[03Jan2025 01:39:17.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> balas*
