@@ -3536,6 +3536,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-04 04:04:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2025-01-04 03:05:38 +0000"
