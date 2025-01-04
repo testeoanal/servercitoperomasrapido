@@ -31,9 +31,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-04 22:33:10 +0000",
       "minecraft:beach": "2024-12-07 02:24:13 +0000",
       "minecraft:river": "2024-11-29 02:18:07 +0000",
+      "minecraft:stony_shore": "2025-01-04 22:38:18 +0000",
+      "minecraft:cold_ocean": "2025-01-04 22:37:57 +0000",
       "minecraft:forest": "2024-11-29 02:38:28 +0000",
+      "minecraft:snowy_beach": "2025-01-04 22:51:42 +0000",
       "minecraft:meadow": "2024-11-29 02:15:47 +0000",
       "minecraft:plains": "2024-11-29 02:13:45 +0000"
     },
@@ -3243,8 +3247,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2025-01-04 22:51:20 +0000",
+      "field": "2025-01-04 22:33:17 +0000",
       "coniferous_forest": "2025-01-02 01:46:18 +0000",
-      "fir_clearing": "2025-01-02 01:31:05 +0000"
+      "fir_clearing": "2025-01-02 01:31:05 +0000",
+      "gravel_beach": "2025-01-04 22:32:14 +0000"
     },
     "done": false
   },
