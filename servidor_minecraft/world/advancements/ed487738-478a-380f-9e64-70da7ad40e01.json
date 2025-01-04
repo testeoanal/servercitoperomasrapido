@@ -3542,5 +3542,11 @@
     },
     "done": true
   },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-01-04 03:43:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

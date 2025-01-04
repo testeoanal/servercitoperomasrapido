@@ -4060,3 +4060,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Jan2025 03:41:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Instant Health to viper076]
 [04Jan2025 03:42:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Invisibility to viper076]
 [04Jan2025 03:43:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Strength to viper076]
+[04Jan2025 03:43:22.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has completed the challenge [Overkill]
+[04Jan2025 03:43:59.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:43:59.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:44:48.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Speed to viper076]
+[04Jan2025 03:48:59.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:48:59.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:50:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 8524 block(s)]
+[04Jan2025 03:51:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 14894 block(s)]
+[04Jan2025 03:52:55.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 3517 block(s)]
