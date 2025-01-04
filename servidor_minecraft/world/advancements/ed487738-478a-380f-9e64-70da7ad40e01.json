@@ -3086,6 +3086,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-01-03 05:24:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone_from_white_sandstone_stonecutting": {
     "criteria": {
       "has_white_sandstone": "2025-01-03 05:11:49 +0000"
