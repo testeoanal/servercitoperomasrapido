@@ -619,3 +619,24 @@
 [05Jan2025 03:52:22.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=88, z=1100} BlockPos{x=-371, y=87, z=1100}
 [05Jan2025 03:52:22.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=88, z=1100} BlockPos{x=-371, y=87, z=1100}
 [05Jan2025 03:53:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> me quede sin pala
+[05Jan2025 03:56:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> me llenaste el inventario de ballestas
+[05Jan2025 03:58:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Levitation to zzsetas]
+[05Jan2025 03:58:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> jajajajaja
+[05Jan2025 03:58:44.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y eso? XD
+[05Jan2025 03:58:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> me dio levitacion el zombie
+[05Jan2025 03:59:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[05Jan2025 03:59:43.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> me hare un espadonm
+[05Jan2025 04:00:17.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Timed out
+[05Jan2025 04:00:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Jan2025 04:00:39.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/73927, l='ServerLevel[world]', x=-384.49, y=103.00, z=1137.49] died, message: 'Weaponsmith was slain by Zombie'
+[05Jan2025 04:01:03.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:52469] logged in with entity id 81361 at (-393.76408583156416, 99.0, 1120.7092583842414)
+[05Jan2025 04:01:03.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Jan2025 04:01:03.086] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Jan2025 04:01:19.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [A... Fake?]
+[05Jan2025 04:02:15.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> uuuuu
+[05Jan2025 04:02:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira zetas
+[05Jan2025 04:02:47.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[05Jan2025 04:02:57.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> sigue ganando el hacha
+[05Jan2025 04:03:10.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pues si es lo mas debil que hay
+[05Jan2025 04:03:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [A... Fake?]
+[05Jan2025 04:03:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se hacen con recursos simples
