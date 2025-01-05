@@ -981,6 +981,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-05 00:05:37 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
@@ -1097,6 +1103,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
       "minecraft:zombie": "2025-01-05 00:04:35 +0000"
     },
@@ -1120,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
@@ -1129,6 +1142,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-01-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
     },
     "done": true
   },
@@ -1366,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-05 00:05:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-01-04 23:53:07 +0000"
@@ -1498,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 23:53:07 +0000"
@@ -1525,6 +1556,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
     },
     "done": true
   },
@@ -1630,6 +1667,12 @@
     },
     "done": true
   },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-01-05 00:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-05 00:00:34 +0000"
@@ -1663,6 +1706,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-01-05 00:05:44 +0000"
     },
     "done": true
   },
@@ -1750,6 +1799,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-05 00:08:16 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
@@ -1759,6 +1814,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-04 23:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
     },
     "done": true
   },
@@ -1804,6 +1865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-05 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-05 00:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-05 00:00:34 +0000"
@@ -1825,6 +1898,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:01:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-05 00:08:16 +0000"
     },
     "done": true
   },
