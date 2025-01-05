@@ -3430,21 +3430,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "jeg:gunmetal_nugget": {
     "criteria": {
-      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
-    },
-    "done": true
-  },
-  "jeg:gunmetal_workbench": {
-    "criteria": {
-      "Item": "2025-01-05 02:21:47 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_wildflower": "2025-01-05 03:07:56 +0000"
+      "Item": "2025-01-05 02:20:19 +0000"
     },
     "done": true
   },
@@ -3454,21 +3442,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_planks": "2025-01-05 02:58:01 +0000"
+      "has_stone_slab": "2025-01-05 02:21:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+  "jeg:gunmetal_workbench": {
     "criteria": {
-      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
+      "Item": "2025-01-05 02:21:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_planks": "2025-01-05 02:58:01 +0000"
+      "has_emerald": "2025-01-05 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-01-05 02:38:13 +0000"
     },
     "done": true
   },
@@ -3478,51 +3472,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-01-05 03:14:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
-    "criteria": {
-      "has_item": "2025-01-05 03:05:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-05 02:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-01-05 02:58:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-01-05 02:41:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_melon": "2025-01-05 03:14:06 +0000"
+      "has_minecart": "2025-01-05 02:41:52 +0000"
     },
     "done": true
   },
-  "jeg:gunmetal_nugget": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "Item": "2025-01-05 02:20:19 +0000"
+      "has_minecart": "2025-01-05 02:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-05 02:41:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-05 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 02:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:58:01 +0000"
     },
     "done": true
   },
@@ -3538,39 +3538,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-05 02:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-01-05 02:28:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 02:53:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-05 02:41:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
     },
     "done": true
   },
@@ -3592,15 +3562,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
-      "has_minecart": "2025-01-05 02:41:52 +0000"
+      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_melon": "2025-01-05 03:14:06 +0000"
+      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-01-05 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:05:58 +0000"
     },
     "done": true
   },
@@ -3610,21 +3604,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
-      "has_minecart": "2025-01-05 02:41:52 +0000"
+      "has_wildflower": "2025-01-05 03:07:56 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "location0": "2025-01-05 02:49:57 +0000"
+      "has_melon": "2025-01-05 03:14:06 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_name_tag": "2025-01-05 02:38:13 +0000"
+      "has_melon": "2025-01-05 03:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-05 03:14:06 +0000"
     },
     "done": true
   },
