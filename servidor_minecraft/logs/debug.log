@@ -4709,3 +4709,13 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Jan2025 00:36:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no se quien eres tu
 [05Jan2025 00:37:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zelev555> jajja no sos jose
 [05Jan2025 00:39:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 has made the advancement [Stone Age]
+[05Jan2025 00:40:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 has made the advancement [Getting an Upgrade]
+[05Jan2025 00:40:21.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:40:21.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:43:23.617] [Server thread/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jan2025 00:43:23.618] [Server thread/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jan2025 00:43:23.618] [Server thread/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jan2025 00:43:23.618] [Server thread/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jan2025 00:43:23.620] [Server thread/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jan2025 00:45:21.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:45:21.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
