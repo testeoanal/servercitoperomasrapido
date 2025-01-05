@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 04:53:18 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-01-05 04:37:47 +0000"
@@ -110,7 +116,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 04:50:11 +0000",
-      "minecraft:spider": "2025-01-05 04:50:25 +0000"
+      "minecraft:spider": "2025-01-05 04:50:25 +0000",
+      "minecraft:zombie": "2025-01-05 04:53:23 +0000"
     },
     "done": false
   },
@@ -150,6 +157,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-05 04:53:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-01-05 04:45:27 +0000"
@@ -165,6 +178,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:repeating_shotgun": {
+    "criteria": {
+      "Item": "2025-01-05 04:51:29 +0000"
     },
     "done": true
   },
@@ -468,9 +487,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-05 04:55:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-05 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-01-05 04:58:25 +0000"
     },
     "done": true
   },
@@ -540,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-05 04:55:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-05 04:38:23 +0000"
@@ -552,6 +589,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-01-05 04:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-05 04:45:27 +0000"
@@ -561,6 +604,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-05 04:50:32 +0000"
+    },
+    "done": true
+  },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2025-01-05 04:56:09 +0000"
     },
     "done": true
   },
@@ -606,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-05 04:58:25 +0000"
+    },
+    "done": true
+  },
   "bossominium:loot_bosses_a": {
     "criteria": {
       "loot_bosses_a": "2025-01-05 04:37:47 +0000"
@@ -615,6 +670,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-05 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:double_barrel_shotgun": {
+    "criteria": {
+      "Item": "2025-01-05 05:04:25 +0000"
     },
     "done": true
   },
@@ -708,6 +769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-05 04:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-05 04:45:23 +0000"
@@ -764,7 +831,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-05 04:54:45 +0000",
       "minecraft:plains": "2025-01-05 04:37:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-01-05 04:59:45 +0000",
+      "rotten_flesh": "2025-01-05 04:53:31 +0000"
     },
     "done": false
   },

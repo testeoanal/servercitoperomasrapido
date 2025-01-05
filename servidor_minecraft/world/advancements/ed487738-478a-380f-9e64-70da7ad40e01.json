@@ -659,6 +659,7 @@
       "minecraft:skeleton": "2025-01-02 01:29:17 +0000",
       "minecraft:spider": "2025-01-03 03:20:44 +0000",
       "minecraft:creeper": "2025-01-03 03:20:43 +0000",
+      "minecraft:zombified_piglin": "2025-01-05 04:54:25 +0000",
       "minecraft:husk": "2025-01-05 02:52:06 +0000",
       "minecraft:zombie": "2025-01-02 00:39:15 +0000",
       "minecraft:zombie_villager": "2025-01-02 17:42:49 +0000"
@@ -4280,6 +4281,12 @@
   "jeg:double_barrel_shotgun": {
     "criteria": {
       "Item": "2025-01-05 04:32:50 +0000"
+    },
+    "done": true
+  },
+  "jeg:assault_rifle": {
+    "criteria": {
+      "Item": "2025-01-05 04:56:11 +0000"
     },
     "done": true
   },
