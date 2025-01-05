@@ -6,3 +6,22 @@
 [05Jan2025 00:16:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> hols
 [05Jan2025 00:16:51.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> tu vas al grano ni casa ni nada xD
 [05Jan2025 00:17:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Hot Stuff]
+[05Jan2025 00:19:50.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=62, z=48} BlockPos{x=127, y=62, z=48}
+[05Jan2025 00:23:41.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[05Jan2025 00:23:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
+[05Jan2025 00:25:32.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:50843] logged in with entity id 11969 at (-4.511124690926289, 64.0, -190.30000001192093)
+[05Jan2025 00:25:32.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[05Jan2025 00:25:32.318] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[05Jan2025 00:25:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> buenos dias
+[05Jan2025 00:26:02.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zelev555 lost connection: Timed out
+[05Jan2025 00:26:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 left the game
+[05Jan2025 00:27:25.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zelev555[/100.66.243.92:50865] logged in with entity id 12386 at (-4.511124690926289, 64.0, -190.30000001192093)
+[05Jan2025 00:27:25.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 joined the game
+[05Jan2025 00:27:25.679] [Server thread/INFO] [Jade/]: Syncing config to zelev555 (2e7dca83-d249-33d5-8db5-5ccbdd884edc)
+[05Jan2025 00:36:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 has made the advancement [Sweet Dreams]
+[05Jan2025 00:36:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zelev555> oe
+[05Jan2025 00:36:21.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ehh
+[05Jan2025 00:36:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zelev555> ya me va medianamente bien
+[05Jan2025 00:36:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no se quien eres tu
+[05Jan2025 00:37:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zelev555> jajja no sos jose
+[05Jan2025 00:39:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zelev555 has made the advancement [Stone Age]
