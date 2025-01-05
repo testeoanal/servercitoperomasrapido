@@ -4045,3 +4045,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Jan2025 04:21:02.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jan2025 04:24:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 430 block(s)]
 [05Jan2025 04:24:35.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 266 block(s)]
+[05Jan2025 04:26:02.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:26:02.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 04:31:02.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:31:02.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
