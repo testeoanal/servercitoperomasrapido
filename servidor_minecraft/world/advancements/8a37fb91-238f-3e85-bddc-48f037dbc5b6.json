@@ -1151,7 +1151,8 @@
     "criteria": {
       "field": "2025-01-03 01:30:00 +0000",
       "coniferous_forest": "2025-01-03 01:26:36 +0000",
-      "forested_field": "2025-01-03 02:00:52 +0000"
+      "forested_field": "2025-01-03 02:00:52 +0000",
+      "glowing_grotto": "2025-01-05 01:46:25 +0000"
     },
     "done": false
   },
@@ -2541,12 +2542,6 @@
     },
     "done": true
   },
-  "jeg:gunmetal_ingot": {
-    "criteria": {
-      "Item": "2025-01-05 01:37:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 01:29:36 +0000"
@@ -2595,6 +2590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-05 01:29:36 +0000"
+    },
+    "done": true
+  },
   "jeg:gunmetal_grit": {
     "criteria": {
       "Item": "2025-01-05 01:35:55 +0000"
@@ -2607,9 +2608,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "jeg:gunmetal_ingot": {
     "criteria": {
-      "has_granite": "2025-01-05 01:29:36 +0000"
+      "Item": "2025-01-05 01:37:14 +0000"
     },
     "done": true
   },
