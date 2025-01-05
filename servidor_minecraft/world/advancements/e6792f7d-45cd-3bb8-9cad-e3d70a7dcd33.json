@@ -31,6 +31,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-05 02:28:15 +0000",
+      "minecraft:river": "2025-01-05 02:27:38 +0000",
       "minecraft:dripstone_caves": "2025-01-04 23:51:36 +0000",
       "minecraft:meadow": "2025-01-04 23:31:50 +0000",
       "minecraft:plains": "2025-01-04 23:29:55 +0000"
@@ -951,10 +953,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-05 02:25:57 +0000",
       "cooked_mutton": "2025-01-04 23:55:44 +0000",
       "cooked_beef": "2025-01-05 00:37:47 +0000",
       "apple": "2025-01-04 23:41:35 +0000",
-      "bread": "2025-01-05 00:01:42 +0000"
+      "bread": "2025-01-05 00:01:42 +0000",
+      "golden_apple": "2025-01-05 02:28:51 +0000",
+      "glow_berries": "2025-01-05 02:26:05 +0000",
+      "cooked_chicken": "2025-01-05 02:19:58 +0000"
     },
     "done": false
   },
@@ -973,6 +979,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-04 23:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-05 02:26:47 +0000"
     },
     "done": true
   },
@@ -1128,6 +1140,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 02:27:14 +0000",
       "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
       "minecraft:zombie": "2025-01-05 00:04:35 +0000"
@@ -1320,9 +1333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-05 02:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-04 23:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-05 02:19:52 +0000"
     },
     "done": true
   },
@@ -1557,6 +1582,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-05 02:26:25 +0000"
     },
     "done": true
   },
@@ -2103,6 +2134,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-05 02:19:52 +0000"
     },
     "done": true
   },
