@@ -4277,5 +4277,11 @@
     },
     "done": true
   },
+  "jeg:double_barrel_shotgun": {
+    "criteria": {
+      "Item": "2025-01-05 04:32:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
