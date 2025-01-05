@@ -2541,6 +2541,12 @@
     },
     "done": true
   },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2025-01-05 01:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 01:29:36 +0000"
@@ -2586,6 +2592,18 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 01:29:36 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2025-01-05 01:35:55 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_nugget": {
+    "criteria": {
+      "Item": "2025-01-05 01:37:02 +0000"
     },
     "done": true
   },
