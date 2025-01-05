@@ -31,9 +31,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-05 03:16:36 +0000",
       "minecraft:beach": "2025-01-05 02:28:15 +0000",
       "minecraft:river": "2025-01-05 02:27:38 +0000",
       "minecraft:dripstone_caves": "2025-01-04 23:51:36 +0000",
+      "minecraft:grove": "2025-01-05 03:18:07 +0000",
+      "minecraft:jagged_peaks": "2025-01-05 03:19:29 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-05 03:15:01 +0000",
       "minecraft:meadow": "2025-01-04 23:31:50 +0000",
       "minecraft:plains": "2025-01-04 23:29:55 +0000"
     },
@@ -976,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-04 23:57:38 +0000"
@@ -1156,6 +1166,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 03:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
@@ -1175,6 +1191,7 @@
       "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
       "minecraft:husk": "2025-01-05 02:52:19 +0000",
+      "minecraft:enderman": "2025-01-05 03:02:57 +0000",
       "minecraft:zombie": "2025-01-05 00:04:35 +0000"
     },
     "done": false
@@ -1332,6 +1349,12 @@
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
     },
     "done": true
   },
@@ -1551,6 +1574,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-01-05 03:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:01:23 +0000"
@@ -1563,9 +1592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-05 03:17:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-05 01:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-05 03:19:14 +0000"
     },
     "done": true
   },
@@ -1620,6 +1661,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-05 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
     },
     "done": true
   },
@@ -1833,6 +1880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-04 23:53:07 +0000"
@@ -1881,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-05 03:18:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-04 23:57:38 +0000"
@@ -1910,7 +1969,8 @@
       "maple_woods": "2025-01-05 02:49:19 +0000",
       "field": "2025-01-05 02:36:52 +0000",
       "forested_field": "2025-01-05 02:48:30 +0000",
-      "glowing_grotto": "2025-01-05 02:41:14 +0000"
+      "glowing_grotto": "2025-01-05 02:41:14 +0000",
+      "crag": "2025-01-05 03:17:59 +0000"
     },
     "done": false
   },
@@ -2022,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-04 23:52:53 +0000"
@@ -2109,6 +2175,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-04 23:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 03:07:05 +0000"
     },
     "done": true
   },
