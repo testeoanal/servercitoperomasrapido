@@ -2538,6 +2538,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "bluemoon_short": "2025-01-05 04:01:19 +0000",
       "darkin_scythe": "2025-01-02 18:36:29 +0000"
     },
     "done": false
@@ -4048,6 +4049,12 @@
     },
     "done": true
   },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2025-01-05 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-01-05 03:14:17 +0000"
@@ -4171,6 +4178,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 03:05:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-05 04:09:23 +0000"
     },
     "done": true
   },
