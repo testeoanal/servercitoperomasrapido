@@ -4025,3 +4025,23 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Jan2025 19:19:20.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 1177 block(s)]
 [05Jan2025 19:20:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 998 block(s)]
 [05Jan2025 19:21:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 1194 block(s)]
+[05Jan2025 19:23:29.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:23:29.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:26:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Stopping the server]
+[05Jan2025 19:26:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jan2025 19:26:00.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jan2025 19:26:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jan2025 19:26:00.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jan2025 19:26:00.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jan2025 19:26:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Jan2025 19:26:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jan2025 19:26:00.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:26:00.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:26:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 19:26:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 19:26:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Jan2025 19:26:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 19:26:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jan2025 19:26:00.559] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Jan2025 19:26:00.559] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Jan2025 19:26:00.561] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
