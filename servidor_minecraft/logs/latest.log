@@ -574,3 +574,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 22:57:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> entonces peleemos
 [06Jan2025 22:57:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> bue
 [06Jan2025 22:59:22.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> dormimos primero?
+[06Jan2025 23:02:48.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> peliemos
+[06Jan2025 23:03:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> estas?
+[06Jan2025 23:04:01.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> si
+[06Jan2025 23:04:55.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Iron Golem
+[06Jan2025 23:05:01.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
+[06Jan2025 23:05:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
