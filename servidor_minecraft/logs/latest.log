@@ -585,3 +585,20 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 23:22:21.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/28452, l='ServerLevel[world]', x=-422.63, y=64.02, z=1062.94] died, message: 'Mason was slain by Zombie'
 [06Jan2025 23:27:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server]  apago ya?
 [06Jan2025 23:37:55.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/28450, l='ServerLevel[world]', x=-422.55, y=63.00, z=1095.77] died, message: 'Armorer was slain by Zombie'
+[06Jan2025 23:47:42.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Disconnected
+[06Jan2025 23:47:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[06Jan2025 23:48:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jan2025 23:48:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jan2025 23:48:12.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jan2025 23:48:12.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jan2025 23:48:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jan2025 23:48:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jan2025 23:48:12.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[06Jan2025 23:48:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jan2025 23:48:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jan2025 23:48:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jan2025 23:48:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[06Jan2025 23:48:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jan2025 23:48:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jan2025 23:48:12.343] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jan2025 23:48:12.346] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
