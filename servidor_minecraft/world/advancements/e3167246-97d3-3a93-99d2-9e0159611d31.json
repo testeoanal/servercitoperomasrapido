@@ -4197,6 +4197,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2025-01-06 21:50:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-01-06 21:23:25 +0000"

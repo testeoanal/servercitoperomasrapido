@@ -530,3 +530,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 21:31:26.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 hit the ground too hard
 [06Jan2025 21:31:28.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=65, z=130} BlockPos{x=-62, y=64, z=130}
 [06Jan2025 21:35:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [A Terrible Fortress]
+[06Jan2025 21:44:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
