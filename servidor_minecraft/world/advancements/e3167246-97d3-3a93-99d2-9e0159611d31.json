@@ -339,6 +339,7 @@
       "cooked_mutton": "2024-11-29 02:23:45 +0000",
       "sweet_berries": "2025-01-05 22:26:58 +0000",
       "cooked_beef": "2025-01-05 21:15:01 +0000",
+      "chorus_fruit": "2025-01-06 21:58:24 +0000",
       "baked_potato": "2025-01-05 22:12:36 +0000",
       "apple": "2024-12-14 02:26:49 +0000",
       "spider_eye": "2025-01-05 21:35:51 +0000",
@@ -4206,6 +4207,12 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-01-06 21:23:25 +0000"
+    },
+    "done": true
+  },
+  "unusualend:local_food": {
+    "criteria": {
+      "local_food_0": "2025-01-06 21:58:24 +0000"
     },
     "done": true
   },
