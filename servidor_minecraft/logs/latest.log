@@ -519,3 +519,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 21:22:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 joined the game
 [06Jan2025 21:22:23.616] [Server thread/INFO] [Jade/]: Syncing config to FrancoTapias_37 (e3167246-97d3-3a93-99d2-9e0159611d31)
 [06Jan2025 21:22:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[06Jan2025 21:27:21.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f3b1fec[id=<null>,name=zzsetas,properties={},legacy=false] (/100.116.239.124:58497) lost connection: Disconnected
+[06Jan2025 21:27:28.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:58506] logged in with entity id 973 at (-439.36228195006134, 63.0, 1082.4076600218648)
+[06Jan2025 21:27:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[06Jan2025 21:27:28.960] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[06Jan2025 21:27:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> Hola
+[06Jan2025 21:30:37.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hola
+[06Jan2025 21:30:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrancoTapias_37> Xd
+[06Jan2025 21:31:23.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2530ms or 50 ticks behind
+[06Jan2025 21:31:26.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 hit the ground too hard
+[06Jan2025 21:31:28.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=65, z=130} BlockPos{x=-62, y=64, z=130}
+[06Jan2025 21:35:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [A Terrible Fortress]

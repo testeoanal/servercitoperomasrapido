@@ -2364,6 +2364,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "erupting_inferno": "2025-01-06 21:32:12 +0000",
       "highland": "2025-01-05 20:45:56 +0000",
       "maple_woods": "2025-01-05 02:49:19 +0000",
       "field": "2025-01-05 02:36:52 +0000",
@@ -3383,21 +3384,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/cosmic_cod": {
+  "unusualend:local_food": {
     "criteria": {
-      "capsid": "2025-01-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_wildflower": "2025-01-06 03:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-06 02:54:25 +0000"
+      "local_food_0": "2025-01-06 02:16:13 +0000"
     },
     "done": true
   },
@@ -3419,25 +3408,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-01-06 02:33:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-06 02:27:43 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "killed_by_vallumraptor": "2025-01-06 03:09:41 +0000"
+      "has_purpur_block": "2025-01-06 02:27:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab": {
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-06 02:27:43 +0000"
     },
@@ -3455,15 +3438,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
-      "has_purpur_block": "2025-01-06 02:27:43 +0000"
+      "capsid": "2025-01-06 02:33:07 +0000"
     },
     "done": true
   },
-  "unusualend:local_food": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "local_food_0": "2025-01-06 02:16:13 +0000"
+      "has_shulker_shell": "2025-01-06 02:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-06 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-06 03:09:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-01-06 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-06 21:33:29 +0000"
     },
     "done": true
   },
