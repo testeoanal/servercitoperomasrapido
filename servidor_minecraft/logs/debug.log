@@ -4813,3 +4813,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 23:18:40.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 23:18:40.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jan2025 23:18:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] falta hora y media
+[06Jan2025 23:20:01.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was blown up by Creeper
+[06Jan2025 23:22:21.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/28452, l='ServerLevel[world]', x=-422.63, y=64.02, z=1062.94] died, message: 'Mason was slain by Zombie'
+[06Jan2025 23:23:40.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:23:40.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:27:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server]  apago ya?
+[06Jan2025 23:28:40.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:28:40.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:28:58.299] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[06Jan2025 23:28:58.300] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md681cf2$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin

@@ -581,3 +581,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Jan2025 23:05:01.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrancoTapias_37 lost connection: Disconnected
 [06Jan2025 23:05:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrancoTapias_37 left the game
 [06Jan2025 23:18:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] falta hora y media
+[06Jan2025 23:20:01.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was blown up by Creeper
+[06Jan2025 23:22:21.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/28452, l='ServerLevel[world]', x=-422.63, y=64.02, z=1062.94] died, message: 'Mason was slain by Zombie'
+[06Jan2025 23:27:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server]  apago ya?
