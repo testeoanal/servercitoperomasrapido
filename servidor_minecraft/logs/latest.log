@@ -538,3 +538,16 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Feb2025 22:59:05.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
 [02Feb2025 22:59:05.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
 [02Feb2025 22:59:17.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[02Feb2025 23:02:29.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/264, l='ServerLevel[world]', x=-428.45, y=63.00, z=1051.99] died, message: 'Armorer was slain by viper076'
+[02Feb2025 23:02:34.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/267, l='ServerLevel[world]', x=-434.52, y=63.00, z=1051.06] died, message: 'Weaponsmith was slain by viper076'
+[02Feb2025 23:02:43.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/268, l='ServerLevel[world]', x=-444.27, y=63.00, z=1046.73] died, message: 'Fletcher was slain by viper076'
+[02Feb2025 23:02:47.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/265, l='ServerLevel[world]', x=-436.02, y=63.00, z=1064.02] died, message: 'Butcher was slain by viper076'
+[02Feb2025 23:02:54.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/272, l='ServerLevel[world]', x=-430.65, y=63.56, z=1055.18] died, message: 'Fletcher was slain by viper076'
+[02Feb2025 23:02:59.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/269, l='ServerLevel[world]', x=-441.13, y=63.00, z=1052.70] died, message: 'Farmer was slain by viper076'
+[02Feb2025 23:03:07.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/270, l='ServerLevel[world]', x=-439.69, y=63.00, z=1058.53] died, message: 'Mason was slain by viper076'
+[02Feb2025 23:03:11.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/266, l='ServerLevel[world]', x=-437.04, y=63.00, z=1052.96] died, message: 'Toolsmith was slain by viper076'
+[02Feb2025 23:06:41.474] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/256, l='ServerLevel[world]', x=-427.45, y=63.00, z=1051.53] died, message: 'Farmer was slain by viper076'
+[02Feb2025 23:08:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[02Feb2025 23:08:50.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 1423 block(s)]
+[02Feb2025 23:09:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 404 block(s)]
+[02Feb2025 23:10:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
