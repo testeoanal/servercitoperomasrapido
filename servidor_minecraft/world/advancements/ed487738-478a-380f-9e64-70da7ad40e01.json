@@ -6425,9 +6425,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-02-03 18:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-02-03 18:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-03 18:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 18:56:52 +0000"
     },
     "done": true
   },
@@ -6452,6 +6470,12 @@
   "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
     "criteria": {
       "has_block": "2025-02-03 18:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 18:56:52 +0000"
     },
     "done": true
   },
