@@ -6443,6 +6443,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-03 19:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-03 19:15:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-03 18:56:52 +0000"
@@ -6467,6 +6479,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-03 19:14:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
     "criteria": {
       "has_block": "2025-02-03 18:38:51 +0000"
@@ -6476,6 +6494,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-03 18:56:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-03 19:14:42 +0000"
     },
     "done": true
   },
