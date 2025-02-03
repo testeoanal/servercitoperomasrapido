@@ -46,6 +46,7 @@
       "minecraft:deep_frozen_ocean": "2025-02-03 00:14:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-05 03:15:01 +0000",
       "minecraft:snowy_beach": "2025-02-02 23:59:06 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-03 01:28:06 +0000",
       "minecraft:meadow": "2025-01-04 23:31:50 +0000",
       "minecraft:plains": "2025-01-04 23:29:55 +0000"
     },
@@ -3639,15 +3640,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-03 01:19:44 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/esca": {
     "criteria": {
       "has_item": "2025-02-03 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
     },
     "done": true
   },
@@ -3660,6 +3679,12 @@
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2025-02-03 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
     },
     "done": true
   },
@@ -3684,6 +3709,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-03 01:28:19 +0000"
     },
     "done": true
   },
@@ -3729,6 +3760,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-03 01:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-03 01:19:44 +0000"
@@ -3762,6 +3805,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-02-02 23:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
     },
     "done": true
   },
@@ -3813,6 +3862,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-03 01:28:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:56:16 +0000"
@@ -3837,6 +3892,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_shell_horn": {
     "criteria": {
       "shell_horn": "2025-02-03 00:16:58 +0000"
@@ -3858,6 +3931,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-02 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-03 01:28:19 +0000"
     },
     "done": true
   },
