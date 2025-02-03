@@ -634,3 +634,29 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Feb2025 23:47:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde esta la fogata son mios
 [02Feb2025 23:47:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> vuelvo en una hora
 [02Feb2025 23:48:33.291] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2125ms or 42 ticks
+[02Feb2025 23:52:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has completed the challenge [Overkill]
+[02Feb2025 23:55:45.875] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:46.023] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:46.047] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:46.174] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.585] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Feb2025 23:55:48.586] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Feb2025 23:55:48.769] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.809] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.817] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.868] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.904] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.906] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.975] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.983] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:48.998] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.085] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.113] [Worker-Main-61/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.766] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.799] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.832] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.868] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:49.877] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Feb2025 23:55:51.077] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 13050ms or 261 ticks
+[02Feb2025 23:55:51.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11469ms or 229 ticks behind
+[02Feb2025 23:59:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Mine? Mine? Mine?]
