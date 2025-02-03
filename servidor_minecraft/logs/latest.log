@@ -563,3 +563,23 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Feb2025 04:02:00.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [03Feb2025 04:02:00.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
 [03Feb2025 04:02:00.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[03Feb2025 04:03:02.423] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[03Feb2025 04:04:27.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:54182] logged in with entity id 1474 at (-451.98971982907955, 63.0, 1044.0787000185344)
+[03Feb2025 04:04:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Feb2025 04:04:28.000] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Feb2025 04:04:29.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[03Feb2025 04:04:29.170] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[03Feb2025 04:04:32.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[03Feb2025 04:04:33.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[03Feb2025 04:04:33.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
+[03Feb2025 04:04:53.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Feb2025 04:04:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Feb2025 04:04:53.105] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[03Feb2025 04:11:45.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:54685] logged in with entity id 1733 at (-450.44522912725915, 63.0, 1045.5143045786199)
+[03Feb2025 04:11:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[03Feb2025 04:11:45.141] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[03Feb2025 04:11:46.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[03Feb2025 04:11:46.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[03Feb2025 04:11:49.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[03Feb2025 04:11:50.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[03Feb2025 04:11:50.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
