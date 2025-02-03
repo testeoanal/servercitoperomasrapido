@@ -6473,6 +6473,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-02-03 19:26:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_pressure_plate": {
     "criteria": {
       "has_block": "2025-02-03 18:38:51 +0000"
