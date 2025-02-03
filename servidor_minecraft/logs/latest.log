@@ -24,3 +24,4 @@
 [03Feb2025 00:34:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Gave 124 [Carrot] to viper076]
 [03Feb2025 00:35:07.372] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
 [03Feb2025 00:39:58.065] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2071ms or 41 ticks
+[03Feb2025 00:48:28.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32481, l='ServerLevel[world]', x=-2197.32, y=64.00, z=6.49] died, message: 'Unemployed hit the ground too hard'
