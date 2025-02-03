@@ -6491,6 +6491,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 19:38:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-02-03 19:39:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
     "criteria": {
       "has_block": "2025-02-03 18:38:51 +0000"

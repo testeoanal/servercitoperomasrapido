@@ -569,3 +569,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Feb2025 19:15:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [The Parrots and the Bats]
 [03Feb2025 19:20:34.647] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
 [03Feb2025 19:26:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has completed the challenge [Uma Delicia]
+[03Feb2025 19:39:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [In Memoriam]
+[03Feb2025 19:41:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[03Feb2025 19:41:57.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[03Feb2025 19:42:11.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
