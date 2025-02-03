@@ -38,10 +38,14 @@
       "minecraft:river": "2025-01-05 02:27:38 +0000",
       "minecraft:snowy_plains": "2025-01-05 20:55:57 +0000",
       "minecraft:dripstone_caves": "2025-01-04 23:51:36 +0000",
+      "minecraft:snowy_taiga": "2025-02-02 23:58:45 +0000",
       "minecraft:grove": "2025-01-05 03:18:07 +0000",
       "minecraft:jagged_peaks": "2025-01-05 03:19:29 +0000",
       "minecraft:forest": "2025-01-05 20:46:23 +0000",
+      "minecraft:frozen_ocean": "2025-02-02 23:59:08 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-03 00:14:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-05 03:15:01 +0000",
+      "minecraft:snowy_beach": "2025-02-02 23:59:06 +0000",
       "minecraft:meadow": "2025-01-04 23:31:50 +0000",
       "minecraft:plains": "2025-01-04 23:29:55 +0000"
     },
@@ -1522,6 +1526,7 @@
       "minecraft:blaze": "2025-01-06 21:40:29 +0000",
       "minecraft:skeleton": "2025-01-05 02:38:59 +0000",
       "minecraft:ghast": "2025-01-06 21:42:24 +0000",
+      "minecraft:vindicator": "2025-02-03 00:16:41 +0000",
       "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
       "minecraft:wither_skeleton": "2025-01-06 21:34:51 +0000",
@@ -2370,12 +2375,18 @@
     "criteria": {
       "erupting_inferno": "2025-01-06 21:32:12 +0000",
       "highland": "2025-01-05 20:45:56 +0000",
+      "cold_desert": "2025-02-02 23:57:37 +0000",
       "maple_woods": "2025-01-05 02:49:19 +0000",
       "field": "2025-01-05 02:36:52 +0000",
       "coniferous_forest": "2025-01-05 03:39:35 +0000",
       "forested_field": "2025-01-05 02:48:30 +0000",
       "visceral_heap": "2025-01-05 20:01:32 +0000",
+      "fir_clearing": "2025-02-03 00:13:38 +0000",
+      "snowy_coniferous_forest": "2025-02-03 00:28:47 +0000",
+      "snowy_fir_clearing": "2025-02-02 23:56:57 +0000",
+      "tundra": "2025-02-03 00:30:14 +0000",
       "glowing_grotto": "2025-01-05 02:41:14 +0000",
+      "gravel_beach": "2025-02-03 00:31:00 +0000",
       "crag": "2025-01-05 03:17:59 +0000"
     },
     "done": false
@@ -3574,9 +3585,33 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-02-03 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-03 00:19:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-02-02 23:33:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-02-03 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-02-03 00:24:08 +0000"
     },
     "done": true
   },
@@ -3586,9 +3621,27 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-02-03 00:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-02 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-02 23:59:38 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-02-03 00:16:59 +0000"
     },
     "done": true
   },
@@ -3601,6 +3654,24 @@
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-02-02 23:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-03 00:08:33 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-02-03 00:16:58 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-02-03 00:25:43 +0000"
     },
     "done": true
   },

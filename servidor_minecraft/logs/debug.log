@@ -7415,3 +7415,53 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [02Feb2025 23:56:55.219] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-524, y=93, z=596}) doesn't have enough leaves around top most log
 [02Feb2025 23:56:56.018] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-524, y=92, z=596}) doesn't have enough leaves around top most log
 [02Feb2025 23:59:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Mine? Mine? Mine?]
+[03Feb2025 00:01:27.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:01:27.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:01:42.964] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:45.916] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:46.811] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:47.503] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:48.204] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:48.810] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:52.408] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:54.061] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:54.653] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:55.258] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:55.860] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:56.760] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:01:57.359] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[03Feb2025 00:03:23.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> un zombie mutantwe
+[03Feb2025 00:03:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tengo un creeper mutante aqui
+[03Feb2025 00:03:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> matalo
+[03Feb2025 00:03:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> saltan
+[03Feb2025 00:03:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> AHHHHHH
+[03Feb2025 00:03:46.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[03Feb2025 00:06:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> solo dio polvora
+[03Feb2025 00:06:27.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:06:27.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:11:27.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:11:27.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:13:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has reached the goal [Pray to the Goddess]
+[03Feb2025 00:14:36.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Ice Maze]
+[03Feb2025 00:16:27.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:16:27.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:16:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> zetas si encontras zanahorias trae
+[03Feb2025 00:16:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Exploration]
+[03Feb2025 00:17:43.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Spectator Mode]
+[03Feb2025 00:17:47.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to zzsetas]
+[03Feb2025 00:18:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Vindicator
+[03Feb2025 00:18:17.523] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[03Feb2025 00:18:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Vindicator
+[03Feb2025 00:19:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Voluntary Exile]
+[03Feb2025 00:19:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[03Feb2025 00:21:27.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:21:27.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:22:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Vindicator
+[03Feb2025 00:24:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [The Light In The Darkness]
+[03Feb2025 00:25:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> porque hay tantos agujeros en mi base
+[03Feb2025 00:25:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Greed]
+[03Feb2025 00:26:27.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:26:27.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:29:36.474] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[03Feb2025 00:31:27.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:31:27.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

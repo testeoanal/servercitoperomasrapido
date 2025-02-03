@@ -672,6 +672,7 @@
       "minecraft:stray": "2025-01-05 21:03:37 +0000",
       "minecraft:enderman": "2025-01-06 01:19:28 +0000",
       "minecraft:zombie": "2025-01-02 00:39:15 +0000",
+      "minecraft:drowned": "2025-02-03 00:02:34 +0000",
       "minecraft:zombie_villager": "2025-01-02 17:42:49 +0000"
     },
     "done": false
@@ -5602,6 +5603,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-03 00:11:38 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-02-02 22:59:00 +0000"
@@ -5617,6 +5624,18 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-02 23:38:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-03 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-03 00:11:38 +0000"
     },
     "done": true
   },
@@ -5647,6 +5666,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-02 23:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 00:03:29 +0000"
     },
     "done": true
   },
@@ -5689,6 +5714,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-02 23:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-03 00:22:29 +0000"
     },
     "done": true
   },
@@ -5794,6 +5825,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-03 00:22:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-02 23:38:41 +0000"
@@ -5836,6 +5873,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-03 00:13:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-02 23:35:24 +0000"
@@ -5863,6 +5906,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-02 23:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 00:11:38 +0000"
     },
     "done": true
   },
@@ -5950,6 +5999,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 00:11:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-02 23:35:24 +0000"
@@ -5992,9 +6047,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-03 00:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-02 23:38:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-03 00:22:29 +0000"
     },
     "done": true
   },
