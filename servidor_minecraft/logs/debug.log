@@ -7022,3 +7022,11 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Feb2025 03:41:27.092] [Server thread/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
 [03Feb2025 03:41:27.092] [Server thread/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
 [03Feb2025 03:41:27.093] [Server thread/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Feb2025 03:43:02.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:43:02.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 03:45:27.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[03Feb2025 03:45:27.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[03Feb2025 03:45:27.705] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of viper076
+[03Feb2025 03:45:27.706] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[03Feb2025 03:48:02.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:48:02.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
