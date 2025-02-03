@@ -9338,3 +9338,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [03Feb2025 01:11:44.504] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2167, y=85, z=53}) doesn't have enough leaves around top most log
 [03Feb2025 01:11:49.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/43794, l='ServerLevel[world]', x=-422.28, y=63.00, z=1061.84] died, message: 'Weaponsmith was slain by viper076'
 [03Feb2025 01:12:33.105] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2183, y=85, z=51}) doesn't have enough leaves around top most log
+[03Feb2025 01:14:01.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43836, l='ServerLevel[world]', x=-406.91, y=62.90, z=1051.31] died, message: 'Unemployed was slain by viper076'
+[03Feb2025 01:14:07.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43838, l='ServerLevel[world]', x=-425.40, y=63.00, z=1052.36] died, message: 'Unemployed was slain by viper076'
+[03Feb2025 01:16:27.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 01:16:27.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 01:17:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Husk
+[03Feb2025 01:18:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> yduerme
+[03Feb2025 01:18:20.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesito oro
+[03Feb2025 01:19:07.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> yzetas hay cofres tuyo
+[03Feb2025 01:21:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> encontre oro
+[03Feb2025 01:21:27.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 01:21:27.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 01:22:46.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46187, l='ServerLevel[world]', x=-2201.74, y=64.00, z=6.60] died, message: 'Unemployed hit the ground too hard'
