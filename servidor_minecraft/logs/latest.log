@@ -562,3 +562,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Feb2025 04:48:56.679] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [04Feb2025 04:49:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Chompy]
 [04Feb2025 04:52:44.638] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[04Feb2025 04:58:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Enchanter]
+[04Feb2025 04:59:13.491] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[04Feb2025 04:59:29.340] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[04Feb2025 05:05:35.916] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18401, l='ServerLevel[world]', x=-418.30, y=68.05, z=1024.51] died, message: 'Unemployed drowned'
