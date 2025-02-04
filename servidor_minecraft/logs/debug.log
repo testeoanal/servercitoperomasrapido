@@ -7443,3 +7443,9 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Feb2025 18:27:23.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 18:32:23.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 18:32:23.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:37:23.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 18:37:23.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:42:23.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 18:42:23.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 18:45:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 13000]
+[04Feb2025 18:45:31.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7873, l='ServerLevel[world]', x=-449.69, y=78.00, z=1122.54] died, message: 'Unemployed was slain by viper076'

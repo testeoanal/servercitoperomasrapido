@@ -553,3 +553,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Feb2025 18:16:55.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
 [04Feb2025 18:16:55.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
 [04Feb2025 18:23:33.034] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[04Feb2025 18:45:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the time to 13000]
+[04Feb2025 18:45:31.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7873, l='ServerLevel[world]', x=-449.69, y=78.00, z=1122.54] died, message: 'Unemployed was slain by viper076'
