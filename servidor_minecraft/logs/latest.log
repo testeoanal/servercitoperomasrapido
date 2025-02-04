@@ -553,3 +553,4 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Feb2025 03:50:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 449 block(s)]
 [04Feb2025 03:52:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> -224 62 1053
 [04Feb2025 03:53:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 170 block(s)]
+[04Feb2025 04:07:02.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11423, l='ServerLevel[world]', x=-415.45, y=63.00, z=1051.11] died, message: 'Unemployed was slain by viper076'
