@@ -7114,3 +7114,18 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [04Feb2025 03:43:44.644] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
 [04Feb2025 03:43:44.644] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,structure_gel:main,sophisticatedbackpacks:channel,sons_of_sins:sons_of_sins,framework:play,cataclysm:main_channel,lionfishapi:main_channel,unusualend:unusualend,forge:tier_sorting,alexsmobs:main_channel,playerrevive:main,waterframes:network,paraglider:master,creativecore:main,ants_unleashed:ants_unleashed,bossominium:bossominium,mutantmonsters:1,create:main,geckolib:main,graveyard:spawn_entity,stalwart_dungeons:stalwart_dungeons,carryon:carryonpackets,endermanoverhaul:main,citadel:main_channel,securitycraft:securitycraft,jeg:play,obscure_api:obscure_api,curios:main,framework:handshake,aquamirae:main,sophisticatedcore:channel] rejected vanilla connections
 [04Feb2025 03:43:44.645] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.114.29.62:61845] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Feb2025 03:45:13.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:45:13.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:49:57.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> -220 65 1045
+[04Feb2025 03:50:12.888] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.unusualend.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04Feb2025 03:50:12.896] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Feb2025 03:50:13.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:50:13.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:50:13.335] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2190ms or 43 ticks
+[04Feb2025 03:50:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 449 block(s)]
+[04Feb2025 03:52:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> -224 62 1053
+[04Feb2025 03:53:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Successfully filled 170 block(s)]
+[04Feb2025 03:55:13.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:55:13.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:00:13.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:00:13.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
