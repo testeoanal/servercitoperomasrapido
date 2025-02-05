@@ -7035,3 +7035,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 02:22:56.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 02:23:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was doomed to fall by Skeleton
 [05Feb2025 02:24:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was shot by Skeleton
+[05Feb2025 02:27:56.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:27:56.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:32:56.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:32:56.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

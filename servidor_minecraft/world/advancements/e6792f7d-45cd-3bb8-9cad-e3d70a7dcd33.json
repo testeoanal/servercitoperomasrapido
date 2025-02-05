@@ -4048,6 +4048,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-05 02:25:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
