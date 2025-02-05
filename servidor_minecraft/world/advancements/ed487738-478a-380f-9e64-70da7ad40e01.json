@@ -7292,9 +7292,39 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2025-02-05 18:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-02-05 18:06:33 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-02-05 17:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-02-05 17:51:40 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-02-05 18:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-05 17:51:27 +0000"
     },
     "done": true
   },
