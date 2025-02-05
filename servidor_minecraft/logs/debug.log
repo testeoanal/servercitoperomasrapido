@@ -7012,3 +7012,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 17:15:37.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 17:15:37.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 17:15:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [The Andesite Age]
+[05Feb2025 17:20:37.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 17:20:37.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 17:22:06.965] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-422, y=64, z=1082}) doesn't have enough leaves around top most log
+[05Feb2025 17:22:14.612] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-422, y=65, z=1082}) doesn't have enough leaves around top most log
+[05Feb2025 17:23:53.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['no matar'/538, l='ServerLevel[world]', x=-418.54, y=63.00, z=1053.54] died: no matar was slain by Iron Golem
+[05Feb2025 17:24:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Bonk!]
+[05Feb2025 17:25:34.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[05Feb2025 17:25:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[05Feb2025 17:25:34.804] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of viper076
+[05Feb2025 17:25:34.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[05Feb2025 17:25:37.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 17:25:37.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

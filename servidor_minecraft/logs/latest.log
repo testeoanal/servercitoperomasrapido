@@ -535,3 +535,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 17:14:56.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
 [05Feb2025 17:15:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
 [05Feb2025 17:15:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [The Andesite Age]
+[05Feb2025 17:23:53.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['no matar'/538, l='ServerLevel[world]', x=-418.54, y=63.00, z=1053.54] died: no matar was slain by Iron Golem
+[05Feb2025 17:24:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Bonk!]
+[05Feb2025 17:25:34.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[05Feb2025 17:25:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[05Feb2025 17:25:34.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
