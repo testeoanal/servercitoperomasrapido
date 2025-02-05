@@ -580,3 +580,17 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 02:56:09.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
 [05Feb2025 02:56:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
 [05Feb2025 02:56:09.533] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[05Feb2025 02:58:04.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:64508] logged in with entity id 16517 at (-427.35853539977194, 63.0, 1052.8964577692368)
+[05Feb2025 02:58:04.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[05Feb2025 02:58:04.720] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[05Feb2025 02:58:05.523] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2611ms or 52 ticks
+[05Feb2025 02:58:05.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[05Feb2025 02:58:05.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[05Feb2025 02:58:07.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[05Feb2025 02:58:08.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[05Feb2025 02:58:08.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
+[05Feb2025 02:58:14.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> termine de jugar cs
+[05Feb2025 03:07:13.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no se donde estas pero si encuentras una anaconda fijate si suelta ´piel al comer
+[05Feb2025 03:07:21.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ok
+[05Feb2025 03:07:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se ra util para hacer una cuerta tipo el viejo oeste
+[05Feb2025 03:07:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y con esa cuerda puedes agarrar cualquier mod
