@@ -735,3 +735,90 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 04:59:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
 [05Feb2025 04:59:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tiene 650 corazones y es muy veloz
 [05Feb2025 04:59:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> queeeeeeeeeee
+[05Feb2025 05:00:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Strength to viper076]
+[05Feb2025 05:00:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 05:00:35.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Spectator Mode]
+[05Feb2025 05:00:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:01:32.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[05Feb2025 05:01:32.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Disconnected
+[05Feb2025 05:01:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Feb2025 05:01:32.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[05Feb2025 05:01:32.727] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 05:01:44.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:54069] logged in with entity id 86822 at (-5558.869182696255, 143.16017123466057, 2256.285009031796)
+[05Feb2025 05:01:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Feb2025 05:01:44.244] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Feb2025 05:01:44.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[05Feb2025 05:01:44.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[05Feb2025 05:01:44.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 moved too quickly! 4.8142280423489865,0.11557916107364008,9.564705392757105
+[05Feb2025 05:01:48.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:01:49.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:01:49.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[05Feb2025 05:01:55.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas fell from a high place
+[05Feb2025 05:02:54.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to zzsetas]
+[05Feb2025 05:03:12.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[05Feb2025 05:03:12.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[05Feb2025 05:03:12.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Feb2025 05:03:12.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[05Feb2025 05:03:22.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:54086] logged in with entity id 87645 at (-5562.45959176261, 140.06816489005828, 2255.649611796499)
+[05Feb2025 05:03:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Feb2025 05:03:22.253] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Feb2025 05:03:22.447] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[05Feb2025 05:03:22.447] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[05Feb2025 05:03:25.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:03:26.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:03:26.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[05Feb2025 05:03:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> puro equipo de mierd en cs ya perdi
+[05Feb2025 05:03:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas fell from a high place
+[05Feb2025 05:03:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tienes mal inter?
+[05Feb2025 05:04:17.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no, me expulsa del server por volar, tengo una cama en una aldea en el cielo, cuando caigo me detecta vuelo
+[05Feb2025 05:04:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[05Feb2025 05:04:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> puedes hacer el coso para planear recuerd
+[05Feb2025 05:04:42.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> palos y cuero
+[05Feb2025 05:04:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta el mod
+[05Feb2025 05:04:52.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[05Feb2025 05:04:52.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[05Feb2025 05:04:52.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Feb2025 05:04:52.533] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[05Feb2025 05:05:01.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:54098] logged in with entity id 88064 at (-5564.06155376858, 122.99445636158256, 2256.5378381866108)
+[05Feb2025 05:05:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Feb2025 05:05:01.407] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Feb2025 05:05:01.549] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[05Feb2025 05:05:01.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[05Feb2025 05:05:05.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:05:06.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:05:06.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[05Feb2025 05:05:24.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5565, y=126, z=2197} BlockPos{x=-5565, y=124, z=2196}
+[05Feb2025 05:05:27.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to zzsetas]
+[05Feb2025 05:06:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:06:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que tan lejos estas
+[05Feb2025 05:06:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> como 7k
+[05Feb2025 05:06:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que
+[05Feb2025 05:06:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Killed viper076]
+[05Feb2025 05:07:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was shot by Skeleton
+[05Feb2025 05:07:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 was killed
+[05Feb2025 05:07:23.405] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2360ms or 47 ticks
+[05Feb2025 05:07:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pasa cord
+[05Feb2025 05:07:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> quieres que vaya?
+[05Feb2025 05:07:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 05:09:33.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:10:22.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> zetas rodealo
+[05Feb2025 05:10:44.221] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[05Feb2025 05:11:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:12:39.925] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2332ms or 46 ticks
+[05Feb2025 05:12:39.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 moved too quickly! -10.754630457214716,0.0,1.7045643766691683
+[05Feb2025 05:12:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:13:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> estoy a3000
+[05Feb2025 05:13:31.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas fell from a high place
+[05Feb2025 05:15:18.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hey usa un barcw
+[05Feb2025 05:15:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> barco
+[05Feb2025 05:15:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> aver si lo atrapas
+[05Feb2025 05:15:29.319] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[05Feb2025 05:16:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:16:20.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ok
+[05Feb2025 05:17:21.758] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4983, y=0, z=2277}
+[05Feb2025 05:17:42.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/100821, l='ServerLevel[world]', x=-5595.50, y=121.00, z=2283.63] died, message: 'Unemployed hit the ground too hard'
+[05Feb2025 05:18:18.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[05Feb2025 05:18:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> rompe los barcos
+[05Feb2025 05:18:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:19:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 05:19:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]

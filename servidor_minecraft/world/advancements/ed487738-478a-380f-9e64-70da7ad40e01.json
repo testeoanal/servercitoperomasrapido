@@ -36,8 +36,11 @@
       "minecraft:frozen_river": "2024-12-28 01:57:19 +0000",
       "minecraft:beach": "2024-12-28 01:53:20 +0000",
       "minecraft:mangrove_swamp": "2024-12-28 02:11:06 +0000",
+      "minecraft:sparse_jungle": "2025-02-05 05:15:42 +0000",
       "minecraft:river": "2024-12-28 01:50:50 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-05 05:14:59 +0000",
       "minecraft:snowy_plains": "2024-12-28 02:04:44 +0000",
+      "minecraft:stony_shore": "2025-02-05 05:12:26 +0000",
       "minecraft:dripstone_caves": "2024-12-28 02:04:48 +0000",
       "minecraft:snowy_taiga": "2024-12-28 01:57:42 +0000",
       "minecraft:grove": "2025-01-02 03:36:26 +0000",
@@ -256,17 +259,24 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-05 04:45:52 +0000",
+      "scrubland": "2025-02-05 05:14:24 +0000",
+      "bayou": "2025-02-05 05:14:34 +0000",
       "highland": "2025-01-05 20:45:31 +0000",
       "cold_desert": "2024-12-28 01:55:03 +0000",
       "old_growth_woodland": "2025-02-05 04:46:08 +0000",
+      "maple_woods": "2025-02-05 05:11:38 +0000",
       "field": "2025-01-02 03:35:12 +0000",
       "coniferous_forest": "2024-12-28 01:53:43 +0000",
       "forested_field": "2025-01-02 03:35:49 +0000",
       "spider_nest": "2025-01-03 03:39:31 +0000",
+      "redwood_forest": "2025-02-05 05:14:18 +0000",
       "visceral_heap": "2025-01-05 20:02:02 +0000",
+      "seasonal_forest": "2025-02-05 05:11:46 +0000",
       "rocky_rainforest": "2025-02-05 04:48:04 +0000",
+      "volcanic_plains": "2025-02-05 05:14:56 +0000",
       "fir_clearing": "2024-12-28 01:53:59 +0000",
       "pumpkin_patch": "2025-01-02 01:24:34 +0000",
+      "prairie": "2025-02-05 05:14:23 +0000",
       "snowy_coniferous_forest": "2024-12-28 01:57:16 +0000",
       "snowy_fir_clearing": "2024-12-28 01:57:25 +0000",
       "gravel_beach": "2024-12-28 01:53:45 +0000",
@@ -6664,6 +6674,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-02-05 05:16:12 +0000"
+    },
+    "done": false
+  },
   "awesomedungeon:mushroom_abandonned/find_normal": {
     "criteria": {
       "requirement": "2025-02-05 03:09:07 +0000"
@@ -6673,6 +6689,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:semi_auto_rifle": {
+    "criteria": {
+      "Item": "2025-02-05 05:09:37 +0000"
     },
     "done": true
   },
@@ -6697,6 +6719,18 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-02-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:makeshift_stock": {
+    "criteria": {
+      "Item": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "jeg:angled_grip": {
+    "criteria": {
+      "Item": "2025-02-05 05:11:10 +0000"
     },
     "done": true
   },
