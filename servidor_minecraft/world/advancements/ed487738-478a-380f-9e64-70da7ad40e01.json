@@ -255,13 +255,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-05 04:45:52 +0000",
       "highland": "2025-01-05 20:45:31 +0000",
       "cold_desert": "2024-12-28 01:55:03 +0000",
+      "old_growth_woodland": "2025-02-05 04:46:08 +0000",
       "field": "2025-01-02 03:35:12 +0000",
       "coniferous_forest": "2024-12-28 01:53:43 +0000",
       "forested_field": "2025-01-02 03:35:49 +0000",
       "spider_nest": "2025-01-03 03:39:31 +0000",
       "visceral_heap": "2025-01-05 20:02:02 +0000",
+      "rocky_rainforest": "2025-02-05 04:48:04 +0000",
       "fir_clearing": "2024-12-28 01:53:59 +0000",
       "pumpkin_patch": "2025-01-02 01:24:34 +0000",
       "snowy_coniferous_forest": "2024-12-28 01:57:16 +0000",

@@ -694,3 +694,25 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 04:38:10.223] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2067ms or 41 ticks
 [05Feb2025 04:39:03.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4553, y=42, z=1651} but found not block entity block Block{minecraft:water}[level=0] at location
 [05Feb2025 04:39:03.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-4553, y=42, z=1651}
+[05Feb2025 04:40:07.719] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2185ms or 43 ticks
+[05Feb2025 04:40:10.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[05Feb2025 04:40:29.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Feb2025 04:40:39.793] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[05Feb2025 04:40:49.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Feb2025 04:41:10.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Feb2025 04:42:00.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Feb2025 04:42:51.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Feb2025 04:43:08.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2769ms or 55 ticks behind
+[05Feb2025 04:43:09.547] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[05Feb2025 04:43:26.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[05Feb2025 04:43:45.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[05Feb2025 04:43:47.353] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[05Feb2025 04:44:03.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[05Feb2025 04:44:55.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Feb2025 04:45:41.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05Feb2025 04:45:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Spectator Mode]
+[05Feb2025 04:45:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to zzsetas]
+[05Feb2025 04:47:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Teleported viper076 to zzsetas]
+[05Feb2025 04:47:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que buscas zetas
+[05Feb2025 04:47:31.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> una aldea
+[05Feb2025 04:47:38.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> para?
