@@ -879,3 +879,105 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 05:29:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> espera
 [05Feb2025 05:30:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> mis cosas estan a 100 bloqu.es, el sigue ahi
 [05Feb2025 05:30:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pues yo no veo nad
+[05Feb2025 05:31:26.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que haras ahora
+[05Feb2025 05:31:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tienes las estatuas no?
+[05Feb2025 05:31:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si
+[05Feb2025 05:31:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira
+[05Feb2025 05:31:55.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> pues es por eso que sali
+[05Feb2025 05:31:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es
+[05Feb2025 05:32:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> a ese no hace nada
+[05Feb2025 05:32:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> huevosd
+[05Feb2025 05:32:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te roba el arma
+[05Feb2025 05:32:45.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> vamos
+[05Feb2025 05:32:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y cuando haras base
+[05Feb2025 05:33:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> cuando vuelva
+[05Feb2025 05:33:10.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde
+[05Feb2025 05:34:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hey
+[05Feb2025 05:34:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> vamos
+[05Feb2025 05:36:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no me gusta la jungla de noche
+[05Feb2025 05:36:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hay que moverse por arriba
+[05Feb2025 05:38:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que haces?
+[05Feb2025 05:39:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> nada
+[05Feb2025 05:39:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ven
+[05Feb2025 05:39:58.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> nada pero casi te matas
+[05Feb2025 05:42:13.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> un mutanrte
+[05Feb2025 05:44:14.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> viper
+[05Feb2025 05:44:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> q
+[05Feb2025 05:44:32.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> estoy muriendo
+[05Feb2025 05:44:39.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> por apurado
+[05Feb2025 05:44:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was blown up by zzsetas
+[05Feb2025 05:45:07.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[05Feb2025 05:45:07.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[05Feb2025 05:45:07.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Feb2025 05:45:07.801] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[05Feb2025 05:45:15.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:54427] logged in with entity id 113934 at (-5565.5516359145695, 143.16017123466057, 2256.3157709198463)
+[05Feb2025 05:45:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Feb2025 05:45:15.207] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Feb2025 05:45:16.012] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[05Feb2025 05:45:16.013] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[05Feb2025 05:45:16.016] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2418ms or 48 ticks
+[05Feb2025 05:45:19.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:45:20.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:45:20.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[05Feb2025 05:45:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ni se donde moriste wer
+[05Feb2025 05:46:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 05:47:09.490] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:47:42.258] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:47:51.407] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4798, y=55, z=2277}
+[05Feb2025 05:49:54.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/112252, l='ServerLevel[world]', x=-4528.52, y=65.00, z=1897.32] died, message: 'Unemployed was slain by Komodo Dragon'
+[05Feb2025 05:50:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has reached the goal [Half a flight]
+[05Feb2025 05:52:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[05Feb2025 05:53:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hey donde as
+[05Feb2025 05:53:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tengo 235 orbes y los voy a usar
+[05Feb2025 05:54:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has reached the goal [Pray to the Goddess]
+[05Feb2025 05:54:29.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has completed the challenge [Hero of Hyrule]
+[05Feb2025 05:57:26.225] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[05Feb2025 05:57:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mucho bicho hostil aqui mejor corre
+[05Feb2025 05:57:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cocodrilos
+[05Feb2025 05:58:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> viper donde estas, te perdiste
+[05Feb2025 05:58:13.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira mapa
+[05Feb2025 05:58:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> estoy volviendo a mi base
+[05Feb2025 06:01:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tienes shaders?
+[05Feb2025 06:01:47.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> aun no
+[05Feb2025 06:02:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tengo 8 mochilas
+[05Feb2025 06:02:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toma
+[05Feb2025 06:02:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has reached the goal [Half a flight]
+[05Feb2025 06:02:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Broken Parts II]
+[05Feb2025 06:03:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> escucho voces
+[05Feb2025 06:03:20.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ven al bote
+[05Feb2025 06:04:21.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zzsetas) moved wrongly! 0.522294096571386
+[05Feb2025 06:04:21.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zzsetas) moved wrongly! 0.8677289204588305
+[05Feb2025 06:04:21.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zzsetas) moved wrongly! 1.1640604190629347
+[05Feb2025 06:04:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si ves huevos de cocodrilos robalos
+[05Feb2025 06:04:38.467] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
+[05Feb2025 06:04:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> se pueden criar
+[05Feb2025 06:07:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Mine? Mine? Mine?]
+[05Feb2025 06:10:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> zetas deja de hacer la de los vagabundos
+[05Feb2025 06:11:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cada que ves un edificio abandonado
+[05Feb2025 06:11:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> qwue hermoso bioma
+[05Feb2025 06:16:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hola
+[05Feb2025 06:16:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> elitras
+[05Feb2025 06:16:27.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 moved too quickly! 3.723972147690745,0.41999998688697815,9.866068368359947
+[05Feb2025 06:16:33.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no tengo, ire luego
+[05Feb2025 06:16:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> necesitaba los corazones para los enderman
+[05Feb2025 06:16:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> veni
+[05Feb2025 06:17:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tengo que explicarte algo
+[05Feb2025 06:17:45.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ya
+[05Feb2025 06:17:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> los que ya estan tradeados estan fijados
+[05Feb2025 06:17:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> la mayoria no
+[05Feb2025 06:17:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> solo tradee con algunos
+[05Feb2025 06:18:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> veni
+[05Feb2025 06:18:14.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> veni
+[05Feb2025 06:18:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ahi hay madera
+[05Feb2025 06:18:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ya
+[05Feb2025 06:18:31.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y afuera de la base hay un chingo de madera si quieres mas
+[05Feb2025 06:18:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tienes herreros?
+[05Feb2025 06:18:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no mates los caimanes
+[05Feb2025 06:18:37.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> son mios
+[05Feb2025 06:19:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> ya
+[05Feb2025 06:19:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> mira lo largo del tunel
+[05Feb2025 06:19:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si quieres criar caimanes en el cofre hay pescado se los das y ponen huevos
+[05Feb2025 06:20:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tnoma
+[05Feb2025 06:20:32.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya tengo pero grax
+[05Feb2025 06:20:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> meh
+[05Feb2025 06:21:12.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> a dormir

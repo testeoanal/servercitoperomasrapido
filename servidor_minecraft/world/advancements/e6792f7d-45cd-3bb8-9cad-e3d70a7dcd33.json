@@ -35,6 +35,7 @@
       "minecraft:taiga": "2025-01-05 03:24:28 +0000",
       "minecraft:frozen_river": "2025-01-05 21:01:48 +0000",
       "minecraft:birch_forest": "2025-02-05 03:56:45 +0000",
+      "minecraft:bamboo_jungle": "2025-02-05 05:41:40 +0000",
       "minecraft:beach": "2025-01-05 02:28:15 +0000",
       "minecraft:sparse_jungle": "2025-02-05 04:39:08 +0000",
       "minecraft:river": "2025-01-05 02:27:38 +0000",
@@ -982,6 +983,7 @@
       "golden_apple": "2025-01-05 02:28:51 +0000",
       "rotten_flesh": "2025-01-05 21:51:10 +0000",
       "glow_berries": "2025-01-05 02:26:05 +0000",
+      "melon_slice": "2025-02-05 05:49:15 +0000",
       "golden_carrot": "2025-01-05 21:31:34 +0000",
       "cooked_chicken": "2025-01-05 02:19:58 +0000"
     },
@@ -2383,7 +2385,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-05 04:21:07 +0000",
+      "scrubland": "2025-02-05 06:00:16 +0000",
       "fungal_jungle": "2025-02-05 04:42:44 +0000",
+      "bayou": "2025-02-05 05:58:15 +0000",
       "erupting_inferno": "2025-01-06 21:32:12 +0000",
       "floodplain": "2025-02-05 04:02:15 +0000",
       "lush_savanna": "2025-02-05 04:31:32 +0000",
@@ -2401,10 +2405,13 @@
       "dryland": "2025-02-05 04:34:04 +0000",
       "lush_desert": "2025-02-05 04:22:56 +0000",
       "visceral_heap": "2025-01-05 20:01:32 +0000",
+      "aspen_glade": "2025-02-05 06:09:27 +0000",
+      "seasonal_forest": "2025-02-05 06:06:11 +0000",
       "volcano": "2025-02-05 04:31:52 +0000",
       "rocky_rainforest": "2025-02-05 04:48:05 +0000",
       "volcanic_plains": "2025-02-05 04:39:05 +0000",
       "fir_clearing": "2025-02-03 00:13:38 +0000",
+      "pumpkin_patch": "2025-02-05 06:10:02 +0000",
       "snowy_coniferous_forest": "2025-02-03 00:28:47 +0000",
       "snowy_fir_clearing": "2025-02-02 23:56:57 +0000",
       "tundra": "2025-02-03 00:30:14 +0000",
@@ -4530,6 +4537,72 @@
   "ecologics:recipes/ecologics/pot": {
     "criteria": {
       "has_terracotta": "2025-02-05 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-02-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-02-05 05:49:58 +0000"
+    },
+    "done": false
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-02-05 06:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-05 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-05 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-05 05:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-05 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-02-05 05:54:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-02-05 06:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-05 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-02-05 06:02:42 +0000"
     },
     "done": true
   },
