@@ -539,3 +539,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 02:02:18.912] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2134ms or 42 ticks
 [05Feb2025 02:06:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has completed the challenge [Find: Mushroom abandonned]
 [05Feb2025 02:12:57.008] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2018ms or 40 ticks
+[05Feb2025 02:22:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was doomed to fall by Skeleton
+[05Feb2025 02:23:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was doomed to fall by Skeleton
+[05Feb2025 02:24:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was shot by Skeleton
