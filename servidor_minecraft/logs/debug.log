@@ -7914,3 +7914,88 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 03:22:56.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 03:27:56.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 03:27:56.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:31:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hey tienes polvo luminoso o piedra
+[05Feb2025 03:31:32.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no
+[05Feb2025 03:31:37.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ok
+[05Feb2025 03:31:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hey estare vendiendo carbon
+[05Feb2025 03:31:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya tengo
+[05Feb2025 03:32:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> con el tunel que hice
+[05Feb2025 03:32:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> fua
+[05Feb2025 03:32:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> 9 stacks
+[05Feb2025 03:32:56.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:32:56.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:37:56.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:37:56.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:38:55.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31876, l='ServerLevel[world]', x=-429.81, y=63.00, z=1175.69] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:39:10.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/33111, l='ServerLevel[world]', x=-433.71, y=63.00, z=1172.21] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:39:14.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31912, l='ServerLevel[world]', x=-431.61, y=63.00, z=1177.30] died, message: 'Unemployed was slain by viper076'
+[05Feb2025 03:40:56.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31730, l='ServerLevel[world]', x=-431.50, y=63.00, z=1152.30] died, message: 'Unemployed was slain by viper076'
+[05Feb2025 03:40:59.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31717, l='ServerLevel[world]', x=-435.39, y=63.00, z=1147.06] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:42:56.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:42:56.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:44:06.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31506, l='ServerLevel[world]', x=-447.07, y=63.00, z=1150.12] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:44:48.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [A Seedy Place]
+[05Feb2025 03:47:44.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31924, l='ServerLevel[world]', x=-444.50, y=63.00, z=1175.70] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:47:50.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31940, l='ServerLevel[world]', x=-458.46, y=63.00, z=1181.24] died, message: 'Fletcher was slain by viper076'
+[05Feb2025 03:47:56.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:47:56.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:48:01.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31946, l='ServerLevel[world]', x=-461.68, y=63.00, z=1173.31] died, message: 'Unemployed was slain by viper076'
+[05Feb2025 03:48:47.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31929, l='ServerLevel[world]', x=-444.50, y=63.00, z=1177.70] died, message: 'Unemployed was slain by viper076'
+[05Feb2025 03:51:38.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ostias un mutante
+[05Feb2025 03:51:53.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Applied effect Strength to viper076]
+[05Feb2025 03:51:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> el esqueleto es facil de matar
+[05Feb2025 03:52:06.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> zombie
+[05Feb2025 03:52:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> esos si son duros
+[05Feb2025 03:52:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> casi destruye mi granja
+[05Feb2025 03:52:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tendre que poner seguridad
+[05Feb2025 03:52:56.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:52:56.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 03:52:57.022] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2054ms or 41 ticks
+[05Feb2025 03:53:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el hdp de un gol,pe puede destruir bloques
+[05Feb2025 03:53:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> creo
+[05Feb2025 03:54:33.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31945, l='ServerLevel[world]', x=-457.50, y=63.00, z=1177.30] died, message: 'Unemployed was slain by viper076'
+[05Feb2025 03:57:56.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 03:57:56.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:01:33.071] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2887, y=55, z=-635}
+[05Feb2025 04:01:36.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2703, y=79, z=-613} BlockPos{x=-2704, y=77, z=-612}
+[05Feb2025 04:01:41.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2732, y=77, z=-614} BlockPos{x=-2732, y=76, z=-613}
+[05Feb2025 04:01:42.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:42.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2736, y=78, z=-614} BlockPos{x=-2735, y=76, z=-614}
+[05Feb2025 04:01:55.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2794, y=70, z=-630} BlockPos{x=-2795, y=68, z=-631}
+[05Feb2025 04:02:20.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Invitation to the Tea Party]
+[05Feb2025 04:02:56.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:02:56.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:03:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> cocodrilo
+[05Feb2025 04:03:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Chompy]
+[05Feb2025 04:05:01.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2883, y=78, z=-645} BlockPos{x=-2884, y=78, z=-646}
+[05Feb2025 04:06:22.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47322, l='ServerLevel[world]', x=-2842.50, y=72.00, z=-634.50]
+[05Feb2025 04:07:56.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:07:56.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:09:29.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48831, l='ServerLevel[world]', x=-2842.50, y=72.00, z=-632.50]
+[05Feb2025 04:09:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[05Feb2025 04:10:15.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya termine
+[05Feb2025 04:10:48.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Source of Evil]
+[05Feb2025 04:11:02.067] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49506, l='ServerLevel[world]', x=-2843.50, y=72.00, z=-632.50]
+[05Feb2025 04:11:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si vienes a base y ves caimanes no los mates son mios
+[05Feb2025 04:11:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Removed every effect from viper076]
+[05Feb2025 04:11:36.948] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[05Feb2025 04:12:57.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:12:57.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:14:20.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50996, l='ServerLevel[world]', x=-2842.50, y=72.00, z=-633.50]
+[05Feb2025 04:16:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde estas zetas
+[05Feb2025 04:17:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> viper
+[05Feb2025 04:17:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> q
+[05Feb2025 04:17:37.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hola
+[05Feb2025 04:17:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola que
+[05Feb2025 04:17:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde estas
+[05Feb2025 04:17:54.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> algo lejos
+[05Feb2025 04:17:57.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 04:17:57.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 04:18:06.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pa cuando una base

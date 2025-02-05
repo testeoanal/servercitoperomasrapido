@@ -34,6 +34,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-05 03:16:36 +0000",
       "minecraft:taiga": "2025-01-05 03:24:28 +0000",
       "minecraft:frozen_river": "2025-01-05 21:01:48 +0000",
+      "minecraft:birch_forest": "2025-02-05 03:56:45 +0000",
       "minecraft:beach": "2025-01-05 02:28:15 +0000",
       "minecraft:river": "2025-01-05 02:27:38 +0000",
       "minecraft:snowy_plains": "2025-01-05 20:55:57 +0000",
@@ -1530,6 +1531,7 @@
       "minecraft:vindicator": "2025-02-03 00:16:41 +0000",
       "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
+      "minecraft:slime": "2025-02-05 04:15:28 +0000",
       "minecraft:wither_skeleton": "2025-01-06 21:34:51 +0000",
       "minecraft:husk": "2025-01-05 02:52:19 +0000",
       "minecraft:shulker": "2025-01-06 02:09:46 +0000",
@@ -2375,10 +2377,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "erupting_inferno": "2025-01-06 21:32:12 +0000",
+      "floodplain": "2025-02-05 04:02:15 +0000",
       "highland": "2025-01-05 20:45:56 +0000",
+      "marsh": "2025-02-05 04:01:59 +0000",
       "cold_desert": "2025-02-02 23:57:37 +0000",
       "maple_woods": "2025-01-05 02:49:19 +0000",
       "field": "2025-01-05 02:36:52 +0000",
+      "overgrown_greens": "2025-02-05 03:56:52 +0000",
       "coniferous_forest": "2025-01-05 03:39:35 +0000",
       "forested_field": "2025-01-05 02:48:30 +0000",
       "visceral_heap": "2025-01-05 20:01:32 +0000",
@@ -2388,6 +2393,7 @@
       "tundra": "2025-02-03 00:30:14 +0000",
       "glowing_grotto": "2025-01-05 02:41:14 +0000",
       "gravel_beach": "2025-02-03 00:31:00 +0000",
+      "rainforest": "2025-02-05 04:17:48 +0000",
       "crag": "2025-01-05 03:17:59 +0000"
     },
     "done": false
@@ -3952,9 +3958,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-02-05 03:04:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -3967,6 +3985,12 @@
   "awesomedungeon:mushroom_abandonned/find_normal": {
     "criteria": {
       "requirement": "2025-02-05 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -3988,9 +4012,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-05 04:05:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -4000,15 +4060,81 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-02-05 03:04:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-05 04:03:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 04:15:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-02-05 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-05 04:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-05 03:04:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 04:15:40 +0000"
     },
     "done": true
   },
@@ -4030,6 +4156,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-05 04:10:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
@@ -4039,6 +4183,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -4057,6 +4207,18 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -4084,6 +4246,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 04:15:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-02-05 03:04:40 +0000"
@@ -4108,9 +4288,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-05 04:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-05 03:04:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-05 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-05 04:14:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-02-05 04:14:00 +0000"
     },
     "done": true
   },
@@ -4129,6 +4333,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-02-05 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-05 04:10:12 +0000"
     },
     "done": true
   },
