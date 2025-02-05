@@ -1537,6 +1537,7 @@
       "minecraft:spider": "2025-01-05 00:14:50 +0000",
       "minecraft:creeper": "2025-01-04 23:55:58 +0000",
       "minecraft:slime": "2025-02-05 04:15:28 +0000",
+      "minecraft:witch": "2025-02-05 04:56:35 +0000",
       "minecraft:wither_skeleton": "2025-01-06 21:34:51 +0000",
       "minecraft:husk": "2025-01-05 02:52:19 +0000",
       "minecraft:shulker": "2025-01-06 02:09:46 +0000",
@@ -4063,6 +4064,12 @@
       "has_netherite_scrap": "2025-02-05 04:05:27 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-02-05 04:56:24 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
