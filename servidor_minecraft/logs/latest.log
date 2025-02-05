@@ -667,3 +667,21 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 04:17:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde estas
 [05Feb2025 04:17:54.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> algo lejos
 [05Feb2025 04:18:06.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pa cuando una base
+[05Feb2025 04:18:50.871] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2117ms or 42 ticks
+[05Feb2025 04:18:52.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[05Feb2025 04:19:10.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[05Feb2025 04:19:24.123] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
+[05Feb2025 04:19:47.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Feb2025 04:20:14.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[05Feb2025 04:20:21.018] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2458ms or 49 ticks
+[05Feb2025 04:25:29.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 04:25:36.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[05Feb2025 04:26:27.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Cover Me with Diamonds]
+[05Feb2025 04:28:03.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62637, l='ServerLevel[world]', x=-3599.50, y=69.00, z=542.50]
+[05Feb2025 04:28:04.396] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3824, y=27, z=656}
+[05Feb2025 04:28:04.410] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3824, y=27, z=656}
+[05Feb2025 04:28:04.424] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3868, y=25, z=656}
+[05Feb2025 04:28:04.426] [Worker-Main-13/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-3868, 25, 656)
+[05Feb2025 04:28:04.427] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3868, y=25, z=656}
+[05Feb2025 04:28:15.960] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2022ms or 40 ticks
+[05Feb2025 04:28:29.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
