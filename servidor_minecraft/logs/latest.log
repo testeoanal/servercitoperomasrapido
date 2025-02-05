@@ -550,3 +550,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 17:37:39.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
 [05Feb2025 17:37:39.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
 [05Feb2025 17:40:11.652] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[05Feb2025 17:47:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[05Feb2025 17:47:47.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
