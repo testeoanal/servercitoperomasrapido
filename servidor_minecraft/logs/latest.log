@@ -822,3 +822,60 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 05:18:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
 [05Feb2025 05:19:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
 [05Feb2025 05:19:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[05Feb2025 05:20:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> saca el agua
+[05Feb2025 05:20:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> esta subiendo
+[05Feb2025 05:20:30.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> xd
+[05Feb2025 05:20:39.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> rapido
+[05Feb2025 05:20:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> es mi estrategia
+[05Feb2025 05:21:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te va a coger
+[05Feb2025 05:21:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> le estoy pegando tiros desde una torre
+[05Feb2025 05:21:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> matarlo de ahogamiento y da\o de caida
+[05Feb2025 05:21:26.860] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:21:31.307] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:21:32.711] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:21:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> ya bajo
+[05Feb2025 05:22:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set the weather to clear]
+[05Feb2025 05:22:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tengo que verlo para que no se mueva
+[05Feb2025 05:22:58.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> puedes ver cuanto le queda
+[05Feb2025 05:23:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no puedo
+[05Feb2025 05:23:28.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Walking Bed
+[05Feb2025 05:23:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> lo mate
+[05Feb2025 05:23:38.587] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2022ms or 40 ticks
+[05Feb2025 05:23:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> bien
+[05Feb2025 05:24:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was shot by Skeleton
+[05Feb2025 05:24:38.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[05Feb2025 05:24:38.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[05Feb2025 05:24:38.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[05Feb2025 05:24:38.379] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[05Feb2025 05:24:45.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:54237] logged in with entity id 104838 at (-5565.376035676946, 143.16017123466057, 2256.068604995758)
+[05Feb2025 05:24:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[05Feb2025 05:24:45.997] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[05Feb2025 05:24:46.179] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[05Feb2025 05:24:46.180] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[05Feb2025 05:24:48.232] [Server thread/INFO] [jeg/]: minecraft:echo_shard
+[05Feb2025 05:24:49.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:24:50.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[05Feb2025 05:24:50.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[05Feb2025 05:24:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> queda uno
+[05Feb2025 05:25:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> otma
+[05Feb2025 05:25:14.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toma
+[05Feb2025 05:25:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> es lo que solto a morir
+[05Feb2025 05:25:32.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> el hueso miralo bien
+[05Feb2025 05:25:43.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> wao
+[05Feb2025 05:25:55.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> pasa bloqueus
+[05Feb2025 05:26:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> tengo 29 corazones
+[05Feb2025 05:26:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> bien
+[05Feb2025 05:26:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> por eso es que yo busco la aldea
+[05Feb2025 05:26:54.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> en mi base hay estatua
+[05Feb2025 05:27:16.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cuando jugamos por primera vez acumule muchos orbes y varias estatuas ni sabian para que sirven
+[05Feb2025 05:28:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si quieres te puedo guiar a volver
+[05Feb2025 05:28:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> sse donde est
+[05Feb2025 05:28:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tienes una CAMA?
+[05Feb2025 05:28:58.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no
+[05Feb2025 05:29:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> catalejo si
+[05Feb2025 05:29:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> COMIDA
+[05Feb2025 05:29:20.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> si
+[05Feb2025 05:29:20.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> tengo medio
+[05Feb2025 05:29:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> espera
+[05Feb2025 05:30:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> mis cosas estan a 100 bloqu.es, el sigue ahi
+[05Feb2025 05:30:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pues yo no veo nad
