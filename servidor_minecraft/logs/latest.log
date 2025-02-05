@@ -542,3 +542,23 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [05Feb2025 02:22:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was doomed to fall by Skeleton
 [05Feb2025 02:23:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was doomed to fall by Skeleton
 [05Feb2025 02:24:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was shot by Skeleton
+[05Feb2025 02:41:26.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fbd10d8[id=<null>,name=viper076,properties={},legacy=false] (/100.113.149.44:64181) lost connection: Disconnected
+[05Feb2025 02:42:28.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:64197] logged in with entity id 10881 at (-445.14943110614956, 63.0, 1100.5781689842177)
+[05Feb2025 02:42:28.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[05Feb2025 02:42:28.304] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[05Feb2025 02:42:29.429] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2507ms or 50 ticks
+[05Feb2025 02:42:29.525] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[05Feb2025 02:42:29.528] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[05Feb2025 02:42:33.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[05Feb2025 02:42:34.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[05Feb2025 02:42:34.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
+[05Feb2025 02:43:08.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11456, l='ServerLevel[world]', x=-2647.50, y=71.00, z=111.50]
+[05Feb2025 02:43:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola zetas
+[05Feb2025 02:43:42.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hola viper
+[05Feb2025 02:44:21.692] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[05Feb2025 02:44:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> donde tas
+[05Feb2025 02:45:00.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no quieres saber
+[05Feb2025 02:45:16.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> end?
+[05Feb2025 02:45:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> so
+[05Feb2025 02:45:39.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> no
+[05Feb2025 02:46:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> toca granja de cultivos
