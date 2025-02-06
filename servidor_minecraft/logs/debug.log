@@ -7010,3 +7010,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 01:19:02.594] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of zzsetas: {disabled=true, disconnected=false, uuid=e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33, name=zzsetas, group=null}
 [06Feb2025 01:19:33.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Feb2025 01:19:33.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 01:24:32.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 01:24:32.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 01:24:33.046] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[06Feb2025 01:25:31.587] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Feb2025 01:25:31.587] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to mdc08ffd$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
+[06Feb2025 01:25:31.587] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to mdc08ffd$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
+[06Feb2025 01:25:31.590] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Feb2025 01:25:31.590] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from netherexp-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Feb2025 01:26:50.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['no matar'/524, l='ServerLevel[world]', x=-418.54, y=63.00, z=1045.46] died: no matar was slain by Iron Golem
+[06Feb2025 01:29:32.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 01:29:32.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
