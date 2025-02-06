@@ -4618,6 +4618,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-06 02:00:23 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-02-06 02:13:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-06 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-06 03:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-06 03:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-06 03:23:30 +0000"
@@ -4636,12 +4666,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-02-06 03:23:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-02-06 03:23:30 +0000"
@@ -4653,30 +4677,6 @@
       "has_item": "2025-02-06 03:23:30 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-02-06 03:23:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-02-06 02:47:32 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_soil_layer": {
-    "criteria": {
-      "has_item": "2025-02-06 02:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-02-06 02:00:23 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {

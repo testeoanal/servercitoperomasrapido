@@ -709,3 +709,58 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 03:33:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> logre crear un taladro
 [06Feb2025 03:33:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pero ahora no se como hacer para que se mueva
 [06Feb2025 03:34:02.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesitaria mod adicionales
+[06Feb2025 03:38:24.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Gave 124 [Andesite Door] to viper076]
+[06Feb2025 03:38:30.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[06Feb2025 03:39:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[06Feb2025 03:39:15.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[06Feb2025 03:39:15.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Disconnected
+[06Feb2025 03:39:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[06Feb2025 03:39:15.315] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[06Feb2025 03:39:15.367] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Feb2025 03:39:25.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:59984] logged in with entity id 57414 at (-1144.2430353464752, -90.3111162392288, -393.9704297020394)
+[06Feb2025 03:39:25.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[06Feb2025 03:39:25.202] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[06Feb2025 03:39:25.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[06Feb2025 03:39:25.467] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[06Feb2025 03:39:29.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[06Feb2025 03:39:29.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas moved too quickly! 0.0,-22.438357621642922,0.0
+[06Feb2025 03:39:30.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[06Feb2025 03:39:30.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[06Feb2025 03:39:33.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[06Feb2025 03:39:33.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[06Feb2025 03:39:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[06Feb2025 03:39:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas fell out of the world
+[06Feb2025 03:39:33.240] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[06Feb2025 03:39:40.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzsetas[/100.116.239.124:59985] logged in with entity id 57552 at (-1144.2383230151386, -401.0784194570897, -395.05898733801416)
+[06Feb2025 03:39:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas joined the game
+[06Feb2025 03:39:40.928] [Server thread/INFO] [Jade/]: Syncing config to zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33)
+[06Feb2025 03:39:41.177] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzsetas (18)
+[06Feb2025 03:39:41.178] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzsetas
+[06Feb2025 03:39:44.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[06Feb2025 03:39:45.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33
+[06Feb2025 03:39:45.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
+[06Feb2025 03:39:45.795] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2038ms or 40 ticks
+[06Feb2025 03:40:14.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Gave 124 [Andesite Alloy] to viper076]
+[06Feb2025 03:40:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que mala suerte zetas
+[06Feb2025 03:40:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y ahora?
+[06Feb2025 03:41:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hey viper perdi todo xd
+[06Feb2025 03:41:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> fijate si el cuerpo quedo arriba
+[06Feb2025 03:41:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> por eso te decia mala suerte
+[06Feb2025 03:41:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> el enderman mutante te manda volando de un golpe
+[06Feb2025 03:41:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hay que guardar las cosas en tu propia base y salir con poco
+[06Feb2025 03:42:01.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> como hago per
+[06Feb2025 03:42:08.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> pero no aprendes me parece
+[06Feb2025 03:43:36.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y ahora?
+[06Feb2025 03:43:58.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> me da mucha flojera comenzar de cero, hasta aqui llego
+[06Feb2025 03:44:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> por no guarda las cosas en base y irte con todo
+[06Feb2025 03:44:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> nimodo buenas noches
+[06Feb2025 03:45:00.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Gave 100 [Sand] to viper076]
+[06Feb2025 03:45:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hey
+[06Feb2025 03:45:08.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> igual en mi base hay armaduras
+[06Feb2025 03:45:14.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> y todo de sobra
+[06Feb2025 03:45:40.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas was kicked for floating too long!
+[06Feb2025 03:45:40.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzsetas lost connection: Flying is not enabled on this server
+[06Feb2025 03:45:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas left the game
+[06Feb2025 03:45:40.412] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzsetas
+[06Feb2025 03:46:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[06Feb2025 03:46:45.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
