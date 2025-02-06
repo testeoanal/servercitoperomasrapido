@@ -602,3 +602,12 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 02:33:18.917] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
 [06Feb2025 02:33:31.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesito blaze
 [06Feb2025 02:33:53.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> destruyo mi cama xd
+[06Feb2025 02:37:50.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> cine
+[06Feb2025 02:41:06.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=54, z=1277} BlockPos{x=-487, y=53, z=1277}
+[06Feb2025 02:41:12.059] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[06Feb2025 02:41:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[06Feb2025 02:41:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[06Feb2025 02:41:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
+[06Feb2025 02:43:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> necesito un blaze
+[06Feb2025 02:44:33.048] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[06Feb2025 02:45:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
