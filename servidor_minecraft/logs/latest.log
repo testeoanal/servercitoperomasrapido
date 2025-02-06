@@ -569,3 +569,15 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 02:09:47.251] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [06Feb2025 02:10:04.704] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [06Feb2025 02:10:19.644] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 02:21:56.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:50190] logged in with entity id 15790 at (-411.6000276764738, 63.0, 1051.699999988079)
+[06Feb2025 02:21:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[06Feb2025 02:21:56.048] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[06Feb2025 02:21:56.837] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[06Feb2025 02:21:56.839] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[06Feb2025 02:21:56.843] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2161ms or 43 ticks
+[06Feb2025 02:21:58.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[06Feb2025 02:21:59.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[06Feb2025 02:21:59.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
+[06Feb2025 02:23:07.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has reached the goal [My Brother]
+[06Feb2025 02:23:22.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> acabo de hacer la espada de guts
+[06Feb2025 02:23:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> todo my brother ,

@@ -2577,6 +2577,7 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "shadow_assassin_scythe": "2025-01-06 02:37:49 +0000",
+      "guts": "2025-02-06 02:23:07 +0000",
       "bluemoon_short": "2025-01-05 04:01:19 +0000",
       "darkin_scythe": "2025-01-02 18:36:29 +0000"
     },
@@ -7306,9 +7307,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-02-06 02:24:29 +0000",
       "1": "2025-02-05 17:51:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
@@ -7325,6 +7327,12 @@
   "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
       "has_item": "2025-02-05 18:07:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2025-02-06 02:23:07 +0000"
     },
     "done": true
   },

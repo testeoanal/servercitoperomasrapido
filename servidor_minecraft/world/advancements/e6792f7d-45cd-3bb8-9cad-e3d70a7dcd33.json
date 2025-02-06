@@ -4618,6 +4618,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-02-06 02:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-02-06 02:00:23 +0000"
