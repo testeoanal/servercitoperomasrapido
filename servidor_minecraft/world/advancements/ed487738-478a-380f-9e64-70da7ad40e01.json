@@ -681,6 +681,7 @@
       "minecraft:vindicator": "2025-02-04 18:46:09 +0000",
       "minecraft:spider": "2025-01-03 03:20:44 +0000",
       "minecraft:creeper": "2025-01-03 03:20:43 +0000",
+      "minecraft:phantom": "2025-02-06 02:27:08 +0000",
       "minecraft:zombified_piglin": "2025-01-05 04:54:25 +0000",
       "minecraft:witch": "2025-02-05 05:40:19 +0000",
       "minecraft:wither_skeleton": "2025-01-05 21:57:49 +0000",
@@ -7327,6 +7328,12 @@
   "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
       "has_item": "2025-02-05 18:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-06 02:25:48 +0000"
     },
     "done": true
   },
