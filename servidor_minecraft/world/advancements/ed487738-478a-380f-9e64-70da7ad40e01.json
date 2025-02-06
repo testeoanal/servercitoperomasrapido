@@ -267,6 +267,7 @@
       "cold_desert": "2024-12-28 01:55:03 +0000",
       "old_growth_woodland": "2025-02-05 04:46:08 +0000",
       "maple_woods": "2025-02-05 05:11:38 +0000",
+      "crystalline_chasm": "2025-02-06 02:47:30 +0000",
       "field": "2025-01-02 03:35:12 +0000",
       "mediterranean_forest": "2025-02-05 05:55:02 +0000",
       "coniferous_forest": "2024-12-28 01:53:43 +0000",
@@ -7331,9 +7332,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-06 02:48:06 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-06 02:48:21 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-02-06 02:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-06 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/quartz/quartz_crystal_block": {
+    "criteria": {
+      "has_item": "2025-02-06 02:49:04 +0000"
     },
     "done": true
   },
@@ -7346,6 +7371,18 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-02-06 02:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-06 02:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-06 02:48:06 +0000"
     },
     "done": true
   },

@@ -4618,6 +4618,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-06 02:47:32 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
       "has_item": "2025-02-06 02:13:12 +0000"

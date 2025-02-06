@@ -8487,3 +8487,34 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 02:45:01.523] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeRegistryHelper@12e83772 for service interface com.cerbon.cerbons_api.platform.services.IRegistryHelper
 [06Feb2025 02:45:01.524] [Server thread/DEBUG] [com.cerbon.cerbons_api.util.Constants/]: Loaded com.cerbon.cerbons_api.forge.platform.ForgeCapabilityHelper@6b0ccfdf for service interface com.cerbon.cerbons_api.platform.services.ICapabilityHelper
 [06Feb2025 02:45:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
+[06Feb2025 02:45:43.640] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[06Feb2025 02:46:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Creative Mode]
+[06Feb2025 02:46:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
+[06Feb2025 02:46:45.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> que suerte
+[06Feb2025 02:46:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hay fortaleza cerca
+[06Feb2025 02:47:06.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [A Terrible Fortress]
+[06Feb2025 02:47:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus 's Magic
+[06Feb2025 02:47:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> te estan copgiendo zetas
+[06Feb2025 02:47:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus
+[06Feb2025 02:48:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> si, mata de un golpe y regenera vida
+[06Feb2025 02:48:06.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 has made the advancement [Spooky Scary Skeleton]
+[06Feb2025 02:48:39.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus
+[06Feb2025 02:49:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus
+[06Feb2025 02:49:26.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [viper076: Set own game mode to Survival Mode]
+[06Feb2025 02:49:31.394] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2417ms or 48 ticks
+[06Feb2025 02:49:32.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 02:49:32.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 02:49:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
+[06Feb2025 02:50:24.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2065ms or 41 ticks
+[06Feb2025 02:50:32.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus
+[06Feb2025 02:51:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus
+[06Feb2025 02:51:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was cursed by Maledictus 's Arrow
+[06Feb2025 02:52:48.685] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[06Feb2025 02:53:06.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> me harto este boss, no porque sea dificil, sino porque spamea un ataque de agarre que no te deja hacer nada
+[06Feb2025 02:53:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no ubo huevos
+[06Feb2025 02:54:32.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 02:54:32.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 02:55:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> nimodo toca ir a minar o explorar
+[06Feb2025 02:55:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no tengo zinc
+[06Feb2025 02:55:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas was slain by Maledictus
+[06Feb2025 02:55:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> manda coord
