@@ -7386,6 +7386,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-06 03:46:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-02-06 03:28:39 +0000"
@@ -7407,6 +7413,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-02-06 03:28:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-02-06 03:47:17 +0000"
     },
     "done": true
   },
@@ -7452,6 +7464,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_the_recipe": "2025-02-06 03:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-06 02:47:06 +0000"
@@ -7479,6 +7497,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-02-06 03:29:39 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-06 03:46:39 +0000"
     },
     "done": true
   },
@@ -7572,6 +7596,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-06 03:46:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2025-02-06 03:29:52 +0000"
@@ -7593,6 +7623,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-02-06 03:29:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-06 03:47:17 +0000"
     },
     "done": true
   },
