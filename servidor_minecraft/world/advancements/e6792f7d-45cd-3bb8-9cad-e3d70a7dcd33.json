@@ -4546,18 +4546,6 @@
     },
     "done": false
   },
-  "repurposed_structures:villages": {
-    "criteria": {
-      "in_village_jungle": "2025-02-05 05:49:58 +0000"
-    },
-    "done": false
-  },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-02-05 06:02:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-05 05:49:10 +0000"
@@ -4570,15 +4558,21 @@
     },
     "done": true
   },
-  "paraglider:pray_to_the_goddess": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "bargain": "2025-02-05 05:54:20 +0000"
+      "has_melon": "2025-02-05 05:49:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "repurposed_structures:villages": {
     "criteria": {
-      "has_pumpkin": "2025-02-05 06:10:23 +0000"
+      "in_village_jungle": "2025-02-05 05:49:58 +0000"
+    },
+    "done": false
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-05 05:54:20 +0000"
     },
     "done": true
   },
@@ -4588,21 +4582,27 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-02-05 06:02:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-02-05 06:02:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-02-05 05:49:10 +0000"
-    },
-    "done": true
-  },
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-02-05 06:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-05 06:10:23 +0000"
     },
     "done": true
   },
