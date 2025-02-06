@@ -542,3 +542,6 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 01:19:02.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzsetas (e6792f7d-45cd-3bb8-9cad-e3d70a7dcd33) successfully connected to voice chat
 [06Feb2025 01:24:33.046] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
 [06Feb2025 01:26:50.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['no matar'/524, l='ServerLevel[world]', x=-418.54, y=63.00, z=1045.46] died: no matar was slain by Iron Golem
+[06Feb2025 01:34:31.101] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2149ms or 42 ticks
+[06Feb2025 01:38:03.851] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 01:38:09.259] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
