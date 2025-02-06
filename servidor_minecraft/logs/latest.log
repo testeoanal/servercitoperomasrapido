@@ -549,3 +549,23 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 01:46:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Frosted Prison]
 [06Feb2025 01:57:33.272] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [06Feb2025 01:57:53.396] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 02:07:57.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:49695] logged in with entity id 12370 at (-429.43175477509163, 63.0, 1075.841241021841)
+[06Feb2025 02:07:57.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[06Feb2025 02:07:57.616] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[06Feb2025 02:07:58.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[06Feb2025 02:07:58.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[06Feb2025 02:07:58.404] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2393ms or 47 ticks
+[06Feb2025 02:08:01.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[06Feb2025 02:08:02.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[06Feb2025 02:08:02.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
+[06Feb2025 02:08:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> hola zetas
+[06Feb2025 02:08:27.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> putos golens
+[06Feb2025 02:08:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zzsetas> hola viper
+[06Feb2025 02:08:33.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <viper076> no saben hacer su trabajo
+[06Feb2025 02:09:22.277] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 02:09:47.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: viper076 lost connection: Disconnected
+[06Feb2025 02:09:47.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 left the game
+[06Feb2025 02:09:47.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client viper076
+[06Feb2025 02:09:47.251] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 02:10:04.704] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 02:10:19.644] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
