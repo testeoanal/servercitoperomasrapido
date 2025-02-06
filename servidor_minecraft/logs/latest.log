@@ -547,3 +547,5 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [06Feb2025 01:38:09.259] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
 [06Feb2025 01:44:56.543] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2228ms or 44 ticks
 [06Feb2025 01:46:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzsetas has made the advancement [Frosted Prison]
+[06Feb2025 01:57:33.272] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[06Feb2025 01:57:53.396] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
