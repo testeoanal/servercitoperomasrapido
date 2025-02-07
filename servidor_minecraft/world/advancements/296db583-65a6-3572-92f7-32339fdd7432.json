@@ -469,7 +469,8 @@
     "criteria": {
       "cold_desert": "2025-02-07 22:40:50 +0000",
       "field": "2025-02-07 22:42:20 +0000",
-      "coniferous_forest": "2025-02-07 22:49:42 +0000"
+      "coniferous_forest": "2025-02-07 22:49:42 +0000",
+      "snowy_fir_clearing": "2025-02-07 23:24:07 +0000"
     },
     "done": false
   },
@@ -1244,6 +1245,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-07 23:09:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-07 23:24:00 +0000"
     },
     "done": true
   },
