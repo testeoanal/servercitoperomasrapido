@@ -674,3 +674,72 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Feb2025 22:58:09.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
 [07Feb2025 22:59:33.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato moved too quickly! 0.4078719728856868,2.1661092609382138,9.83159754056453
 [07Feb2025 23:00:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato has made the advancement [Monster Hunter]
+[07Feb2025 23:02:41.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 296db583-65a6-3572-92f7-32339fdd7432 timed out
+[07Feb2025 23:02:41.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Leonlobato
+[07Feb2025 23:02:41.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:02:42.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato moved too quickly! 6.459208481263261,-1.0,-7.645583270700172
+[07Feb2025 23:02:44.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:02:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:02:44.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 23:03:20.520] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4efc5cd8[id=<null>,name=Leonlobato,properties={},legacy=false] (/100.121.162.91:49375) lost connection: Disconnected
+[07Feb2025 23:03:28.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49377] logged in with entity id 10799 at (-229.36262427843448, 69.0, 668.4529195080913)
+[07Feb2025 23:03:28.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:03:28.045] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:03:28.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:03:28.849] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:03:40.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:03:42.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:03:42.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:04:13.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:04:13.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:04:13.927] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 23:04:34.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49383] logged in with entity id 11081 at (-233.84353351328704, 70.5625, 666.9878383282274)
+[07Feb2025 23:04:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:04:34.195] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:04:34.994] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:04:34.996] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:04:44.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:04:45.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:04:45.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:05:01.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 296db583-65a6-3572-92f7-32339fdd7432 timed out
+[07Feb2025 23:05:01.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Leonlobato
+[07Feb2025 23:05:01.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:05:02.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato moved too quickly! -10.107981255126674,0.4375,-1.4632739590202846
+[07Feb2025 23:05:03.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:05:04.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:05:04.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:06:50.423] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[07Feb2025 23:06:57.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:06:57.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:06:57.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 23:07:23.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49422] logged in with entity id 11666 at (-291.2305181096912, 63.0, 665.873019093558)
+[07Feb2025 23:07:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:07:23.845] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:07:24.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:07:24.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:07:36.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:07:37.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:07:37.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:08:02.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:08:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:08:02.379] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 23:08:20.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49434] logged in with entity id 11929 at (-291.2305181096912, 63.0, 665.873019093558)
+[07Feb2025 23:08:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:08:20.445] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:08:21.153] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:08:21.153] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:08:33.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:08:34.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:08:34.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:10:05.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:10:05.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:10:05.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 23:11:13.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49482] logged in with entity id 12396 at (-324.69999998807907, 70.5625, 667.544592951658)
+[07Feb2025 23:11:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:11:13.246] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:11:14.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:11:14.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:11:14.007] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[07Feb2025 23:11:33.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:11:34.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:11:34.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
