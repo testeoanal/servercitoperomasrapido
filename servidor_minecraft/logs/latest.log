@@ -588,3 +588,37 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Feb2025 22:40:07.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
 [07Feb2025 22:40:08.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
 [07Feb2025 22:40:08.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 22:42:01.027] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
+[07Feb2025 22:47:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato has made the advancement [Chompy]
+[07Feb2025 22:47:16.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato was slain by Crocodile
+[07Feb2025 22:50:15.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 22:50:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 22:50:15.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
+[07Feb2025 22:50:31.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49245] logged in with entity id 7396 at (-296.8302306381968, 62.51671601284586, 506.69132774804854)
+[07Feb2025 22:50:31.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 22:50:31.142] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 22:50:31.857] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 22:50:31.857] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 22:50:37.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 22:50:38.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 22:50:38.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 22:50:55.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato moved too quickly! -2.33109048228431,1.7002683428226817,9.792203211524907
+[07Feb2025 22:50:59.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:50:59.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:51:00.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato was kicked for floating too long!
+[07Feb2025 22:51:00.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Flying is not enabled on this server
+[07Feb2025 22:51:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 22:51:00.080] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
