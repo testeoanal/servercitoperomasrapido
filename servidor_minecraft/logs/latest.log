@@ -867,3 +867,14 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Feb2025 23:30:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
 [07Feb2025 23:30:32.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
 [07Feb2025 23:46:50.394] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
+[07Feb2025 23:52:11.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leonlobato[/100.121.162.91:49899] logged in with entity id 16221 at (-519.3000000119209, 79.0, 615.2592769131622)
+[07Feb2025 23:52:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato joined the game
+[07Feb2025 23:52:11.148] [Server thread/INFO] [Jade/]: Syncing config to Leonlobato (296db583-65a6-3572-92f7-32339fdd7432)
+[07Feb2025 23:52:11.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Leonlobato (18)
+[07Feb2025 23:52:11.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Leonlobato
+[07Feb2025 23:52:36.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:52:45.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 296db583-65a6-3572-92f7-32339fdd7432
+[07Feb2025 23:52:45.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Leonlobato (296db583-65a6-3572-92f7-32339fdd7432) successfully connected to voice chat
+[07Feb2025 23:52:45.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonlobato lost connection: Timed out
+[07Feb2025 23:52:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonlobato left the game
+[07Feb2025 23:52:45.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonlobato
