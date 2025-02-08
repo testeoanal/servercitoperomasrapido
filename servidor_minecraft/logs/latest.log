@@ -1,1 +1,10 @@
 [08Feb2025 00:41:50.389] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2109ms or 42 ticks
+[08Feb2025 01:52:13.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: viper076[/100.113.149.44:51064] logged in with entity id 16455 at (-434.8471933141448, 65.0, 1079.404490515482)
+[08Feb2025 01:52:13.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: viper076 joined the game
+[08Feb2025 01:52:13.175] [Server thread/INFO] [Jade/]: Syncing config to viper076 (ed487738-478a-380f-9e64-70da7ad40e01)
+[08Feb2025 01:52:13.896] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of viper076 (18)
+[08Feb2025 01:52:13.896] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to viper076
+[08Feb2025 01:52:13.897] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2514ms or 50 ticks
+[08Feb2025 01:52:16.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed487738-478a-380f-9e64-70da7ad40e01
+[08Feb2025 01:52:17.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed487738-478a-380f-9e64-70da7ad40e01
+[08Feb2025 01:52:17.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player viper076 (ed487738-478a-380f-9e64-70da7ad40e01) successfully connected to voice chat
