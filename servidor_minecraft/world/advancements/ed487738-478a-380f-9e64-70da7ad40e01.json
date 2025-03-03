@@ -260,9 +260,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-03-03 17:43:02 +0000",
       "woodland": "2025-02-05 04:45:52 +0000",
+      "snowblossom_grove": "2025-03-03 17:43:00 +0000",
       "scrubland": "2025-02-05 05:14:24 +0000",
       "bayou": "2025-02-05 05:14:34 +0000",
+      "floodplain": "2025-03-03 17:43:36 +0000",
       "highland": "2025-01-05 20:45:31 +0000",
       "cold_desert": "2024-12-28 01:55:03 +0000",
       "old_growth_woodland": "2025-02-05 04:46:08 +0000",
