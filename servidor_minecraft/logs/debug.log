@@ -6757,3 +6757,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [07Mar2025 18:02:47.528] [Server thread/DEBUG] [mixin/]: Mixing EnchantmentHelperMixin from soulsweapons.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
 [07Mar2025 18:07:47.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 18:07:47.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:12:47.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:12:47.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:17:47.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:17:47.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
